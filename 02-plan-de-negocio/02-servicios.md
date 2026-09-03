@@ -9,6 +9,12 @@ Cada servicio se ofrece bajo el mismo estándar: **diagnóstico técnico → pre
 partidas → ejecución supervisada → pruebas → entrega con garantía por escrito**
 (Método RemodelaT, ver [`06-operaciones.md`](06-operaciones.md)).
 
+### Qué NO hacemos (Rubén, 2026-09-03)
+
+- Realizamos **todo tipo de trabajos de reforma** (vivienda), pero **no somos una empresa
+  de mantenimiento**: no hacemos micro-arreglos puntuales (p. ej. cambiar un enchufe o
+  una lámpara). Ese trabajo es de otro tipo de empresa.
+
 ## Núcleo comercial (foco: viviendas)
 
 | Servicio | Contenido (a detallar con plantillas) | Precio |

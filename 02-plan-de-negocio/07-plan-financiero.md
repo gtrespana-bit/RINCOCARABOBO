@@ -126,8 +126,11 @@ pequeñas-equivalentes/mes en la segunda mitad del año.
       (1 obra/mes → 2–3 en paralelo; sin subcontratas) cerrados con Rubén (2026-09-03).
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
-- [ ] Montar **hoja de tesorería mensual de arranque** (meses previos a primera obra) con
-      los gastos de §5.1 + retribución neta 1.600 €/mes y la rampa de obras (1 → 2-3).
+- [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) con los gastos
+      de §5.1 + retribución neta 1.600 €/mes y la rampa de obras → ver
+      [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
+      Conclusión: con 20 obras saldo ≈ +966 €; para colchón cómodo 21–23 obras/año
+      (98–108 k€) o margen real mayor (plantilla propia).
 - [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
       gestión/proyecto) — Rubén lo validó "por el momento" como está (2026-09-03).
 - [ ] Costear servicios secundarios (pintura, suelos, revestimientos…).

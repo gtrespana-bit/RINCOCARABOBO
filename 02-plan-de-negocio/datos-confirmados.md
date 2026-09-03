@@ -64,6 +64,14 @@
 | Subcontratación | **NO subcontratar**: si se necesita y se justifica, **ampliar plantilla propia** | Sustituye al modelo "plantilla + subcontratas" de los borradores 00/01/06 |
 | Política de contingencias | **Precios cerrados** para el alcance pactado. Imprevistos ocultos (p. ej. fugas/humedades al demoler) o cambios del propietario → **se documentan y presupuestan como modificación; el cliente decide**. La empresa **no asume gastos que correspondan al cliente** | Ajusta la propuesta de reserva interna de la política ([04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)): sin absorción por la empresa |
 
+## Aportaciones — 2026-09-03 (7.ª tanda: alcance de servicios, tesorería y costes locales)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Alcance del catálogo | **Todo tipo de trabajos** de reforma, pero **NO empresa de mantenimiento** ni micro-arreglos (p. ej. cambiar 1 enchufe o 1 lámpara) | Anotado en `02-servicios.md` ("Qué NO hacemos") |
+| Costes locales (punto 2) | **Dado por confirmado "por el momento"** (rangos investigados 2026-09-03) | Presupuestos reales (gestoría/seguros/centro) cuando Rubén esté en A Coruña |
+| Tesorería de arranque (punto 1) | Encargada y hecha: [hoja mensual dic-26 → dic-27](../../04-finanzas/tesoreria-arranque-2026-2027.md) | Plan base 20 obras → saldo ≈ +966 €; objetivo exige 21–23 obras o margen real mayor |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

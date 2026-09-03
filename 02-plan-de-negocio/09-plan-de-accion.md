@@ -8,7 +8,7 @@
 
 | # | Tarea | Detalle | Resp. | Estado |
 |---|---|---|---|---|
-| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo con CotizaT y retribución/objetivo/capacidad fijados (2026-09-03). Falta: **hoja de tesorería de arranque** | R | `[EN CURSO]` |
+| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo CotizaT, retribución/objetivo/capacidad y **hoja de tesorería de arranque** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: afinar supuestos con presupuestos reales | R | `[EN CURSO]` |
 | A2 | Elegir gestoría en A Coruña | 3 presupuestos (constitución S.L. + contabilidad mensual) | R | `[PENDIENTE]` |
 | A3 | Validar denominación "RemodelaT Coruña S.L." | Disponibilidad en Registro Mercantil (vía gestoría) | R/gestoría | `[PENDIENTE]` |
 | A4 | Decidir identidad visual y dominio | ¿Heredar marca RemodelaT (logo/paleta) o crear? Dominio .es | R | `[PENDIENTE]` |
