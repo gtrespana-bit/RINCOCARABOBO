@@ -22,6 +22,10 @@ en Markdown. Cada sección se crea como archivo propio y se va completando por f
 
 - La **experiencia previa de Rubén** (Las Palmas, Madrid y Venezuela) puede servir como
   material de referencia para varias secciones: precios, procesos de obra, errores a evitar.
+- `referencias/` guarda análisis de material previo. Ver
+  [inventario de la web RemodelaT Venezuela](referencias/2026-09-03_inventario-reformat-venezuela.md):
+  método de trabajo, proyectos reales, blog y marketing — fuente clave para este plan y
+  para la futura web de Coruña.
 - Si se quiere guardar **planes o documentos de proyectos anteriores** como referencia,
   crear aquí la subcarpeta `referencias/` y archivarlos con nombre y fecha.
   ⚠️ No incluir datos confidenciales de clientes ni de las empresas anteriores.
