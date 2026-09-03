@@ -160,8 +160,9 @@ grande. Las 1–2 primeras obras las hace Rubén (agendadas). Grandes **en caden
 la siguiente durante la actual, ~3 meses de margen). **Sin subcontratación**: ampliar
 plantilla si la carga lo justifica. **El límite real es la captación** (3–4 pequeñas/mes
 + 1 grande cada ~3 meses) → por eso el marketing es la palanca del año 1. Los PVP
-propuestos quedan `[PENDIENTE]` de validar con Rubén (bandas de la
-[calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md)).
+recalibrados están **validados por Rubén (2026-09-03)** (bandas de la
+[calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md)); no se generan
+presupuestos tipo a cliente — las ofertas reales salen de CotizaT + esas bandas.
 
 ## 6. Financiación
 
@@ -178,7 +179,7 @@ propuestos quedan `[PENDIENTE]` de validar con Rubén (bandas de la
       (oficial+ayudante) hasta 4 pequeñas/mes; Grupo 2 dedicado a la obra grande
       (obra grande = piso ~100 m², costeada) cuando salga; sin subcontratas. Objetivo
       año 1: caso tipo **≈ 299 k€ s/IVA** con precios de mercado (recalibración
-      `[PENDIENTE]` de validar).
+      **validada por Rubén el 2026-09-03**).
 - [x] Costes laborales reales calculados (2026-09-03): convenio construcción A Coruña
       2026 + SS 2026 → grupo ≈ 5.030 €/mes (4.948–5.110). CotizaT queda como generador
       comercial (sus precios/hora son tarifa facturada, no coste interno). Ver
@@ -186,13 +187,15 @@ propuestos quedan `[PENDIENTE]` de validar con Rubén (bandas de la
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
 - [ ] **Cerrar régimen objetivo** con las [puertas de contratación](../../04-finanzas/tesoreria-arranque-2026-2027.md)
-      (§7–8, sin trabajadores parados) y los **PVP recalibrados validados**: régimen de
+      (§7–8, sin trabajadores parados) y los **PVP recalibrados (validados por Rubén
+      2026-09-03)**: régimen de
       **2 grupos en cadena** ≈ +10.000 €/mes cuando ambos rinden → caso tipo año 1
       ≈ **+77.400 €** antes de impuestos. Confirmar modalidad de contratación y
       CNAE/AT-EP con la gestoría; la palanca real es la captación (cerrar 3–4
       pequeñas/mes y 1 grande cada ~3 meses).
-- [ ] **Validar la recalibración de precios** con Rubén (bandas 2026) y el tipo de IVA
-      con la gestoría (10 % vs 21 %) → [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md).
+- [x] **Recalibración de precios validada por Rubén (2026-09-03)** (bandas 2026 →
+      [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md)). Pendiente solo
+      el **tipo de IVA (10 % vs 21 %)** con la gestoría.
 - [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v4 con modelo
       de grupos + coste laboral real + precios de mercado + **caso tipo mes a mes** en
       [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md)

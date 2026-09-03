@@ -171,7 +171,10 @@ dimensionar:
 
 - [ ] Confirmar alcance/mediciones reales con Rubén (¿incluye ventanas, tabiques,
       calefacción…? "etc." del encargo).
-- [ ] Convertir este escenario en **presupuesto tipo de obra grande** (plantilla).
+- [x] Decisión (Rubén, 2026-09-03): **no generar presupuesto tipo a cliente** — al salir una
+      obra grande se presupuesta con medición real (CotizaT) fijando el PVP en la banda del
+      tarifario ([calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md));
+      esta ficha sirve para dimensionar precio/tiempo y decidir el Grupo 2.
 - [ ] Alimentar la [tesorería §5](tesoreria-arranque-2026-2027.md): obra grande concreta
       (≈ 37.500 € s/IVA ≈ 41.000 € c/IVA al 10 %, margen ≈ 85 % sobre coste directo) y la
       decisión del Grupo 2.

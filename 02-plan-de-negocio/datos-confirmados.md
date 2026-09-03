@@ -151,8 +151,16 @@
 |---|---|---|
 | Corrección de precios (Rubén) | Los presupuestos modelo usan **precios 20–30 % por debajo del mercado 2026**: *"colocar un suelo cerámico es 24 €/m² como barato; demoler un suelo es 15,50 €/m² como barato"* | CotizaT vale como base de **mediciones**, pero aplicando su margen tipo se queda corto → **no volver a presupuestar con los PVP antiguos** |
 | Investigación de mercado 2026 | Hecha por partida y por obra completa → [calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md): suelo colocado **26–32 €/m²** · demolición **16–22 €/m²** · alicatado **28–35 €/m²** · baño **5.800–6.400 € s/IVA** · cocina **5.000–6.000 € s/IVA** · piso 100 **36.000–39.000 € s/IVA** · integral 80 **29.000–32.000 € s/IVA** | Fuentes 2026: presunow, preciom2, habitissimo, cronoshare, ponersuelosmadrid, CYPE/generadordeprecios, lebenproyectos, reformas10, reformatucasa, obrazo, reformatch, wollyhome, cociexpres |
-| Nueva unidad económica (PVP de mercado) | Pequeña media ≈ **5.900 € s/IVA** → contribución ≈ **3.500 €/obra** · piso 100 ≈ **37.500 € s/IVA** → bruto ≈ **26.478 €/obra** · **caso tipo 38 peq + 2 grandes ≈ 299.200 € s/IVA → ≈ + 77.400 € antes de impuestos**, caja mínima ≈ 7.000 €, final ≈ 83.500 € | `[PENDIENTE]` validar bandas con Rubén e IVA (10 % vivienda habitual vs 21 %) con la gestoría. El margen alto es legítimo: MO propia a convenio frente a la tarifa de mercado que paga el cliente |
+| Nueva unidad económica (PVP de mercado) | Pequeña media ≈ **5.900 € s/IVA** → contribución ≈ **3.500 €/obra** · piso 100 ≈ **37.500 € s/IVA** → bruto ≈ **26.478 €/obra** · **caso tipo 38 peq + 2 grandes ≈ 299.200 € s/IVA → ≈ + 77.400 € antes de impuestos**, caja mínima ≈ 7.000 €, final ≈ 83.500 € | Bandas **confirmadas por Rubén** (17.ª tanda). Pendiente solo: IVA (10 % vivienda habitual vs 21 %) con la gestoría. El margen alto es legítimo: MO propia a convenio frente a la tarifa de mercado que paga el cliente |
 | Estado del modelo | Tesorería en **v4** con PVP de mercado (caso tipo mes a mes en §7, sensibilidad en §8); fichas de obra y plan financiero **recalibrados** | Sustituyen al caso tipo 234 k€ (15.ª tanda) en todo el repo salvo en este registro histórico |
+
+## Aportaciones — 2026-09-03 (17.ª tanda: Rubén confirma los rangos y decide no hacer presupuestos tipo)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Rangos de precio 2026 | **Confirmados por Rubén**: suelo colocado 26–32 €/m², demolición 16–22 €/m², alicatado 28–35 €/m²; baño 5.800–6.400 s/IVA; cocina 5.000–6.000 s/IVA; piso 100 36.000–39.000 s/IVA; integral 80 29.000–32.000 s/IVA | La ficha pasa a **tarifario de referencia** (`04-finanzas/calibracion-tarifas-mercado-2026.md`); el modelo usa el punto medio prudente (5.900 / 37.500 € s/IVA) |
+| Presupuestos tipo a cliente | **No se generan**: cada oferta real se emite con CotizaT (mediciones) + las bandas de mercado | Las fichas de obra del repo quedan como **base interna de coste/medición** (para dimensionar, no para imprimir al cliente) |
+| Pendientes | IVA 10 % vs 21 % con la gestoría · presupuestos reales de gremios en A Coruña · modalidad/CNAE de los grupos | Se marcan en cada documento |
 
 ## Relacionado (decisiones previas)
 

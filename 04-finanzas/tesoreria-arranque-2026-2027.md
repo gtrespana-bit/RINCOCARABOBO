@@ -228,14 +228,15 @@ positiva (mín ≈ 7.000 € en feb; final ≈ 83.500 €).**
 > 2. **El límite real sigue siendo la captación**, pero con precios correctos el margen de
 >    error es enorme: aunque la demanda del año 1 sea la mitad del caso tipo, el negocio
 >    ya es claramente rentable.
-> 3. `[PENDIENTE]` validar los PVP propuestos (§ [calibracion](calibracion-tarifas-mercado-2026.md))
->    y el IVA aplicable (10 % vs 21 %) con la gestoría antes de la primera oferta real.
+> 3. Los PVP recalibrados (§ [calibracion](calibracion-tarifas-mercado-2026.md)) están
+>    **validados por Rubén (2026-09-03)**; falta confirmar el **IVA aplicable (10 % vs
+>    21 %)** con la gestoría antes de la primera oferta real.
 
 ## 9. Pendiente para cerrar la hoja mensual definitiva
 
-- [ ] **Validar PVP recalibrados** ([calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)):
-      baño ≈ 5.800–6.400 s/IVA, cocina ≈ 5.000–6.000, piso 100 ≈ 36.000–39.000 → subir los
-      presupuestos tipo antes de la primera oferta.
+- [x] **PVP recalibrados validados por Rubén (2026-09-03)** — tarifario de referencia en
+      [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md). No se
+      generan presupuestos tipo a cliente: cada oferta real se emite con CotizaT + bandas.
 - [ ] **Confirmar tipo de IVA** con la gestoría (reforma vivienda habitual: 10 % vs 21 %).
 - [ ] Confirmar **modalidad de contratación** de los grupos (G1 indefinido u obra; G2 por
       obra) y CNAE (AT/EP 2,35 % vs 6,70 %), jornada y pluses del convenio.

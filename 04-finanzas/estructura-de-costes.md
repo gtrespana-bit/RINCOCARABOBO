@@ -151,7 +151,10 @@ estructurales, con **ducha** (plato + mampara fija).
 - [ ] Repetir el mismo método para la **obra tipo cocina** y para la **integral por m²**.
 - [ ] Validar el escenario contra 2-3 presupuestos reales pedidos (o recibidos) en la zona.
 - [ ] Decidir margen objetivo por tipo de obra y política de "calidades estándar vs. alta".
-- [ ] Convertir este modelo en plantilla de presupuesto (`09-plantillas/presupuesto.md`).
+- [x] Decisión (Rubén, 2026-09-03): **no generar presupuestos tipo a cliente** — la oferta
+      real se emite con CotizaT + las bandas del tarifario
+      ([calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)); esta ficha
+      queda como base interna de coste/medición.
 
 ## Fuentes y trazabilidad
 

@@ -182,9 +182,11 @@ estructura con Grupo 1 activo ≈ 7.640 €/mes):**
       → 2026-09-03.
 - [x] Coste laboral real calculado (convenio A Coruña 2026 + SS 2026; grupo ≈ 5.030 €/mes)
       → 2026-09-03. CotizaT queda como generador comercial (no fuente de costes internos).
-- [ ] **Recalibración de precios (Rubén, 2026-09-03):** validar bandas propuestas
-      (baño 5.800–6.400 s/IVA; cocina 5.000–6.000; piso 100 36.000–39.000; partidas de
-      suelo/demolición) → [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md).
+- [x] **Recalibración de precios validada por Rubén (2026-09-03):** bandas de mercado
+      (baño 5.800–6.400 s/IVA; cocina 5.000–6.000; piso 100 36.000–39.000; suelo
+      26–32 €/m²; demolición 16–22) → [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md).
+      **Decisión: no se generan presupuestos tipo a cliente** (las ofertas reales salen de
+      CotizaT + bandas).
 - [ ] Confirmar el tipo de IVA (10 % vs 21 %) con la gestoría y los presupuestos reales
       de gremios en A Coruña.
 - [ ] Confirmar la regla de precio (§3.1) con la primera obra real y definir % para

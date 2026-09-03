@@ -1,10 +1,9 @@
 # 00 · Resumen ejecutivo — RemodelaT Coruña S.L.
 
-> Estado: `[BORRADOR]` (2026-09-03, actualizado a la recalibración de precios de Rubén:
-> los PVP modelo estaban 20–30 % por debajo de mercado → nueva calibración en
-> [04-finanzas/calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md),
-> `[PENDIENTE]` de validar). Política: ningún dato inventado; lo no confirmado aparece
-> como `[PENDIENTE]`.
+> Estado: `[BORRADOR]` (2026-09-03). Recalibración de precios a mercado 2026 (los PVP
+> modelo estaban 20–30 % bajos) **validada por Rubén el 2026-09-03** — tarifario en
+> [04-finanzas/calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md).
+> Política: ningún dato inventado; lo no confirmado aparece como `[PENDIENTE]`.
 
 ## Qué es el proyecto
 
@@ -76,14 +75,14 @@ Contrastes locales pendientes en A Coruña.
 
 ## Pendiente para cerrar este resumen
 
-- [ ] **Validar la recalibración de precios** (bandas 2026: baño 5.800–6.400 s/IVA,
-      cocina 5.000–6.000, piso 100 36.000–39.000 € s/IVA, suelo 26–32 €/m²) — ver
-      [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md) y confirmar
-      el tipo de IVA (10 % vs 21 %) con la gestoría.
+- [x] Recalibración de precios **validada por Rubén (2026-09-03)**: bandas 2026 (baño
+      5.800–6.400 s/IVA, cocina 5.000–6.000, piso 100 36.000–39.000 € s/IVA, suelo
+      26–32 €/m²) en la [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md).
+- [ ] Confirmar el tipo de IVA (10 % vs 21 %) con la gestoría.
 - [x] Retribución del socio año 1: **≈ 1.600 €/mes netos** (2026-09-03).
-- [ ] Objetivo año 1: con grupos por cartera y PVP de mercado, caso tipo ≈ **299 k€ s/IVA**
-      (38 peq + 2 grandes en cadena, ≈ +77.000 € antes de impuestos); bandas de precio
-      `[PENDIENTE]` de validar con Rubén (2026-09-03).
+- [ ] Objetivo año 1: con grupos por cartera y PVP de mercado (validados por Rubén
+      2026-09-03), caso tipo ≈ **299 k€ s/IVA** (38 peq + 2 grandes en cadena,
+      ≈ +77.000 € antes de impuestos).
 - [x] Capacidad: grupos de obra (4 pequeñas/mes por grupo; Grupo 2 para obra grande);
       sin subcontratas (2026-09-03).
 - [x] Coste laboral: calculado por convenio construcción A Coruña 2026 + SS 2026 (grupo

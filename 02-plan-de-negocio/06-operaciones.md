@@ -99,6 +99,7 @@ propietarios (normas de obra en fincas).
       v4 montada y recalibrada a mercado:
       [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
 - [ ] Objetivo de facturación año 1: caso tipo recalibrado ≈ **299 k€ s/IVA** (38
-      pequeñas + 2 pisos 100 en cadena, ≈ +77.000 € antes de impuestos) → validar bandas
-      de precio con Rubén (ver
+      pequeñas + 2 pisos 100 en cadena, ≈ +77.000 € antes de impuestos) — bandas de
+      precio **validadas por Rubén (2026-09-03)**; las ofertas reales se emiten con
+      CotizaT + esas bandas (ver
       [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md)).

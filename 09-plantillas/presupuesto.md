@@ -1,9 +1,11 @@
 # Plantilla de presupuesto de obra — RemodelaT Coruña S.L.
 
 > Estado: `[BORRADOR]` (2026-09-03, actualizado a la recalibración de precios de Rubén:
-> los PVP modelo estaban 20–30 % por debajo de mercado). Uso interno: base para preparar
-> la oferta al cliente. **Regla de precio:** el PVP se fija en la banda de mercado 2026
-> (nunca por debajo del punto bajo-medio documentado; ver
+> los PVP modelo estaban 20–30 % por debajo de mercado). Uso interno: **solo para obras
+> reales** — al salir una obra se prepara su oferta con CotizaT + las bandas del
+> tarifario; no se generan presupuestos tipo a cliente (decisión Rubén, 2026-09-03).
+> **Regla de precio:** el PVP se fija en la banda de mercado 2026 (nunca por debajo del
+> punto bajo-medio documentado; ver
 > [04-finanzas/calibracion-tarifas-mercado-2026.md](../04-finanzas/calibracion-tarifas-mercado-2026.md));
 > CotizaT se usa para medición (m², horas) y el coste real (nómina + materiales) para
 > validar el margen. **Ninguna cifra inventada.**

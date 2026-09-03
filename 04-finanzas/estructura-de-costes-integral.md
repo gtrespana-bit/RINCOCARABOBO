@@ -124,8 +124,10 @@ productos— y la cocina se añaden como bloques del piloto para no duplicar par
 - [ ] Validar el modelo contra presupuestos reales de reforma integral pedidos en la zona.
 - [ ] Ampliar a escenarios con las partidas típicas excluidas (ventanas, tabiques…) según
       tipología de obra.
-- [ ] Convertir el modelo en plantilla de presupuesto lista para ofertar
-      ([`09-plantillas/presupuesto.md`](../09-plantillas/presupuesto.md)).
+- [x] Decisión (Rubén, 2026-09-03): **no generar presupuestos tipo a cliente** — la oferta
+      real se monta con CotizaT + bandas del tarifario
+      ([calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)) añadiendo
+      las partidas de la obra concreta; esta ficha es la base interna de coste/medición.
 - [ ] Definir contingencias (imprevistos) y gastos de gestión como % a aplicar en la oferta
       final (decisión de Rubén, no inventar).
 

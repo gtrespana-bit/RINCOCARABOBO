@@ -1,6 +1,10 @@
-# Calibración de tarifas contra el mercado 2026 (Rubén: los precios estaban 20–30 % bajos)
+# Calibración de tarifas contra el mercado 2026 — tarifario de referencia
 
-- **Fecha:** 2026-09-03 · `[BORRADOR]`
+- **Fecha:** 2026-09-03 · **rangos CONFIRMADOS por Rubén el 2026-09-03** (17.ª tanda).
+- **Uso:** referencia de precios para presupuestos reales. **No se generan presupuestos
+  tipo a cliente**: cada oferta real la emite Rubén con CotizaT (mediciones/partidas)
+  fijando el PVP dentro de estas bandas de mercado. Estas fichas son la base interna de
+  coste/medición.
 - **Corrección de Rubén (2026-09-03):** los precios de los presupuestos modelo estaban
   **≈ 20–30 % por debajo de mercado**. CotizaT se usaba bien (partidas y horas), pero
   sus tarifas nacionales medias + margen ×1,35 quedan cortas frente a lo que cobra el
@@ -106,17 +110,18 @@ Con los PVP propuestos (punto medio prudente):
 > pequeñas) es legítimo: la MO propia a convenio cuesta menos que la tarifa de mercado
 > que paga el cliente.
 
-## 5. Decisiones pendientes (Rubén)
+## 5. Decisiones y pendientes
 
-- [ ] Validar los **PVP propuestos por obra** (§2) y el posicionamiento (entrar en la
-      banda económica-media de mercado, no por debajo).
+- [x] **PVP propuestos por obra validados por Rubén (2026-09-03)** — entrar en la banda
+      económica-media de mercado, nunca por debajo del punto bajo-medio.
+- [x] **No generar presupuestos tipo a cliente** (decisión Rubén, 2026-09-03): la oferta
+      real sale de CotizaT + estas bandas; el repo guarda el tarifario, no documentos de
+      venta genéricos.
 - [ ] Confirmar **tipo de IVA** con la gestoría (10 % vivienda habitual vs 21 %) y usarlo
-      en presupuestos.
+      en los presupuestos reales.
 - [ ] Pedir 2–3 presupuestos reales de gremios en A Coruña (alicatador/solador,
       electricista, fontanero, carpintero) para **calibrar el resto de partidas** y validar
       las de §1.
-- [ ] Subir los **presupuestos tipo** (baño/cocina/piso 100) a estos rangos antes de la
-      primera oferta real.
 
 ## Fuentes (consultadas 2026-09-03)
 

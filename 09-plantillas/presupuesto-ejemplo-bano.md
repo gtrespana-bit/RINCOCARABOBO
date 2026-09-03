@@ -7,6 +7,10 @@
 > real**: hay que adaptar mediciones, calidades y banda de precio a cada obra.
 > ⚠️ El total se fija en la **banda de mercado 2026** (Rubén: los presupuestos coste × 1,35
 > quedaban 20–30 % por debajo) — no es la suma de partidas × margen.
+> ⚠️ **Decisión Rubén (2026-09-03): no se generan presupuestos tipo a cliente.** Este
+> documento solo muestra el **formato y las condiciones** para cuando salga una obra real;
+> el presupuesto de cada obra lo emite Rubén con CotizaT + las bandas del
+> [tarifario](../04-finanzas/calibracion-tarifas-mercado-2026.md).
 
 ---
 

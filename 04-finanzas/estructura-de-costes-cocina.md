@@ -113,7 +113,10 @@ compra a medida como producto con instalación incluida → evita doble coste.)
 - [ ] Pedir presupuesto real de **encimera de cuarzo** y **cocina en kit** a proveedores
       locales (precios LM son de referencia nacional con IVA).
 - [ ] Decidir margen objetivo y calidades estándar vs. premium.
-- [ ] Convertir el modelo en plantilla de presupuesto (`09-plantillas/presupuesto.md`).
+- [x] Decisión (Rubén, 2026-09-03): **no generar presupuestos tipo a cliente** — oferta real
+      con CotizaT + bandas del tarifario
+      ([calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)); ficha como
+      base interna de coste/medición.
 
 ## Fuentes y trazabilidad
 
