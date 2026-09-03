@@ -16,6 +16,13 @@ cuando el negocio arranque. Cada obra o cliente importante recibe su propia carp
     └── 05-licencias-y-documentos/     (permisos, comunicaciones, garantías)
 ```
 
+## Proyectos históricos (previos a esta empresa)
+
+La subcarpeta [`historicos-espana/`](historicos-espana/README.md) guarda las fichas internas de
+los **7 proyectos reales ejecutados por Rubén en España** (antes de abrir la empresa de
+A Coruña). Son material de credibilidad para el plan de negocio y el futuro portfolio, con
+los datos reales (ubicación, año) aún pendientes de confirmar.
+
 ## Reglas
 
 - La numeración `AAAA-NNN` es por año; el nombre debe permitir identificar la obra sin abrirla.
