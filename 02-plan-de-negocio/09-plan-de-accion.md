@@ -8,7 +8,7 @@
 
 | # | Tarea | Detalle | Resp. | Estado |
 |---|---|---|---|---|
-| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo, retribución, capacidad por grupos, **coste laboral real** y **tesorería v3 con tabla mensual de escenarios** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: elegir ritmo/colchón y cerrar objetivo (≈ 190–200 k€ s/IVA); CNAE/AT-EP y modalidad con la gestoría | R | `[EN CURSO]` |
+| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo, retribución, capacidad por grupos, **coste laboral real** y **tesorería v3 con tabla mensual de escenarios** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: cerrar el plan de captación (caso tipo ≈ 234 k€ s/IVA: 38 peq + 2 grandes, +12 k€) y CNAE/AT-EP + modalidad con la gestoría | R | `[EN CURSO]` |
 | A2 | Elegir gestoría en A Coruña | 3 presupuestos (constitución S.L. + contabilidad mensual) | R | `[PENDIENTE]` |
 | A3 | Validar denominación "RemodelaT Coruña S.L." | Disponibilidad en Registro Mercantil (vía gestoría) | R/gestoría | `[PENDIENTE]` |
 | A4 | Decidir identidad visual y dominio | ¿Heredar marca RemodelaT (logo/paleta) o crear? Dominio .es | R | `[PENDIENTE]` |

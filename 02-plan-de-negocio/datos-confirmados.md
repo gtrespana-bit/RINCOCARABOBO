@@ -136,6 +136,15 @@
 | Capital | Con estas reglas **no hay grupo parado** → los 20.000 € alcanzan (colchón ≈ 0–1 k€) | El límite real es la **captación**, no la capacidad ni el capital |
 | Régimen objetivo | 2 grupos constantes (grande en cadena + pequeñas con apoyo) ≈ **+3.500–4.500 €/mes**; ampliar a Grupo 3 cuando haya 2 grandes en paralelo | Registrar en tesorería §8 |
 
+## Aportaciones — 2026-09-03 (15.ª tanda: caso tipo del año 1 mes a mes)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Caso tipo año 1 (reglas por cartera) | **38 obras pequeñas + 2 pisos 100 m² en cadena → venta ≈ 234.000 € s/IVA (≈ 283.200 c/IVA) · resultado ≈ + 12.240 €** antes de impuestos | Mes a mes en [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md): feb 1 (Rubén) → mar contrata G1 (3+ firmadas) → abr pleno → may-jul G2 grande #1 → ago sin G2 (fin de contrato, nadie parado) → sep-nov G2 grande #2 |
+| Caja | Con los 20.000 € de capital: **caja mínima ≈ 5.062 € (mar-27), final ≈ 18.380 €** | Sin IVA ni garantía del 10 % (los absorbe el colchón) |
+| Unidad económica | + 1 pequeña ≈ + 2.293 €/mes · + 1 grande con G2 dedicado ≈ + 2.058 € netos/obra · G2 con 1 pequeña/mes en huecos ≈ + 2.979 €/mes · **2 grupos en cadena ≈ + 3.500–4.500 €/mes** | Para decidir sobre la marcha |
+| Conclusión | Los escenarios A–D con caja −4.274/−6.332 (grupo por calendario) quedan **obsoletos**; el capital alcanza y el límite real es la **captación** (3–4 pequeñas/mes + 1 grande cada ~3 meses) | Objetivo coherente ≈ 230–240 k€ s/IVA |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

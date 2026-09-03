@@ -49,7 +49,7 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
   y el Grupo 1 apoya las semanas libres.
   Captación continua, sin rechazar obras. Coste del grupo por convenio A Coruña + SS 2026
   ≈ **5.030 €/mes** (ver [ficha](../../04-finanzas/coste-laboral-real-empleados-2026.md)).
-  Objetivo de facturación `[EN REVISIÓN]` (equilibrio ≈ 170–206 k€/año con grupo).
+  Objetivo de facturación `[EN REVISIÓN]` con el modelo por cartera (caso tipo año 1: 38 pequeñas + 2 pisos 100 en cadena ≈ 234 k€ s/IVA, resultado ≈ +12 k€; [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md)).
 - Base operativa: **centro de negocios** en A Coruña (oficina a demanda).
 - Vehículo: SUV grande + remolque (visitas y transporte de materiales).
 (Detalle en [`06-operaciones.md`](06-operaciones.md).)
@@ -72,7 +72,7 @@ fondo de maniobra + marketing de arranque (reparto por cerrar en el
 - [ ] Fijar precios/tarifas propias (CotizaT + mercado local).
 - [x] Retribución del socio año 1: **≈ 1.600 €/mes netos** (2026-09-03).
 - [ ] Objetivo año 1: `[EN REVISIÓN]` — el ≈ 90–115 k€ era sin grupo fijo; con grupos el
-      equilibrio es ≈ 170–206 k€/año (2026-09-03).
+      caso tipo ≈ 234 k€ s/IVA (38 peq + 2 grandes, +12 k€); reglas por cartera sin parados (2026-09-03).
 - [x] Capacidad: grupos de obra (4 pequeñas/mes por grupo; Grupo 2 para obra grande);
       sin subcontratas (2026-09-03).
 - [x] Coste laboral: calculado por convenio construcción A Coruña 2026 + SS 2026 (grupo
