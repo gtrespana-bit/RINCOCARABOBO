@@ -141,17 +141,21 @@ se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 | Solo gastos fijos (580 €/mes) | ≈ 0,5 obra pequeña/mes, o 1 integral cada ~10 meses |
 | Gastos fijos + retribución neta 1.600 €/mes (total ≈ 2.480 €/mes) | ≈ **2,1 obras pequeñas/mes**, o ≈ 0,43 integrales/mes (1 integral cubre ≈ 2,3 meses) |
 
-> Implicación con la capacidad confirmada (Rubén, 2026-09-03): arranque con **1 obra/mes**
-> (primeros meses con apoyo del fondo de maniobra) y avance a **2–3 obras en paralelo**
-> (1 integral + pequeñas) con plantilla propia ampliable. El **objetivo anual ≈ 90–115 k€**
-> exige ≈ 1,5–2 obras pequeñas de media/mes en el conjunto del año (ver
-> `07-plan-financiero.md` §5.2).
+> Implicación con la capacidad por grupos (Rubén, 2026-09-03): el **Grupo 1 (oficial +
+> ayudante) se contrata con las primeras obras** y cubre hasta 4 pequeñas/mes; cuando
+> entra la obra grande se añade el Grupo 2. Con el grupo activo la estructura sube a
+> **≈ 7.910 €/mes** → el equilibrio real está en ≈ 3,5 pequeñas/mes (ver
+> [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md)); el objetivo anual
+> de 90–115 k€ queda **en revisión** con este modelo
+> (`02-plan-de-negocio/07-plan-financiero.md` §5.2).
 
 ## 6. Decisiones y seguimiento
 
 - [x] Política de contingencias confirmada (Rubén, 2026-09-03) → §3.3.
-- [x] Retribución (≈ 1.600 €/mes netos), objetivo año 1 (≈ 90–115 k€) y capacidad
-      (arranque 1 obra/mes → 2–3 en paralelo; sin subcontratas) → 2026-09-03.
+- [x] Retribución (≈ 1.600 €/mes netos) y capacidad (modelo de grupos, sin subcontratas)
+      → 2026-09-03.
+- [ ] Objetivo año 1: en revisión con el modelo de grupos (≈ 175–205 k€ con el Grupo 1 a
+      plena carga) → reabrir con Rubén.
 - [ ] Confirmar el margen del 35 % con la primera obra real y definir % para calidades
       *premium* / riesgo alto (hasta entonces se mantiene el 35 % de los pilotos).
 - [ ] Revisar si en integrales grandes se cobra línea de "gestión de obra" explícita

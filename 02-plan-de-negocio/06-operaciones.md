@@ -6,12 +6,14 @@
 ## 1. Modelo de ejecución (confirmado)
 
 - **Rubén** dirige y ejecuta técnicamente.
-- **2 empleados propios** que se contratan **cuando haya proyectos firmados con fecha de
-  inicio**; plantilla ampliable según demanda.
+- **Grupo 1 (1 oficial + 1 ayudante)** que se contrata **cuando haya proyectos firmados
+  con fecha de inicio**; plantilla ampliable según demanda (Grupo 2 al entrar obra
+  grande).
 - Especialidades (electricidad, fontanería, etc.): **sin subcontratación** — si una obra
   lo exige y se justifica, se **amplía la plantilla propia** (Rubén, 2026-09-03).
 - Conclusión: el coste de personal fijo solo se activa con obra asegurada → estructura
-  ajustable al arranque.
+  ajustable al arranque; con el Grupo 1 activo la estructura mensual es ≈ 7.910 € (ver
+  [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md)).
 
 ## 2. Método de trabajo (Método RemodelaT, 10 etapas)
 
@@ -43,18 +45,21 @@ propietarios (normas de obra en fincas).
 7. **Entrega** con checklist, limpieza y garantía por escrito; encuesta de satisfacción
    y petición de reseña.
 
-## 4. Capacidad de obra (confirmada por Rubén, 2026-09-03)
+## 4. Capacidad de obra (modelo de grupos — confirmado por Rubén, 2026-09-03)
 
-- **Arranque: 1 obra/mes** — cada obra justifica contratar a los **2 empleados** (solo con
-  proyecto firmado y fecha de inicio).
-- **Avanzando: mantener 2–3 obras en paralelo**, p. ej. 1 obra integral (≈ 3 meses) +
-  obras pequeñas (baño, cocina…).
-- **Sin subcontratación**: si se necesita y se justifica, ampliar plantilla propia.
+- **1 grupo de obra = 1 oficial + 1 ayudante.** Ritmo real: **1 baño o 1 cocina por
+  semana → hasta 4 obras pequeñas/mes** (baños, cocinas, cambios de suelo, etc.).
+- **Grupo 1:** se contrata con las primeras obras y se mantiene en las pequeñas.
+- **Grupo 2:** se contrata cuando entra una **obra grande (~3 meses, ≈ 30.000 €)** y se
+  dedica a ella; el Grupo 1 sigue con pequeñas y **apoya a la obra grande en las semanas
+  sin pequeñas** (más rendimiento → se termina antes).
+- **Sin subcontratación**: si se necesita más gente se amplía la plantilla (nuevo grupo).
 - **Captación continua**: no se rechazan obras que salgan.
-- Referencia real: las fichas P-ES muestran obras de **1 a 2,5 semanas** (cocinas/baños)
-  ejecutadas por Rubén en España → útil para estimar la capacidad de obras pequeñas.
-- Pendiente: convertir esta capacidad en **calendario tipo y hoja de tesorería** de
-  arranque (con objetivos año 1 de `07-plan-financiero.md` §5.2).
+- Consecuencia económica (ver [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md)):
+  con el Grupo 1 activo la estructura es ≈ 7.910 €/mes → el equilibrio está en **≈ 3,5
+  obras pequeñas/mes**; planificar 1–2/mes con grupo contratado genera pérdidas.
+- Pendiente: validar coste real del grupo (convenio A Coruña), modalidad de contratación
+  y la obra grande real → tabla mensual de tesorería definitiva.
 
 ## 5. Recursos operativos
 
@@ -81,5 +86,8 @@ propietarios (normas de obra en fincas).
 - [ ] Presupuestos reales del centro de negocios y de la gestoría en A Coruña (rangos
       investigados 2026-09-03: domicilio desde 36 €/mes; gestoría 120–250 €/mes).
 - [ ] Contactos de proveedores de materiales y de profesionales (candidatos a plantilla).
-- [ ] Calendario tipo y hoja de tesorería con la capacidad confirmada (1 obra/mes → 2-3 en
-      paralelo; sin subcontratas) y el objetivo año 1.
+- [ ] Calendario tipo y **rampa real de obra** con el modelo de grupos (validar coste del
+      grupo y obra grande con Rubén → tabla mensual definitiva). Hoja de tesorería v2 ya
+      montada: [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
+- [ ] Objetivo de facturación año 1 (en revisión tras el modelo de grupos: ≈ 175–205 k€
+      con el Grupo 1 a plena carga).

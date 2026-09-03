@@ -8,7 +8,7 @@
 
 | # | Tarea | Detalle | Resp. | Estado |
 |---|---|---|---|---|
-| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo CotizaT, retribución/objetivo/capacidad y **hoja de tesorería de arranque** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: afinar supuestos con presupuestos reales | R | `[EN CURSO]` |
+| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo CotizaT (baño/cocina/integral), retribución, capacidad por grupos y **tesorería v2** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: objetivo año 1 en revisión con el modelo de grupos; afinar supuestos (grupo, obra grande) con presupuestos reales | R | `[EN CURSO]` |
 | A2 | Elegir gestoría en A Coruña | 3 presupuestos (constitución S.L. + contabilidad mensual) | R | `[PENDIENTE]` |
 | A3 | Validar denominación "RemodelaT Coruña S.L." | Disponibilidad en Registro Mercantil (vía gestoría) | R/gestoría | `[PENDIENTE]` |
 | A4 | Decidir identidad visual y dominio | ¿Heredar marca RemodelaT (logo/paleta) o crear? Dominio .es | R | `[PENDIENTE]` |
@@ -34,7 +34,7 @@
 |---|---|---|---|---|
 | C1 | Alta formal definitiva | Autónomo/sociedad en régimen general: seguros sociales y fiscales al día | R + gestoría | `[PENDIENTE]` |
 | C2 | Campaña de captación | Google/perfil + difusión inicial; primeros presupuestos | R | `[PENDIENTE]` |
-| C3 | Contratar 2 empleados | **Solo con proyecto(s) firmado(s) con fecha de inicio** | R | `[PENDIENTE]` |
+| C3 | Contratar Grupo 1 (oficial + ayudante) | **Solo con proyecto(s) firmado(s) con fecha de inicio**; Grupo 2 cuando entre obra grande | R | `[PENDIENTE]` |
 
 ## Fase D — Operación (febrero–marzo 2027)
 

@@ -72,6 +72,17 @@
 | Costes locales (punto 2) | **Dado por confirmado "por el momento"** (rangos investigados 2026-09-03) | Presupuestos reales (gestoría/seguros/centro) cuando Rubén esté en A Coruña |
 | Tesorería de arranque (punto 1) | Encargada y hecha: [hoja mensual dic-26 → dic-27](../../04-finanzas/tesoreria-arranque-2026-2027.md) | Plan base 20 obras → saldo ≈ +966 €; objetivo exige 21–23 obras o margen real mayor |
 
+## Aportaciones — 2026-09-03 (8.ª tanda: corrección del modelo de capacidad)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Capacidad real de un grupo de obra | **1 grupo (1 oficial + 1 ayudante) hace 1 baño o 1 cocina por semana → hasta 4 obras pequeñas/mes** | Corrige la hoja de tesorería v1 (que asumía 1–2/mes); con grupo contratado, 1 obra/mes = pérdidas (3 semanas paradas) |
+| Modelo de equipos | **Grupo 1** (oficial+ayudante): cubre pequeñas (baños, cocinas, suelos…) desde las primeras obras. Si sale **obra grande (~3 meses)**: se contrata **Grupo 2** dedicado a la grande; el Grupo 1 sigue con pequeñas y apoya a la grande las semanas sin pequeñas → más rendimiento, se termina antes | "1 obra grande y 2 pequeñas por mes" se refiere a ocupar todas las semanas |
+| Obra grande tipo | **≈ 30.000 € por ~3 meses** | `[PENDIENTE]`: ¿IVA incluido o no? ¿superficie/alcance? Afecta al modelo del Grupo 2 |
+| Objetivo año 1 previo | El escenario 90–115 k€ quedó **obsoleto como objetivo con grupos fijos**: el equilibrio real es ≈ 3,5 obras pequeñas/mes ≈ 175–205 k€/año de venta (estructura con grupo ≈ 7.910 €/mes) | Reabrir objetivo con los números v2 |
+| Desglose MO/materiales (fuente CotizaT, 2026-09-03) | Baño: coste 3.543 € → MO 1.437 (41 %) + mat. 2.105 · Cocina: 3.386 € → MO 725 (21 %) + mat. 2.661 · Integral 80 m²: 16.450 € → MO 7.596 (46 %) + mat. 8.854 | Calculado de los descompuestos (recurso a recurso) + productos |
+| Tesorería de arranque | Recalculada en **v2 con modelo de grupos**: estructura ≈ 7.910 €/mes con Grupo 1 (5.300 grupo + 710 otros + 1.900 retribución); equilibrio ≈ 3,5 pequeñas/mes; Grupo 2 en obra grande pendiente de validar (su MO modelada ≈ 8.480–10.260 € < 12 semanas × 1.320 €/sem) | La v1 (20 obras/año) queda obsoleta como plan base |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

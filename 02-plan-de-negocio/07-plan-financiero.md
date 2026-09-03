@@ -15,7 +15,7 @@
 | Seguros (RC reformas + vehículo) | RC: **≈ 160–300 €/año** (sin empleados; 250–400 € con plantilla); vehículo: `[PENDIENTE]` | ídem |
 | Centro de negocios (cuota inicial/alta) | Fase 1: domicilio profesional **desde 36 €+IVA/mes** (Coworking Oleiros) u oficina virtual; coworking 109–180 €; despacho 375–500 € si hace falta | ídem |
 | Gestoría (cuota mensual corriente) | S.L. básica **120–250 €/mes** (+15–30 €/empleado/mes cuando se contrate) | ídem, ver §5.1 |
-| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Cubrir ≈ 2.480 €/mes (gastos fijos + retribución neta 1.600 €) durante la rampa 1 obra/mes → 2-3 obras; mínimo recomendado ≈ 6–7 k€ según resto de partidas |
+| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Cubrir ≈ 2.480 €/mes sin grupo (580 fijos + retribución neta 1.600 €) durante la rampa de captación hasta llenar el Grupo 1 (≈ 7.910 €/mes con grupo activo); mínimo recomendado ≈ 6–7 k€ según resto de partidas |
 | Marketing de arranque | `[PENDIENTE]` | Ver sección 05 |
 
 ## 2. Costes de mano de obra (fuente: CotizaT, España, datos 2026-08-25)
@@ -59,8 +59,9 @@
 > La política de **margen (35 %) y contingencias (precio cerrado; imprevistos ocultos →
 > modificación documentada decidida por el cliente)** se define en
 > [04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)
-> (política 2026-09-03; contingencias, retribución, objetivo y capacidad confirmados por
-> Rubén — ver [datos-confirmados](datos-confirmados.md) 6.ª tanda).
+> (política 2026-09-03; contingencias, retribución y capacidad —modelo de grupos—
+> confirmados por Rubén; objetivo año 1 `[EN REVISIÓN]` — ver
+> [datos-confirmados](datos-confirmados.md) 6.ª y 8.ª tanda).
 
 Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 1. Servicios secundarios (pintura, suelos, revestimientos…).
@@ -72,9 +73,9 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 | Concepto | Estado |
 |---|---|
 | Retribución del socio el año 1 | **≈ 1.600 €/mes netos** (confirmado 2026-09-03; bruto ≈ 1.850–2.000 €/mes según IRPF) |
-| Objetivo de obras/facturación año 1 | **Escenario Recomendado: ≈ 90–115 k€** (confirmado 2026-09-03; detalle en §5.2) |
-| Capacidad de obra | Arranque 1 obra/mes → 2–3 obras en paralelo; **sin subcontratas** (confirmado 2026-09-03) |
-| Punto de equilibrio mensual | ≈ 0,5 obra pequeña/mes solo gastos fijos (580 €); ≈ **2,1 obras/mes** con retribución neta 1.600 € (≈ 2.480 €/mes total) |
+| Objetivo de obras/facturación año 1 | `[EN REVISIÓN]` — el ≈ 90–115 k€ se fijó sin grupo fijo; con grupos el equilibrio es ≈ 175–205 k€/año (ver §5.2 v2 y [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md)) |
+| Capacidad de obra | **Grupos de obra**: Grupo 1 (oficial+ayudante) → hasta 4 pequeñas/mes; Grupo 2 dedicado a obra grande (~30.000 €/3 meses) cuando salga. Sin subcontratas (confirmado 2026-09-03) |
+| Punto de equilibrio mensual | Sin grupo: ≈ 0,5 obra pequeña/mes solo gastos fijos (580 €). **Con Grupo 1: ≈ 3,5 obras/mes (estructura ≈ 7.910 €/mes)** — ver [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md) |
 | IVA / IRPF / Impuesto de Sociedades | Según forma S.L. → con gestoría |
 
 ### 5.1. Gastos fijos mensuales (investigado 2026-09-03, rangos reales)
@@ -91,26 +92,36 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 *(Fuentes de cada rango: [referencia costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md).)*
 
 **Retribución del socio (confirmada 2026-09-03): ≈ 1.600 €/mes netos** (bruto estimado
-≈ 1.850–2.000 €/mes según retención IRPF → cuadrar con gestoría). Coste mensual total a
-cubrir con el margen de las obras: ≈ **2.480 €/mes** (580 fijos + ≈ 1.900 retribución).
+≈ 1.850–2.000 €/mes según retención IRPF → cuadrar con gestoría). Coste mensual sin grupo
+de obra: ≈ **2.480 €/mes** (580 fijos + ≈ 1.900 retribución). **Con el Grupo 1 contratado
+(oficial + ayudante, ≈ 5.300 €/mes `[SUPUESTO]`): ≈ 7.910 €/mes** → ver
+[tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md).
 
-### 5.2. Objetivo de año 1 — **CONFIRMADO por Rubén (2026-09-03)**
+### 5.2. Objetivo de año 1 — `[EN REVISIÓN]` tras la corrección de capacidad (2026-09-03)
 
-Margen bruto medio por obra tipo (modelo validado): ≈ 1.200 € obra pequeña (baño/cocina),
-≈ 5.760 € integral 80 m². Operativa real: feb–dic 2027 (≈ 10-11 meses).
+> ⚠️ El escenario elegido (≈ 90–115 k€) se fijó con la estructura antigua ("1–2 obras/mes
+> sin grupo fijo"). Con el **modelo de grupos confirmado por Rubén**, la estructura
+> mensual sube a ≈ 7.910 €/mes y el equilibrio pasa a **≈ 3,5 obras pequeñas/mes**:
+> planificar 1–2 obras/mes con grupo contratado genera **pérdidas**. El objetivo anual
+> coherente con grupos está en el entorno de **175–205 k€ de venta** (3,5–4 pequeñas/mes
+> con el Grupo 1). Pendiente de revalidar con Rubén junto a la rampa real.
 
-| Escenario | Volumen | Facturación ≈ | Margen bruto ≈ | Notas |
+Margen/contribución con grupos (desglose CotizaT 2026-09-03): obra pequeña media →
+venta ≈ 4.676 €, materiales ≈ 2.383 €, **contribución ≈ 2.293 €/obra** (cubre sueldos del
+grupo + estructura). Obra grande ≈ 30.000 €/3 meses `[PENDIENTE: ¿IVA?]`.
+
+| Escenario (Grupo 1 activo) | Ritmo | Venta anual ≈ | Resultado ≈ | Notas |
 |---|---|---|---|---|
-| Prudente | 1 obra pequeña/mes de media | 55–60 k€ | ≈ 13–15 k€ | Cubre gastos + retribución mínima a duras penas; sin colchón |
-| **✅ Recomendado (elegido)** | 1,5–2 obras pequeñas/mes de media | **90–115 k€** | ≈ 22–28 k€ | Cubre gastos (2.480 €/mes) + beneficio/colchón |
-| Con integrales | 10–12 pequeñas + 2–3 integrales | ≈ 115–140 k€ | ≈ 30–36 k€ | Opcional avanzado el año si la captación lo permite |
+| Insuficiente (pérdidas) | 3 pequeñas/mes | 154 k€ | **− 11 k€/año** | Grupo parado ≥1 semana/mes |
+| Equilibrio | 3,5 pequeñas/mes | ≈ 180 k€ | ≈ 0 | Estructura ≈ 7.910 €/mes cubierta |
+| **Capacidad plena** | 4 pequeñas/mes | ≈ 206 k€ | ≈ +14 k€/año | Grupo lleno; + integral con Grupo 2 = extra |
+| Con obra grande | 3–4/mes + 1 integral (Grupo 2) | 230–260 k€ | mayor | Grupo 2 dedicado; semanas libres del Grupo 1 apoyan |
 
-**Cómo se alcanza (capacidad confirmada):** arranque con **1 obra/mes** (justifica a los 2
-empleados; los primeros meses se apoyan en el fondo de maniobra) y avance a **2–3 obras en
-paralelo** (p. ej. 1 integral ≈ 3 meses + baños/cocinas). **Sin subcontratación**: si la
-carga lo justifica se amplía la plantilla propia. Captación continua: **no rechazar obras**
-que salgan. Con rampa realista, el ritmo sostenido necesario es ≈ 1,7–2 obras
-pequeñas-equivalentes/mes en la segunda mitad del año.
+**Cómo se alcanza (modelo de grupos confirmado):** Grupo 1 contratado con las primeras
+obras → pequeñas a **ritmo semanal (4/mes máx.)**; cuando entra la obra grande se
+contrata el Grupo 2. **Sin subcontratación**: ampliar plantilla (nuevo grupo) si se
+justifica. Captación continua: **no rechazar obras**. El límite real del año 1 no es la
+capacidad de ejecución sino la **demanda generada** → de ahí la captación constante.
 
 ## 6. Financiación
 
@@ -122,15 +133,21 @@ pequeñas-equivalentes/mes en la segunda mitad del año.
 - [x] Política de contingencias confirmada por Rubén (2026-09-03): precio cerrado;
       imprevistos ocultos → modificación documentada decidida por el cliente (la empresa no
       los absorbe). Ver [política de margen/contingencia](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md).
-- [x] Retribución (≈ 1.600 €/mes netos), objetivo año 1 (≈ 90–115 k€) y capacidad
-      (1 obra/mes → 2–3 en paralelo; sin subcontratas) cerrados con Rubén (2026-09-03).
+- [x] Retribución (≈ 1.600 €/mes netos) cerrada con Rubén (2026-09-03).
+- [x] Capacidad cerrada con Rubén (2026-09-03): **modelo de grupos** — Grupo 1
+      (oficial+ayudante) hasta 4 pequeñas/mes; Grupo 2 dedicado a la obra grande
+      (~3 meses, ≈30.000 €) cuando salga; sin subcontratas. Objetivo año 1: `[EN
+      REVISIÓN]` (el ≈ 90–115 k€ era sin grupo fijo; equilibrio real ≈ 175–205 k€).
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
-- [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) con los gastos
-      de §5.1 + retribución neta 1.600 €/mes y la rampa de obras → ver
-      [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
-      Conclusión: con 20 obras saldo ≈ +966 €; para colchón cómodo 21–23 obras/año
-      (98–108 k€) o margen real mayor (plantilla propia).
+- [ ] **Reabrir objetivo año 1 con el modelo de grupos**: validar coste real del grupo
+      (convenio A Coruña) y modalidad de contratación; confirmar si los ≈30.000 € de la
+      obra grande son con IVA y su alcance; fijar rampa y objetivo (≈175–205 k€ con el
+      Grupo 1 a plena carga).
+- [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v2 con modelo
+      de grupos en [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md):
+      estructura ≈ 7.910 €/mes con Grupo 1; equilibrio ≈ 3,5 pequeñas/mes; obra grande
+      (Grupo 2) a validar con Rubén.
 - [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
       gestión/proyecto) — Rubén lo validó "por el momento" como está (2026-09-03).
 - [ ] Costear servicios secundarios (pintura, suelos, revestimientos…).

@@ -38,12 +38,16 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
 
 ## Equipo y operación
 
-- **Rubén** (dirección y ejecución técnica) + **2 empleados propios** que se contratan
-  **cuando haya proyectos firmados con fecha de inicio**; ampliación según demanda.
+- **Rubén** (dirección y ejecución técnica) + **Grupo 1** (1 oficial + 1 ayudante) que se
+  contrata **cuando haya proyectos firmados con fecha de inicio**; al entrar una obra
+  grande se incorpora el **Grupo 2** (dedicado a ella). Ampliación según demanda.
 - Subcontratación de especialidades: **NO** (decisión Rubén, 2026-09-03) — si la carga lo
-  justifica se **amplía la plantilla propia**.
-- Capacidad objetivo: arranque con 1 obra/mes (justifica los 2 empleados); avanzando,
-  **2–3 obras en paralelo** (p. ej. 1 integral + baños/cocinas). Captación continua.
+  justifica se **amplía la plantilla propia** (nuevos grupos).
+- Capacidad (modelo de grupos, 2026-09-03): **1 grupo (oficial+ayudante) = 1 baño/cocina
+  por semana → hasta 4 obras pequeñas/mes**; al entrar una obra grande (~3 meses,
+  ≈30.000 €) se contrata un 2.º grupo dedicado y el Grupo 1 apoya las semanas libres.
+  Captación continua, sin rechazar obras. Objetivo de facturación `[EN REVISIÓN]` con
+  este modelo (equilibrio ≈ 175–205 k€/año con grupo).
 - Base operativa: **centro de negocios** en A Coruña (oficina a demanda).
 - Vehículo: SUV grande + remolque (visitas y transporte de materiales).
 (Detalle en [`06-operaciones.md`](06-operaciones.md).)
@@ -65,8 +69,10 @@ fondo de maniobra + marketing de arranque (reparto por cerrar en el
 
 - [ ] Fijar precios/tarifas propias (CotizaT + mercado local).
 - [x] Retribución del socio año 1: **≈ 1.600 €/mes netos** (2026-09-03).
-- [x] Objetivo año 1: facturación **≈ 90–115 k€** (2026-09-03).
-- [x] Capacidad: arranque 1 obra/mes → 2–3 obras en paralelo; sin subcontratas (2026-09-03).
+- [ ] Objetivo año 1: `[EN REVISIÓN]` — el ≈ 90–115 k€ era sin grupo fijo; con grupos el
+      equilibrio es ≈ 175–205 k€/año (2026-09-03).
+- [x] Capacidad: grupos de obra (4 pequeñas/mes por grupo; Grupo 2 para obra grande);
+      sin subcontratas (2026-09-03).
 - [ ] Validar denominación "RemodelaT Coruña S.L." con gestoría.
 - [ ] Cuantificar constitución, seguros, gestoría y marketing de arranque (rangos
       investigados 2026-09-03; presupuestos reales pendientes).

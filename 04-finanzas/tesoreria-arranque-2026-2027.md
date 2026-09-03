@@ -1,115 +1,103 @@
-# Tesorería de arranque — hoja mensual (dic 2026 → dic 2027)
+# Tesorería de arranque — v2 con modelo de grupos de obra (dic 2026 → dic 2027)
 
-- **Fecha:** 2026-09-03 · **Estado:** `[BORRADOR]` primera versión para validar el
-  arranque mes a mes. Es una **herramienta de trabajo**: cada mes se sustituyen los
-  supuestos por cifras reales (presupuestos, obra firmada, facturas, pagos).
-- **Horizonte:** dic 2026 (llegada/preparación) → dic 2027 (cierre del año 1).
-- **Regla de datos:** los importes marcados `[CONFIRMADO]` vienen de Rubén o de
-  investigación con fuente; los marcados `[SUPUESTO]` son hipótesis para poder hacer la
-  hoja y **hay que confirmarlas** (gestoría, presupuestos reales, primera obra).
+- **Fecha:** 2026-09-03 (v2 tras corrección de Rubén sobre capacidad real) · `[BORRADOR]`
+- **Corrección clave (Rubén, 2026-09-03):** la v1 asumía capacidad de "1–2 obras
+  pequeñas/mes" (estructura tipo "Rubén + tarifas"), lo que **no refleja la operativa**.
+  Realidad: **1 grupo (oficial + ayudante) hace 1 baño o 1 cocina por semana → hasta 4
+  obras pequeñas/mes**. Con un grupo contratado, planificar 1 obra/mes = **pérdidas**
+  (trabajadores parados 3 de cada 4 semanas). Esta v2 usa el modelo de grupos.
+- **Regla de datos:** `[CONFIRMADO]` = Rubén o investigación con fuente; `[SUPUESTO]` =
+  hipótesis a validar (marcadas). Nada inventado presentado como dato.
 
-## 0. Cómo usar esta hoja
+## 1. Estructura real de costes por obra (desglose CotizaT, 2026-09-03)
 
-1. Actualizar cada mes la columna real de su mes (obras, cobros, costes, gastos).
-2. Contrastar el **saldo acumulado real** con el previsto: si va >500 € por debajo,
-   revisar rampa de obra o gastos antes de que el fondo se agote.
-3. Mantener el **IVA cobrado separado** en la cuenta (se liquida por trimestre, Modelo
-   303): en esta hoja todo es sin IVA.
-4. Los supuestos marcados se cambian en cuanto haya dato real (gestoría, seguros,
-   herramientas, marketing…).
+Calculado de los descompuestos de CotizaT (recurso a recurso) + productos investigados:
 
-## 1. Supuestos
+| Obra tipo | Coste directo (mid, s/IVA) | Mano de obra | Materiales | ≈ Semanas de grupo |
+|---|---|---|---|---|
+| Baño 4,5 m² | 3.543 € | **1.437 € (41 %)** | 2.105 € | ~1,1 |
+| Cocina 3 m | 3.386 € | **725 € (21 %)** | 2.661 € | ~0,6 |
+| Integral 80 m² | 16.450 € | **7.596 € (46 %)** | 8.854 € | ~5,8 |
 
-| Concepto | Valor | Estado | Base |
-|---|---|---|---|
-| Aportación inicial (caja) | 20.000 € | `[CONFIRMADO]` | Rubén |
-| Vehículo SUV + compra | 10.000 € (dic-26) | `[CONFIRMADO]` | Rubén |
-| Herramientas iniciales | 1.500 € (dic-26) | `[SUPUESTO]` | Rubén: "solo lo necesario" — importe real `[PENDIENTE]` |
-| Constitución S.L. + trámites | 900 € (ene-27) | `[SUPUESTO]` (rango investigado 400–900 €) | referencia costes locales |
-| Seguros: RC reformas + vehículo | 750 €/año (ene-27): RC 250 + vehículo 500 | RC `[CONFIRMADO]` rango 160–300; vehículo `[SUPUESTO]` | referencia costes locales |
-| Gastos fijos mensuales | 560 €/mes: RETA 220 + gestoría 180 + centro (oficina virtual) 100 + software/varios 60 | `[CONFIRMADO]` los rangos; valores medios `[SUPUESTO]` | referencia costes locales |
-| Marketing / captación | 150 €/mes | `[SUPUESTO]` (presupuesto marketing `[PENDIENTE]`, sección 05) | — |
-| Retribución del socio | 1.900 €/mes bruto ≈ **1.600 €/mes netos** desde feb-27 | `[CONFIRMADO]` el neto; bruto según retención IRPF `[SUPUESTO]` | Rubén + gestoría |
-| Obra pequeña tipo (baño/cocina media) | Venta ≈ 4.676 € sin IVA · coste directo ≈ 3.464 € · **margen ≈ 1.212 €** | `[CONFIRMADO]` por modelo | 04-finanzas/estructura-de-costes*.md |
-| Empleados (2) | Su mano de obra **ya está dentro del coste directo** (tarifa de mercado CotizaT). Con coste real de plantilla el desembolso es algo menor → mejora de caja | `[SUPUESTO]` modalidad contractual a validar | ver notas §4 |
+> Obra pequeña media (mix 50/50 baño/cocina): venta ≈ **4.676 €** s/IVA (≈ 5.660 € c/IVA)
+> · materiales ≈ **2.383 €** · **contribución por obra ≈ 2.293 €** (la contribución paga
+> sueldos del grupo + estructura). Rangos de venta del modelo validado: baño 5.290–6.290 €
+> c/IVA y cocina 4.485–6.575 € c/IVA.
+> Coste real de grupo: 1 semana oficial+ayudante ≈ 40 h×(18,5 €/h) + 40 h×(14,5 €/h) =
+> **1.320 €/semana** `[SUPUESTO]` (coste empresa medio de los rangos CotizaT 17–20 €/h
+> oficial y 13–16 €/h ayudante).
 
-**Nota importante (empleados):** el coste directo de obra del modelo valora la mano de
-obra a la **tarifa de mercado** (oficial 1.ª ~21 €/h). Si los 2 empleados se contratan
-**solo por las horas de obra** (obra y tiempo determinados / jornada según carga), su
-coste ya queda cubierto por el coste directo (y suele ser algo menor que la tarifa →
-mejora el margen). Si se contratan **fijos a jornada completa**, hay que añadir su
-sueldo mensual (~2.000–2.500 €/mes coste empresa cada uno) a los gastos fijos: con esta
-rampa de obras NO cuadra → modalidad de contratación es decisión crítica a validar.
+## 2. Modelo de grupos (confirmado por Rubén, 2026-09-03)
 
-## 2. Plan de obra base (rampa confirmada: 1 obra/mes → 2–3 en paralelo)
+1. **Grupo 1** (1 oficial + 1 ayudante): se contrata con las primeras obras; cubre
+   baños, cocinas, cambios de suelo, etc. → hasta **4 obras pequeñas/mes**.
+2. Cuando entra una **obra grande** (≈ 3 meses, ≈ 30.000 € `[PENDIENTE: IVA dentro o
+   fuera]`): se contrata el **Grupo 2** (1 oficial + 1 ayudante), **dedicado a la obra
+   grande**.
+3. El **Grupo 1** sigue con las pequeñas; si alguna semana no hay pequeña, **apoya a la
+   obra grande** → ésta se termina antes (más rendimiento).
 
-Escenario **20 obras pequeñas en el año** (2 por mes de mar a jul y sep a dic, con
-descanso de agosto; arranque 1 en feb). Cada obra ≈ 2 semanas con equipo → 2 obras/mes
-en paralelo es lo que permite la capacidad confirmada (1 integral ≈ sustituye a ~4–5
-pequeñas; se modelará aparte cuando se firme la primera).
+## 3. Estructura de costes mensual con grupo contratado
 
-## 3. Tesorería mensual (€, sin IVA)
+| Concepto | €/mes | Estado |
+|---|---|---|
+| Grupo 1: oficial + ayudante (coste empresa) | 5.300 | `[SUPUESTO]` rango 4.800–5.700 (según convenio real gallego y horas) |
+| RETA del administrador (Rubén) | 220 | rango confirmado 206–235 |
+| Gestoría S.L. | 180 | rango 120–250 |
+| Centro: oficina virtual/domicilio | 100 | rango 36–179 |
+| Software, comunicaciones | 60 | `[SUPUESTO]` |
+| Marketing / captación | 150 | `[SUPUESTO]` |
+| Retribución de Rubén (bruto ≈ 1.900 = neto 1.600) | 1.900 | neto confirmado; bruto según IRPF |
+| **Total estructura mensual (grupo 1 activo)** | **≈ 7.910** | |
 
-| Mes | Obras | Cobros | Costes obra | G. fijos | Marketing | Retribución | Inversión | Saldo mes | Saldo acum. |
-|---|---|---|---|---|---|---|---|---|---|
-| dic-26 | 0 | 0 | 0 | 560 | 150 | 0 | 11.500 | −12.210 | 7.790 |
-| ene-27 | 0 | 0 | 0 | 560 | 150 | 0 | 1.650 | −2.360 | 5.430 |
-| feb-27 | 1 | 4.676 | 3.464 | 560 | 150 | 1.900 | 0 | −1.398 | 4.032 |
-| mar-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 3.847 |
-| abr-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 3.661 |
-| may-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 3.476 |
-| jun-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 3.291 |
-| jul-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 3.105 |
-| ago-27 | 1 | 4.676 | 3.464 | 560 | 150 | 1.900 | 0 | −1.398 | 1.708 |
-| sep-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 1.522 |
-| oct-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 1.337 |
-| nov-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 1.151 |
-| dic-27 | 2 | 9.352 | 6.927 | 560 | 150 | 1.900 | 0 | −185 | 966 |
+**Equilibrio con grupo 1:** 7.910 €/mes ÷ 2.293 € de contribución por pequeña =
+**≈ 3,5 obras pequeñas/mes**. Nada de "1 obra/mes": eso pierde ≈ 4.800 €/mes.
 
-**Totales año:** 20 obras · venta ≈ 93.520 € · margen bruto ≈ 24.246 € · **saldo final
-dic-27 ≈ +966 €** (habiendo pagado toda la inversión de arranque ≈ 13.150 €).
+| Ritmo de pequeñas (grupo 1) | Resultado mensual | Venta anual ≈ (11 meses) |
+|---|---|---|
+| 3 / mes | **− 1.031 €/mes** (pierde) | 154 k€ |
+| 3,5 / mes (equilibrio) | ≈ 0 | 180 k€ |
+| **4 / mes (capacidad plena)** | **+ 1.262 €/mes** | 206 k€ |
+| 4/mes + apoyo a obra grande en semana libre | mejora (la grande rinde antes) | — |
 
-> Simplificaciones (anotadas para no confundir): el cobro de cada obra se supone en el
-> mes en que termina (en la realidad: 30–40 % señal a la firma, resto por hitos);
-> materiales pagados en el mismo mes; **retenciones de garantía** (5–10 % hasta ~3 meses
-> tras la entrega) NO están en la hoja → a cierre de año quedarían **≈ +1–2 k€ por
-> cobrar en 2028**. La retención de IRPF de la nómina se ingresa trimestralmente (en la
-> hoja se resta el bruto completo cada mes → conservador). IVA no modelado (se liquida y
-> no es caja disponible).
+*(Antes de impuestos y de recuperar inversión. La venta anual de 200 k€+ con un solo
+grupo de pequeñas es el escenario donde el negocio deja beneficio con margen 35 %.)*
 
-## 4. Lectura: ¿cuadra el objetivo de 90–115 k€?
+## 4. Obra grande con Grupo 2 (≈ 30.000 €, 3 meses)
 
-| Caso | Obras/año | Venta ≈ | Saldo final dic-27 ≈ |
-|---|---|---|---|
-| Prudente bajo | 18 | 84 k€ | −1.459 |
-| Mínimo para no tocar fondo | 19 | 89 k€ | −246 |
-| **Plan base** | **20** | **93,5 k€** | **+966** |
-| Recomendado medio | 21–22 | 98–103 k€ | +2.178 a +3.391 |
-| Límite alto del objetivo | 23–24 | 108–112 k€ | +4.603 a +5.815 |
+| Hipótesis de venta | Venta s/IVA | Coste ≈ | Margen ≈ | MO modelada | Semanas-grupo |
+|---|---|---|---|---|---|
+| "30.000 €" con IVA | 24.800 € | 18.370 € | 6.430 € | ≈ 8.480 € | 6,4 |
+| "30.000 €" sin IVA | 30.000 € | 22.222 € | 7.778 € | ≈ 10.260 € | 7,8 |
 
-Conclusiones honestas:
+> ⚠️ **Punto crítico a validar:** si el Grupo 2 está fijo 12 semanas en la obra grande a
+> jornada completa, su coste sería ≈ 12 × 1.320 = 15.840 €, **por encima de la mano de
+> obra que modela una integral de 80 m² (≈ 7.600–10.300 €)**. Eso significa que, o la
+> obra grande real es de más superficie/alcance que el modelo de 80 m², o el Grupo 2 no
+> está 12 semanas a jornada completa (apoya en pequeñas, o la obra se hace con más
+> rendimiento / menos semanas). **Hay que confirmar con Rubén la obra grande real** antes
+> de fijar números del Grupo 2. Hasta entonces: tratar la integral como "margen extra"
+> con MO ya cubierta por el Grupo 2 y semanas de apoyo del Grupo 1.
 
-1. **El objetivo elegido (90–115 k€) funciona solo cerca del extremo alto o con margen
-   real > 1.212 €/obra.** Con 20 obras y los supuestos medios, el año cierra con ~1 k€ de
-   colchón (más retenciones por cobrar). Para un colchón cómodo: **21–23 obras** o
-   mejorar el margen medio.
-2. **Palancas que mejoran la caja sin inventar nada:** (a) mano de obra con plantilla
-   propia a coste real < tarifa de mercado → margen real por obra mayor; (b) retenciones
-   de garantía que se cobran en 2028 (+1–2 k€); (c) una **integral** aporta ≈5.760 € de
-   margen por ~3 meses → 1–2 integrales al año equivalen a ~5–10 obras pequeñas y
-   liberan semanas de gestión; (d) ajustar marketing/herramientas/centro a lo real.
-3. **Riesgo de caja del arranque:** el mínimo de saldo se toca en feb–mar (~4 k€) y
-   agosto (~1,7 k€). Si feb–mar se retrasan las primeras firmas, el fondo aguanta ~2
-   meses sin obra (≈5,4 k€ ene-27).
-4. **Contratación de los 2 empleados:** validar modalidad (por obra / jornada según
-   carga) — con empleados fijos a jornada completa esta rampa no cierra (ver §1).
+## 5. Implicaciones (a cerrar con Rubén)
 
-## 5. Qué falta para afinar (al llegar a A Coruña / con gestoría)
+1. **Con grupos fijos, el objetivo de facturación del año 1 sube**: ≈ 3,5 obras/mes de
+   media ≈ **175–205 k€ de venta anual** para cubrir estructura + dejar beneficio. El
+   objetivo previo de 90–115 k€ solo valía sin grupo fijo (estructura tarifa). **Reabrir
+   objetivo** con los datos reales.
+2. **Contratación**: validar modalidad (fijos por obra vs. indefinidos) y convenio
+   gallego real → cambia el punto de equilibrio directamente.
+3. Si la demanda no llena 4 semanas/mes del grupo, las semanas libres se cubren con
+   **apoyo a obra grande** o con **pequeñas de catálogo** (pintura, suelos) — por eso
+   Rubén acepta "todo tipo de trabajos" pero no micro-mantenimiento.
+4. La retención de garantía (5–10 % de cada obra, cobro a ~3 meses) y el IVA no están en
+   estas cuentas (IVA se separa y liquida por trimestre).
 
-- [ ] Presupuesto real de gestoría y validación del bruto para neto 1.600 €/mes.
-- [ ] Seguro del vehículo y RC con primas reales; coste real del centro (domicilio vs
-      coworking).
-- [ ] Importe real de herramientas y del marketing de arranque.
-- [ ] Modalidad contractual de los 2 empleados (por obra vs fijos).
-- [ ] Sustituir obra "media pequeña" por la mezcla real (baños/cocinas/integral) según
-      presupuestos firmados.
+## 6. Pendiente para cerrar la hoja mensual definitiva
+
+- [ ] Confirmar: obra grande ≈ 30.000 € ¿IVA incluido o no? ¿superficie/alcance típico?
+- [ ] Confirmar: modalidad de contratación de los grupos y coste real (convenio A Coruña).
+- [ ] Confirmar: objetivo de facturación año 1 revisado (a la luz de §5.1).
+- [ ] Rampa real: mes a mes, primeras obras y momento de contratación del Grupo 1 y del
+      Grupo 2 → tabla mensual definitiva.
+- [ ] Presupuestos reales: gestoría, seguros, centro, herramientas, marketing.
