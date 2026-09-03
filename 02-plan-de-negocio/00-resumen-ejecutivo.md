@@ -40,7 +40,10 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
 
 - **Rubén** (dirección y ejecución técnica) + **2 empleados propios** que se contratan
   **cuando haya proyectos firmados con fecha de inicio**; ampliación según demanda.
-- Subcontratación de especialidades (electricidad, fontanería…) cuando el volumen lo requiera.
+- Subcontratación de especialidades: **NO** (decisión Rubén, 2026-09-03) — si la carga lo
+  justifica se **amplía la plantilla propia**.
+- Capacidad objetivo: arranque con 1 obra/mes (justifica los 2 empleados); avanzando,
+  **2–3 obras en paralelo** (p. ej. 1 integral + baños/cocinas). Captación continua.
 - Base operativa: **centro de negocios** en A Coruña (oficina a demanda).
 - Vehículo: SUV grande + remolque (visitas y transporte de materiales).
 (Detalle en [`06-operaciones.md`](06-operaciones.md).)
@@ -61,7 +64,9 @@ fondo de maniobra + marketing de arranque (reparto por cerrar en el
 ## Pendiente para cerrar este resumen
 
 - [ ] Fijar precios/tarifas propias (CotizaT + mercado local).
-- [ ] Definir retribución del socio el año 1.
-- [ ] Definir objetivo de obras/facturación año 1.
+- [x] Retribución del socio año 1: **≈ 1.600 €/mes netos** (2026-09-03).
+- [x] Objetivo año 1: facturación **≈ 90–115 k€** (2026-09-03).
+- [x] Capacidad: arranque 1 obra/mes → 2–3 obras en paralelo; sin subcontratas (2026-09-03).
 - [ ] Validar denominación "RemodelaT Coruña S.L." con gestoría.
-- [ ] Cuantificar constitución, seguros, gestoría y marketing de arranque.
+- [ ] Cuantificar constitución, seguros, gestoría y marketing de arranque (rangos
+      investigados 2026-09-03; presupuestos reales pendientes).

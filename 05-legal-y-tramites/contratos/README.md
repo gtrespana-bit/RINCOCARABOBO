@@ -6,7 +6,8 @@
 
 - **Contrato tipo con cliente** (obra/reforma): alcance, presupuesto, plazos, forma de pago,
   garantía, modificados.
-- **Contrato con subcontratistas y oficiales:** condiciones, precios, prevención de riesgos.
+- **Contrato con el equipo y proveedores:** condiciones laborales de oficiales/peones
+  (plantilla propia) y de suministro con proveedores de materiales.
 - Contratos firmados (copia en PDF), organizados por obra o por año.
 
 ## Notas

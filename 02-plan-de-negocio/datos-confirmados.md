@@ -54,6 +54,16 @@
 | Validación del modelo de costes | **Punto 1 (escenarios con presupuestos reales): validado "por el momento"** | Rubén da por buenos los rangos baño/cocina/integral contra mercado 2026; validación definitiva con presupuestos reales cuando opere |
 | Trabajo en curso | **Ir a punto 2 (política de contingencia/gastos de gestión) y punto 3 (costes locales)** | Hecho: [política de margen/contingencia](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md) + [costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md) |
 
+## Aportaciones — 2026-09-03 (6.ª tanda: cierre de retribución, objetivo, capacidad y contingencias)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Retribución del socio año 1 | **≈ 1.600 €/mes NETOS** (mínimo vital de Rubén) | Bruto ≈ 1.850–2.000 €/mes según retención IRPF (calcular con gestoría; la cuota RETA ya está en los gastos fijos) |
+| Objetivo año 1 | **Escenario Recomendado: facturación ≈ 90–115 k€** (1,5–2 obras pequeñas/mes de media, feb–dic 2027) | Con rampa de arranque: los primeros meses costará acercarse; el objetivo es anual |
+| Capacidad de obra | **Arranque: 1 obra/mes** (justifica contratar a los 2 empleados). **Avanzando: 2–3 obras en paralelo**, p. ej. 1 integral (~3 meses) + obras pequeñas (baño/cocina) | Rubén estará en **captación continua** y **no rechazará obras** que salgan |
+| Subcontratación | **NO subcontratar**: si se necesita y se justifica, **ampliar plantilla propia** | Sustituye al modelo "plantilla + subcontratas" de los borradores 00/01/06 |
+| Política de contingencias | **Precios cerrados** para el alcance pactado. Imprevistos ocultos (p. ej. fugas/humedades al demoler) o cambios del propietario → **se documentan y presupuestan como modificación; el cliente decide**. La empresa **no asume gastos que correspondan al cliente** | Ajusta la propuesta de reserva interna de la política ([04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)): sin absorción por la empresa |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

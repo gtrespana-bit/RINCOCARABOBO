@@ -6,9 +6,9 @@
 | # | Riesgo | Mitigación prevista |
 |---|---|---|
 | 1 | **Marca nueva sin referencias locales** (empresa desde cero en A Coruña) | Obra real documentada del fundador (P-ES-001…007); canal online con fotos y reseñas; garantía por escrito; presencia en Google desde el día 1 |
-| 2 | **Dependencia de la contratación de empleados** (solo con obra firmada) | Equipo subcontratado de especialidades + empleados propios según carga; presupuestar con margen de imprevistos |
-| 3 | **Imprevistos de obra que erosionan el margen** (estado real del soporte, humedades, instalaciones ocultas) | Diagnóstico técnico previo (etapa 1 del método); partidas de imprevisto/partidas "no incluido" claras en presupuesto y contrato |
-| 4 | **Subcontratistas no fiables o sin disponibilidad** | Red de proveedores a construir y validar (03-mercado/proveedores); criterio de calidad del método; contratos y condiciones claras |
+| 2 | **Dependencia de la contratación de empleados** (solo con obra firmada) | Confirmado: se contrata a los 2 empleados con obra firmada; **sin subcontratas**, se amplía plantilla propia si la carga lo justifica; presupuestar con margen de imprevistos |
+| 3 | **Imprevistos de obra que erosionan el margen** (estado real del soporte, humedades, instalaciones ocultas) | Diagnóstico técnico previo (etapa 1 del método); política confirmada 2026-09-03: imprevistos ocultos → documentados y presupuestados como modificación; decide el cliente (la empresa no los absorbe) |
+| 4 | **Dificultad para encontrar personal cualificado al ampliar la plantilla** (oficiales/peones) | Red de profesionales y proveedores a construir en A Coruña (03-mercado/proveedores) con criterio de calidad del método; selección, periodo de prueba y contratos claros |
 | 5 | **Competencia local consolidada** (reformas integrales, llave en mano, ES/GL, ayudas Kit Digital) | Diferenciación por método/garantía/obra documentada/experiencia del fundador; hueco a validar con estudio de competencia |
 | 6 | **Volatilidad de precios de materiales** | Presupuestos con validez acotada y compra planificada (etapa 5 del método); especificación previa de materiales |
 | 7 | **Tesorería entre cobros** (obras largas, pagos por hitos) | Contrato con pagos por hitos/avance; fondo de maniobra (parte de los 20.000 €); no empezar sin contrato claro |

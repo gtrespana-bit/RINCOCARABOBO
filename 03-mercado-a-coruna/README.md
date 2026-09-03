@@ -11,7 +11,7 @@ Es la fuente de datos del plan de negocio (sección "Mercado").
 - [`competencia/`](competencia/README.md) — Otras empresas de reformas en A Coruña:
   qué ofrecen, a qué precios, cómo se posicionan.
 - [`proveedores/`](proveedores/README.md) — Almacenes de materiales, tiendas y
-  subcontratistas locales (contactos y valoraciones).
+  profesionales locales (contactos y valoraciones; candidatos a plantilla propia).
 
 ## Reglas
 

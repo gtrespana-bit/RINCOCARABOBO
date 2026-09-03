@@ -18,7 +18,7 @@ en Markdown. Cada sección se crea como archivo propio y se va completando por f
 | `03-mercado.md` | Mercado en A Coruña (se alimenta de `03-mercado-a-coruna`) | `[BORRADOR]` 2026-09-03 |
 | `04-competencia.md` | Competidores, precios y posicionamiento | `[BORRADOR]` 2026-09-03 |
 | `05-marketing-y-ventas.md` | Captación online, web, referencias | `[BORRADOR]` 2026-09-03 |
-| `06-operaciones.md` | Ejecución: método 10 etapas, equipo, subcontratas, recursos | `[BORRADOR]` 2026-09-03 |
+| `06-operaciones.md` | Ejecución: método 10 etapas, equipo/plantilla propia, recursos | `[BORRADOR]` 2026-09-03 |
 | `07-plan-financiero.md` | Inversión ~20.000 €, costes (CotizaT), obras tipo, punto equilibrio | `[BORRADOR/esqueleto]` 2026-09-03 |
 | `08-riesgos.md` | Riesgos del proyecto y cómo mitigarlos | `[BORRADOR]` 2026-09-03 |
 | `09-plan-de-accion.md` | Próximos pasos dic 2026 → feb–mar 2027 con responsables | `[BORRADOR]` 2026-09-03 |

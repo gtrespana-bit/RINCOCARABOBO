@@ -1,10 +1,13 @@
 # Política de margen, contingencia y gastos de gestión — RemodelaT Coruña S.L.
 
 - **Fecha:** 2026-09-03
-- **Estado:** `[BORRADOR]` — propuesta para confirmar con Rubén (las partes que son su
-  decisión están marcadas). Los **hechos** (referencias sectoriales) llevan fuente y fecha.
+- **Estado:** `[BORRADOR/CONFIRMADO EN PARTE]` — la **política de contingencias** y la
+  **retribución/objetivo/capacidad** quedaron confirmadas por Rubén el 2026-09-03 (ver
+  `02-plan-de-negocio/datos-confirmados.md`, 6.ª tanda). El **margen del 35 %** es la base
+  validada en los pilotos; se ajustará con la primera obra real. Los **hechos**
+  (referencias sectoriales) llevan fuente y fecha.
 - **Objeto:** definir cómo se convierte el **coste directo** de una obra (modelos de
-  `04-finanzas`) en **precio al cliente**, y cómo se cubren los **imprevistos** y los
+  `04-finanzas`) en **precio al cliente**, y cómo se gestionan los **imprevistos** y los
   **gastos de estructura** sin inventar partidas ni sorprender al cliente.
 
 ## 1. Cómo se forma el precio hoy (modelo validado)
@@ -20,8 +23,9 @@ Coste directo (partidas CotizaT ES + productos a precio investigado, sin IVA)
 ```
 
 Ese 35 % es un **margen comercial bruto**: debe cubrir, a la vez, los **gastos de
-gestión/estructura**, la **reserva de imprevistos** y el **beneficio neto** de la empresa.
-Este documento reparte ese margen en tres bolsas para que las cuentas cuadren.
+gestión/estructura**, un **colchón de tesorería/riesgo de empresa** y el **beneficio
+neto**. Este documento reparte ese margen en esas bolsas para que las cuentas cuadren;
+los **imprevistos de obra** no se descuentan de él (ver política confirmada en §3.3).
 
 ## 2. Referencias sectoriales (hechos, con fuente)
 
@@ -35,9 +39,9 @@ Este documento reparte ese margen en tres bolsas para que las cuentas cuadren.
 Traducción a % sobre el **precio de venta sin IVA** (estructura pública típica):
 GG 13 % s/PEM ≈ **11 % del PVP**, BI 6 % s/subtotal ≈ **6 % del PVP** (≈17 % en total).
 El margen RemodelaT del 35 % sobre coste equivale a ≈ **26 % del PVP**: queda margen para
-contingencia + colchón, coherente con que la empresa es pequeña y asume riesgo de ejecución.
+el colchón de tesorería/riesgo de la empresa, coherente con una empresa pequeña.
 
-## 3. Propuesta de política RemodelaT (a confirmar por Rubén)
+## 3. Política RemodelaT (confirmada en parte el 2026-09-03)
 
 ### 3.1. Margen comercial objetivo: **35 % sobre el coste directo (mínimo)**
 
@@ -58,27 +62,41 @@ Desglose orientativo sobre el precio de venta sin IVA (obra pequeña tipo, punto
 |---|---|---|---|
 | Coste directo | 100 % | 74,1 % | ≈ 3.542 € |
 | Gastos de gestión/estructura (ref. GG 13 % s/PEM) | ≈ 10–15 % | ≈ 8–11 % | ≈ 380–525 € |
-| Reserva de contingencias de obra | ≈ 6–8 % | ≈ 4–6 % | ≈ 215–285 € |
+| Colchón de tesorería/riesgo de empresa | ≈ 5–8 % | ≈ 4–6 % | ≈ 190–285 € |
 | Beneficio neto antes de impuestos (resto) | ≈ 12–19 % | ≈ 9–14 % | ≈ 430–670 € |
 
+> El colchón no es una "reserva oculta por obra": es tesorería de empresa para huecos de
+> cobro, garantías, roturas o semanas sin obra. Los **imprevistos del inmueble no salen de
+> aquí**: se presupuestan como modificación al cliente (§3.3).
+>
 > El **% real** de gastos de gestión se cerrará con la contabilidad del primer año
 > (gestoría + centro de negocios + seguros + software + vehículo). Hasta entonces, usar
 > estos rangos para no gastarse el margen: **no dar todo el 35 % como beneficio**.
 > `[PENDIENTE] seguimiento con la tesorería real`.
 
-### 3.3. Contingencia (imprevistos): reserva interna, precio cerrado
+### 3.3. Contingencia (imprevistos): política CONFIRMADA por Rubén (2026-09-03)
 
-- **Propuesta (obra pequeña/media, baños y cocinas):** reserva interna de **≈ 8 % del
-  presupuesto sin IVA** (dentro de la práctica habitual 5–10 %). El presupuesto al cliente
-  se entrega **cerrado**: la empresa absorbe los imprevistos razonables hasta ese importe;
-  por encima (o cambios pedidos por el cliente), **modificación documentada** — tal como
-  ya recoge la [plantilla de presupuesto](../09-plantillas/presupuesto.md).
-- En **rehabilitaciones o integrales** con instalaciones ocultas: elevar la reserva al
-  10–12 % o, si la obra lo aconseja, mostrar una **partida explícita "Imprevistos"** en el
-  presupuesto (transparente para el cliente). Decidir por obra. `[PENDIENTE]`
-- Regla de control: la reserva no liberada al cierre de obra pasa a **beneficio/colchón**
-  de la empresa (nunca a "regalar" descuentos fuera de lo pactado).
-- En la tesorería se separará una **cuenta de reservas** con lo acumulado.
+> Decisión de Rubén (resumen fiel): *"Los precios son cerrados. Las contingencias, cuando
+> sean extras por culpa del propietario o trabajos que aparecen (p. ej.: se demuele una
+> pared de azulejo y aparecen fugas o humedades), se documentan y se exponen al cliente;
+> el cliente decide qué hacer exactamente. La empresa no se hará cargo de gastos que sean
+> del cliente."*
+
+**Política operativa resultante:**
+
+1. **Precio cerrado** para el alcance pactado en el presupuesto (con sus exclusiones
+   claras — ver [plantilla de presupuesto](../09-plantillas/presupuesto.md)).
+2. **Imprevistos ocultos** descubiertos en obra (fugas, humedades, instalaciones en mal
+   estado, soportes que exigen refuerzos…) o **cambios pedidos por el cliente**:
+   - se **documentan** (fotos + descripción + partida y medición),
+   - se **presupuestan como modificación** (modificado por escrito),
+   - **el cliente decide**: aprueba y se ejecuta, o no se ejecuta.
+3. La empresa **no absorbe** gastos imputables al cliente ni a imprevistos del inmueble:
+   todo lo no previsto se rige por el punto 2. (Sin reserva interna oculta por obra; la
+   prudencia de tesorería se gestiona a nivel de empresa, no se descuenta del precio.)
+4. Esta política se reflejará en el **contrato de obra** (cláusula de modificados) y ya
+   encaja con la plantilla de presupuesto (condiciones 5 "No incluido" y 6
+   "Modificaciones").
 
 ### 3.4. Gastos de gestión y estructura
 
@@ -90,13 +108,15 @@ Desglose orientativo sobre el precio de venta sin IVA (obra pequeña tipo, punto
 
 ## 4. Números por obra tipo (puntos medios del modelo, 2026-09-03)
 
-| Obra tipo | Coste medio | PVP ×1,35 (s/IVA) | Margen bruto 35 % | Reserva ≈ 8 % s/PVP |
-|---|---|---|---|---|
-| Baño 4,5 m² | ≈ 3.542 € | ≈ 4.782 € | ≈ 1.240 € | ≈ 380 € |
-| Cocina 3 m | ≈ 3.385 € | ≈ 4.570 € | ≈ 1.185 € | ≈ 365 € |
-| Integral 80 m² | ≈ 16.450 € | ≈ 22.210 € | ≈ 5.760 € | ≈ 1.780 € |
+| Obra tipo | Coste medio | PVP ×1,35 (s/IVA) | Margen bruto 35 % |
+|---|---|---|---|
+| Baño 4,5 m² | ≈ 3.542 € | ≈ 4.782 € | ≈ 1.240 € |
+| Cocina 3 m | ≈ 3.385 € | ≈ 4.570 € | ≈ 1.185 € |
+| Integral 80 m² | ≈ 16.450 € | ≈ 22.210 € | ≈ 5.760 € |
 
-*(El margen de la integral es mayor pero cubre más semanas de gestión y más riesgo.)*
+*(El margen de la integral es mayor pero cubre más semanas de gestión y más riesgo. Ese
+margen bruto reparte entre GG + colchón + beneficio neto (§3.2); los imprevistos de obra
+se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 
 ## 5. Punto de equilibrio mensual (costes fijos investigados — ver referencia de costes)
 
@@ -109,25 +129,35 @@ Desglose orientativo sobre el precio de venta sin IVA (obra pequeña tipo, punto
 | Software, comunicaciones, varios | `[PENDIENTE]` | 60 € |
 | **Total gastos fijos (sin retribución del socio)** | ≈ 430–850 €/mes | **≈ 580 €/mes** |
 
+- **Retribución del socio (confirmada por Rubén, 2026-09-03): ≈ 1.600 €/mes netos**.
+  Bruto estimado ≈ 1.850–2.000 €/mes según retención IRPF (cuadrar con gestoría al
+  formalizar la nómina de administrador). Total a cubrir con el margen:
+  ≈ 580 + 1.900 ≈ **2.480 €/mes** (≈ 2.430–2.580 según bruto).
+
 **Equilibrio (margen medio ≈ 1.200 € por obra pequeña; ≈ 5.760 € por integral):**
 
 | Escenario | Necesario para cubrir |
 |---|---|
 | Solo gastos fijos (580 €/mes) | ≈ 0,5 obra pequeña/mes, o 1 integral cada ~10 meses |
-| Gastos fijos + retribución moderada (≈ 1.500 €/mes brutos) | ≈ 1,7 obras pequeñas/mes, o ≈ 0,4 integrales/mes (1 integral ≈ 2,5 meses de costes) |
+| Gastos fijos + retribución neta 1.600 €/mes (total ≈ 2.480 €/mes) | ≈ **2,1 obras pequeñas/mes**, o ≈ 0,43 integrales/mes (1 integral cubre ≈ 2,3 meses) |
 
-> Implicación práctica: el **objetivo comercial mínimo realista es ≈ 1,5–2 obras
-> pequeñas/mes de media** (con 1–2 empleados y subcontratas puntuales), o el mix con
-> integrales equivalente. Esto se cierra en el objetivo de año 1 con Rubén.
+> Implicación con la capacidad confirmada (Rubén, 2026-09-03): arranque con **1 obra/mes**
+> (primeros meses con apoyo del fondo de maniobra) y avance a **2–3 obras en paralelo**
+> (1 integral + pequeñas) con plantilla propia ampliable. El **objetivo anual ≈ 90–115 k€**
+> exige ≈ 1,5–2 obras pequeñas de media/mes en el conjunto del año (ver
+> `07-plan-financiero.md` §5.2).
 
-## 6. Decisiones pendientes de Rubén
+## 6. Decisiones y seguimiento
 
-- [ ] Confirmar margen objetivo mínimo 35 % (y % para calidades premium / obra con riesgo).
-- [ ] Confirmar política de contingencia: reserva interna 8 % y precio cerrado (3.3) frente
-      a partida visible en integrales.
-- [ ] Confirmar reparto interno del margen y partida de gastos de gestión.
-- [ ] Retribución del socio y objetivo de facturación/obras año 1 (se cierra en
-      `02-plan-de-negocio/07-plan-financiero.md` §5).
+- [x] Política de contingencias confirmada (Rubén, 2026-09-03) → §3.3.
+- [x] Retribución (≈ 1.600 €/mes netos), objetivo año 1 (≈ 90–115 k€) y capacidad
+      (arranque 1 obra/mes → 2–3 en paralelo; sin subcontratas) → 2026-09-03.
+- [ ] Confirmar el margen del 35 % con la primera obra real y definir % para calidades
+      *premium* / riesgo alto (hasta entonces se mantiene el 35 % de los pilotos).
+- [ ] Revisar si en integrales grandes se cobra línea de "gestión de obra" explícita
+      (con datos de la primera integral real).
+- [ ] Seguimiento de gastos reales de gestión vs. desglose §3.2 con la contabilidad del
+      año 1 (cerrar % real de GG).
 
 ## Fuentes
 

@@ -15,17 +15,19 @@
 | Seguros (RC reformas + vehículo) | RC: **≈ 160–300 €/año** (sin empleados; 250–400 € con plantilla); vehículo: `[PENDIENTE]` | ídem |
 | Centro de negocios (cuota inicial/alta) | Fase 1: domicilio profesional **desde 36 €+IVA/mes** (Coworking Oleiros) u oficina virtual; coworking 109–180 €; despacho 375–500 € si hace falta | ídem |
 | Gestoría (cuota mensual corriente) | S.L. básica **120–250 €/mes** (+15–30 €/empleado/mes cuando se contrate) | ídem, ver §5.1 |
-| Fondo de maniobra (tesorería entre cobros) | `[PENDIENTE]` | Resto tras lo anterior |
+| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Cubrir ≈ 2.480 €/mes (gastos fijos + retribución neta 1.600 €) durante la rampa 1 obra/mes → 2-3 obras; mínimo recomendado ≈ 6–7 k€ según resto de partidas |
 | Marketing de arranque | `[PENDIENTE]` | Ver sección 05 |
 
 ## 2. Costes de mano de obra (fuente: CotizaT, España, datos 2026-08-25)
 
-- **Tarifa de mercado (subcontrata/autónomo factura):** oficial 1.ª 21 €/h (18–25);
-  electricista 24 €/h; fontanero 23 €/h; pintor 20 €/h; ayudante 15 €/h.
-- **Coste empresa (empleados en nómina):** oficial 1.ª ≈ 17–20 €/h zona media española
-  (19–23 en Madrid/Cataluña); ayudante/peón ≈ 13–16 €/h. (Fórmula interna CotizaT:
-  bruto ×1,3215 SS empresa + costes fijos; ver referencias.)
-- Uso: calcular coste de la obra tipo según plantilla propia vs. subcontrata.
+- **Tarifa de mercado (referencia; equivaldría a subcontratar):** oficial 1.ª 21 €/h
+  (18–25); electricista 24 €/h; fontanero 23 €/h; pintor 20 €/h; ayudante 15 €/h.
+- **Coste empresa (empleados en nómina — modelo de ejecución confirmado, sin
+  subcontratas):** oficial 1.ª ≈ 17–20 €/h zona media española (19–23 en Madrid/Cataluña);
+  ayudante/peón ≈ 13–16 €/h. (Fórmula interna CotizaT: bruto ×1,3215 SS empresa + costes
+  fijos; ver referencias.)
+- Uso: calcular el coste de la obra tipo según **plantilla propia** (coste empresa). La
+  tarifa de mercado sirve de referencia de valor y de comparación.
 - ⚠️ Rangos nacionales orientativos: **contrastar con la realidad gallega/coruñesa** antes
   de fijar tarifas (2027, con proveedores locales).
 
@@ -54,10 +56,11 @@
 > dormitorio, licencias/gestión de proyecto, seguro/SS y gastos generales → queda por
 > debajo de la banda "económica" de mercado (400–1.000 €/m²). Antes de ofertar una
 > integral hay que **sumar esas partidas por obra** (presupuestos reales).
-> La política de **margen (35 %), contingencia (reserva interna ≈ 8 %) y gastos de
-> gestión** se define en
+> La política de **margen (35 %) y contingencias (precio cerrado; imprevistos ocultos →
+> modificación documentada decidida por el cliente)** se define en
 > [04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)
-> (propuesta 2026-09-03, pendiente de confirmar por Rubén).
+> (política 2026-09-03; contingencias, retribución, objetivo y capacidad confirmados por
+> Rubén — ver [datos-confirmados](datos-confirmados.md) 6.ª tanda).
 
 Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 1. Servicios secundarios (pintura, suelos, revestimientos…).
@@ -68,9 +71,10 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 
 | Concepto | Estado |
 |---|---|
-| Retribución del socio el año 1 | `[PENDIENTE]` (Rubén: por definir; contexto salarial en [referencia costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md) §6) |
-| Objetivo de obras/facturación año 1 | `[PENDIENTE]` (abierto; escenarios en §5.2) |
-| Punto de equilibrio mensual | ≈ 0,5 obra pequeña/mes solo gastos fijos; ≈ 1,7 obras/mes con retribución moderada (ver §5.1) |
+| Retribución del socio el año 1 | **≈ 1.600 €/mes netos** (confirmado 2026-09-03; bruto ≈ 1.850–2.000 €/mes según IRPF) |
+| Objetivo de obras/facturación año 1 | **Escenario Recomendado: ≈ 90–115 k€** (confirmado 2026-09-03; detalle en §5.2) |
+| Capacidad de obra | Arranque 1 obra/mes → 2–3 obras en paralelo; **sin subcontratas** (confirmado 2026-09-03) |
+| Punto de equilibrio mensual | ≈ 0,5 obra pequeña/mes solo gastos fijos (580 €); ≈ **2,1 obras/mes** con retribución neta 1.600 € (≈ 2.480 €/mes total) |
 | IVA / IRPF / Impuesto de Sociedades | Según forma S.L. → con gestoría |
 
 ### 5.1. Gastos fijos mensuales (investigado 2026-09-03, rangos reales)
@@ -86,18 +90,27 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 
 *(Fuentes de cada rango: [referencia costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md).)*
 
-### 5.2. Escenarios de objetivo año 1 (orientativos, a cerrar con Rubén)
+**Retribución del socio (confirmada 2026-09-03): ≈ 1.600 €/mes netos** (bruto estimado
+≈ 1.850–2.000 €/mes según retención IRPF → cuadrar con gestoría). Coste mensual total a
+cubrir con el margen de las obras: ≈ **2.480 €/mes** (580 fijos + ≈ 1.900 retribución).
+
+### 5.2. Objetivo de año 1 — **CONFIRMADO por Rubén (2026-09-03)**
 
 Margen bruto medio por obra tipo (modelo validado): ≈ 1.200 € obra pequeña (baño/cocina),
 ≈ 5.760 € integral 80 m². Operativa real: feb–dic 2027 (≈ 10-11 meses).
 
 | Escenario | Volumen | Facturación ≈ | Margen bruto ≈ | Notas |
 |---|---|---|---|---|
-| **Prudente** | 1 obra pequeña/mes de media | 55–60 k€ | ≈ 13–15 k€ | Cubre gastos fijos + retribución mínima; sin colchón |
-| **Recomendado** | 1,5–2 obras pequeñas/mes | 90–115 k€ | ≈ 22–28 k€ | Cubre gastos + retribución moderada + reservas |
-| **Con integrales** | 10–12 pequeñas + 2–3 integrales | ≈ 115–140 k€ | ≈ 30–36 k€ | Exige 2 empleados estables + subcontratas (equipo confirmado) |
+| Prudente | 1 obra pequeña/mes de media | 55–60 k€ | ≈ 13–15 k€ | Cubre gastos + retribución mínima a duras penas; sin colchón |
+| **✅ Recomendado (elegido)** | 1,5–2 obras pequeñas/mes de media | **90–115 k€** | ≈ 22–28 k€ | Cubre gastos (2.480 €/mes) + beneficio/colchón |
+| Con integrales | 10–12 pequeñas + 2–3 integrales | ≈ 115–140 k€ | ≈ 30–36 k€ | Opcional avanzado el año si la captación lo permite |
 
-*(Volumen limitado por la capacidad real: ver decisión de capacidad con Rubén.)*
+**Cómo se alcanza (capacidad confirmada):** arranque con **1 obra/mes** (justifica a los 2
+empleados; los primeros meses se apoyan en el fondo de maniobra) y avance a **2–3 obras en
+paralelo** (p. ej. 1 integral ≈ 3 meses + baños/cocinas). **Sin subcontratación**: si la
+carga lo justifica se amplía la plantilla propia. Captación continua: **no rechazar obras**
+que salgan. Con rampa realista, el ritmo sostenido necesario es ≈ 1,7–2 obras
+pequeñas-equivalentes/mes en la segunda mitad del año.
 
 ## 6. Financiación
 
@@ -106,13 +119,15 @@ Margen bruto medio por obra tipo (modelo validado): ≈ 1.200 € obra pequeña 
 
 ## 7. Pendiente (siguientes pasos)
 
-- [x] Política de contingencia y gastos de gestión definida (propuesta 2026-09-03) →
-      **confirmar con Rubén** (margen 35 %, reserva ≈ 8 %, GG cubiertos por el margen).
+- [x] Política de contingencias confirmada por Rubén (2026-09-03): precio cerrado;
+      imprevistos ocultos → modificación documentada decidida por el cliente (la empresa no
+      los absorbe). Ver [política de margen/contingencia](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md).
+- [x] Retribución (≈ 1.600 €/mes netos), objetivo año 1 (≈ 90–115 k€) y capacidad
+      (1 obra/mes → 2–3 en paralelo; sin subcontratas) cerrados con Rubén (2026-09-03).
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
+- [ ] Montar **hoja de tesorería mensual de arranque** (meses previos a primera obra) con
+      los gastos de §5.1 + retribución neta 1.600 €/mes y la rampa de obras (1 → 2-3).
 - [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
       gestión/proyecto) — Rubén lo validó "por el momento" como está (2026-09-03).
 - [ ] Costear servicios secundarios (pintura, suelos, revestimientos…).
-- [ ] Cerrar con Rubén: retribución del socio, objetivo de obras/facturación año 1 y
-      capacidad de obras en paralelo (con los escenarios de §5.2 delante).
-- [ ] Montar hoja de tesorería mensual de arranque (meses previos a primera obra).

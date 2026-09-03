@@ -8,13 +8,13 @@
 
 | # | Tarea | Detalle | Resp. | Estado |
 |---|---|---|---|---|
-| A1 | Cerrar plan financiero (obras tipo + tesorería) | Calcular obra tipo con CotizaT; fijar retribución y objetivo año 1 | R | `[PENDIENTE]` |
+| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo con CotizaT y retribución/objetivo/capacidad fijados (2026-09-03). Falta: **hoja de tesorería de arranque** | R | `[EN CURSO]` |
 | A2 | Elegir gestoría en A Coruña | 3 presupuestos (constitución S.L. + contabilidad mensual) | R | `[PENDIENTE]` |
 | A3 | Validar denominación "RemodelaT Coruña S.L." | Disponibilidad en Registro Mercantil (vía gestoría) | R/gestoría | `[PENDIENTE]` |
 | A4 | Decidir identidad visual y dominio | ¿Heredar marca RemodelaT (logo/paleta) o crear? Dominio .es | R | `[PENDIENTE]` |
-| A5 | Investigar mercado/proveedores | Ampliar datos mercado; listado de proveedores y subcontratas potenciales | R | `[PENDIENTE]` |
+| A5 | Investigar mercado/proveedores | Ampliar datos mercado; listado de proveedores de materiales y de profesionales (candidatos a plantilla) | R | `[PENDIENTE]` |
 | A6 | Preparar plantillas base | Presupuesto, contrato de obra, ficha de visita/seguimiento | R | `[PENDIENTE]` |
-| A7 | Investigar centro de negocios y seguros | 2-3 presupuestos de cada uno en A Coruña | R | `[PENDIENTE]` |
+| A7 | Centro de negocios y seguros | Costes investigados 2026-09-03 (rangos reales); 2-3 presupuestos en A Coruña al llegar | R | `[EN CURSO]` |
 | A8 | Elegir vehículo | SUV grande (~10.000 €) + remolque | R | `[PENDIENTE]` |
 
 ## Fase B — Llegada y constitución (diciembre 2026)
@@ -26,7 +26,7 @@
 | B3 | Centro de negocios | Contratar oficina a demanda | R | `[PENDIENTE]` |
 | B4 | Comprar vehículo y herramientas | SUV + herramientas iniciales | R | `[PENDIENTE]` |
 | B5 | Presencia online inicial | Perfil de Google (Maps) con servicios y fotos; redes | R | `[PENDIENTE]` |
-| B6 | Contactar proveedores/subcontratas | Primeras visitas y acuerdos (especialidades) | R | `[PENDIENTE]` |
+| B6 | Contactar proveedores y profesionales | Materiales (contratos de suministro) y candidatos a plantilla (sin subcontratas) | R | `[PENDIENTE]` |
 
 ## Fase C — Alta y captación (enero 2027)
 

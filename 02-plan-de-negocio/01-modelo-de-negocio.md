@@ -29,9 +29,9 @@ debe estar bien hecha y documentada.
 - Ingreso = presupuesto pactado (base imponible + IVA 21 %), con pagos por hitos/avance
   de obra según contrato. *(Esquema de pagos y retenciones: `[PENDIENTE]` — definir en
   plantilla de contrato.)*
-- Modelo de ejecución mixto (confirmado): **plantilla propia** (Rubén + empleados según
-  obra) + **subcontratas** para especialidades/picos → permite controlar calidad y plazos
-  con coste ajustable a la carga de trabajo.
+- Modelo de ejecución (confirmado 2026-09-03): **plantilla propia** (Rubén + empleados
+  según obra, ampliable) — **sin subcontratación de especialidades**: si la carga lo
+  justifica se amplía la plantilla propia.
 
 ## 4. Posicionamiento y catálogo
 

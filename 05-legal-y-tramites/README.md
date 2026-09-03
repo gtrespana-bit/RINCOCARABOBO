@@ -7,7 +7,7 @@ en España (A Coruña): constitución, forma jurídica, contratos y seguros.
 
 - [`constitucion-y-forma-juridica/`](constitucion-y-forma-juridica/README.md) — Autónomo vs. S.L.,
   trámites de alta, gestoría, licencias.
-- [`contratos/`](contratos/README.md) — Modelos de contrato con clientes, subcontratas y equipo.
+- [`contratos/`](contratos/README.md) — Modelos de contrato con clientes, con el equipo y con proveedores.
 - [`seguros/`](seguros/README.md) — Seguro de responsabilidad civil, seguro de obra, etc.
 
 ## Recordatorio: grandes trámites en España (orden orientativo)
