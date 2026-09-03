@@ -1,0 +1,24 @@
+# 03 — Competencia (A Coruña)
+
+**Propósito:** conocer a las otras empresas de reformas y construcción en A Coruña
+para posicionar RemodelaT Coruña (precios, calidad, especialización).
+
+## Qué guardar aquí
+
+- Fichas de competidores: nombre, web, servicios, zonas que cubren, cómo se promocionan.
+- Presupuestos o tarifas orientativas que se consigan (con fecha).
+- Opiniones y reputación (Google, páginas amarillas, redes).
+- Empresas grandes, reformistas independientes y plataformas tipo Houzz/Habitissimo.
+
+## Plantilla de ficha (una por competidor)
+
+```markdown
+## Nombre del competidor
+- Web / redes:
+- Especialidad (reforma integral, cocinas, baños, obra nueva…):
+- Zona:
+- Precio aproximado:
+- Puntos fuertes:
+- Puntos débiles:
+- Notas:            (fecha: AAAA-MM-DD)
+```
