@@ -1,0 +1,21 @@
+# ── Sistema operativo y editor ──────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.tmp
+.idea/
+.vscode/
+
+# ── Obsidian (configuración local del editor, si se usa) ────────
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# ── Web (cuando la añadamos, p. ej. en 07-web-y-marketing/web) ──
+node_modules/
+dist/
+.env
+.env.*
+*.log
