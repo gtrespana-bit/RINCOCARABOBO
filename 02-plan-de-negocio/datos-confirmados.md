@@ -126,6 +126,16 @@
 | Colchón necesario | **Con rampa moderada, 20.000 € NO alcanzan** (fondo en agosto): faltan ≈ 4,3–6,3 k€ → ampliar aportación a ≈ 26 k€, financiar el vehículo, o ritmo fuerte | Con ritmo fuerte (36 obras/año) los 20 k€ alcanzan y el año cierra en positivo |
 | Objetivo coherente | ≈ **36 pequeñas-equivalentes + 1–2 obras grandes ≈ 190–200 k€ s/IVA** (≈ 230–240 c/IVA) | Cierra el objetivo en revisión (pendiente de elegir ritmo/colchón con Rubén) |
 
+## Aportaciones — 2026-09-03 (14.ª tanda: sin trabajadores parados / puertas de contratación)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Regla de contratación | **Nunca se contrata por calendario ni un grupo para 1 obra pequeña.** Grupo 1 solo con ≥ 3–4 obras pequeñas firmadas; Grupo 2 con obra grande firmada; Grupo 3 con 2.ª grande | Las 1–2 primeras obras se agendan y las hace Rubén (coste sin grupo ≈ 2.610 €/mes, no 7.640 €) |
+| Cadena de obras grandes | Al terminar las pequeñas se empalma la grande; **cerrar la siguiente grande durante la actual** (~3 meses de margen) → grandes en cadena + pequeñas continuas | Grupo 2 en huecos hace pequeñas/apoyo (≈ 1 pequeña extra/mes ≈ +2.300 €) |
+| Resultados corregidos | Sin grupo: −270 a +2.100 €/mes · Grupo1 pleno: +1.532 € · 2 grupos en cadena: **≈ +3.500–4.500 €/mes** · Año 1 con puertas + 1–2 grandes: ≈ +15.000–25.000 € | **Los escenarios A–D con caja −4.274/−6.332 quedan obsoletos** (asumían grupo por calendario) |
+| Capital | Con estas reglas **no hay grupo parado** → los 20.000 € alcanzan (colchón ≈ 0–1 k€) | El límite real es la **captación**, no la capacidad ni el capital |
+| Régimen objetivo | 2 grupos constantes (grande en cadena + pequeñas con apoyo) ≈ **+3.500–4.500 €/mes**; ampliar a Grupo 3 cuando haya 2 grandes en paralelo | Registrar en tesorería §8 |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

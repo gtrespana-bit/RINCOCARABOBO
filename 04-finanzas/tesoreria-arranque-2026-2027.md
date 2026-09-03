@@ -203,11 +203,50 @@ IVA** (IVA se liquida por trimestre). Pequeñas cobradas dentro del mes (obra �
    grandes → venta ≈ 190–200 k€ s/IVA (≈ 230–240 k€ c/IVA)**; por debajo (solo pequeñas
    a ritmo moderado) el año 1 roza el equilibrio con el colchón justo.
 
-## 8. Pendiente para cerrar la hoja mensual definitiva
+## 8. Modelo corregido por Rubén (2026-09-03): sin trabajadores parados
 
-- [ ] Elegir (Rubén): **ritmo objetivo** (moderado 2–3/mes vs fuerte 4/mes desde may) y
-      **cómo se cubre el colchón** (ampliar aportación a ≈ 26 k€ vs financiar el
-      vehículo vs ritmo fuerte).
+**Regla operativa (confirmada):** nunca se contrata "por calendario" ni un grupo para
+una sola obra pequeña. La contratación va **ligada a la cartera firmada**:
+
+| Grupo | Cuándo se contrata |
+|---|---|
+| **Grupo 1** | Cuando hay **≥ 3–4 obras pequeñas firmadas** (cartera cerrada que llena el mes) |
+| **Grupo 2** | Cuando hay **obra grande firmada** (≈ piso 100 m²) |
+| **Grupo 3** | Cuando hay **2.ª obra grande firmada** (2 grandes en paralelo) |
+
+- Mientras no hay grupo, las 1–2 primeras obras se **agendan** (plazo al mes siguiente) y
+  las hace Rubén con ayuda puntual; el coste mensual sin grupo es solo ≈ 2.610 €
+  (retribución + fijos), no 7.640 €.
+- Al terminar las pequeñas se **empalma la obra grande**; durante la grande hay que
+  **cerrar la siguiente grande** (≈ 3 meses de margen) → grandes en cadena + pequeñas
+  continuas.
+- El Grupo 2 se dedica a la grande y en **huecos libres hace pequeñas/apoyo** (por eso
+  nunca pierde: cada mes de hueco ≈ 1 pequeña extra ≈ +2.300 € de contribución).
+- Si la carga lo pide: **Grupo 3** → 2 obras grandes en paralelo + Grupo de pequeñas.
+
+**Resultados con estas reglas (corrigen los escenarios A–D de §7, que asumían grupo por
+calendario y por eso daban caja negativa):**
+
+| Situación | Resultado mensual |
+|---|---|
+| Sin grupo, 1–2 obras firmadas (captación/agenda) | **− 270 € a + 2.100 €** (nunca −3.054) |
+| Grupo 1 a plena carga (4 pequeñas) | **+ 1.532 €** (validado, mes 6) |
+| Grupo 2 solo en la grande (a 3 meses) | la grande aporta ≈ +700 €/mes → **no basta: hay que llenar los huecos** |
+| Grupo 2 en la grande + 1 pequeña/apoyo en huecos | ≈ **+ 2.900–3.300 €/mes** |
+| **2 grupos en cadena (objetivo de régimen)** | **≈ + 3.500–4.500 €/mes** |
+| Año 1 con puertas + 1–2 grandes | **≈ + 15.000–25.000 €** antes de impuestos |
+
+> **Conclusión de caja:** con estas reglas **no hay meses con grupo parado**, así que la
+> caja se mantiene positiva con los 20.000 € de aportación (los −4.274/−6.332 € de §7
+> quedan obsoletos: asumían contratar el grupo con solo 1–2 obras). El verdadero límite
+> del negocio **no es la capacidad ni el capital: es la captación** (cerrar 3–4 pequeñas
+> al mes y una grande cada ~3 meses).
+
+## 9. Pendiente para cerrar la hoja mensual definitiva
+
+- [ ] **Cerrar reglas de régimen con Rubén**: puertas de contratación (§8) validadas;
+      decidir si el objetivo es **2 grupos en cadena** (≈ +3.500–4.500 €/mes de régimen)
+      y calendario de captación (cerrar 3–4 pequeñas/mes y 1 grande cada ~3 meses).
 - [ ] Obra grande real: al ofertar, identificar la **variante (A–D de la [ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md))** y costear con medición real; cerrar con Rubén cómo presupuestar suelo radiante/aerotermia (proveedor instalador habilitado).
 - [ ] Modalidad de contratación de los grupos (indefinido vs. obra) y confirmación con
       gestoría de CNAE (AT/EP 2,35 % vs 6,70 %), jornada y pluses del convenio.

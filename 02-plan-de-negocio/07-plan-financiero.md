@@ -15,7 +15,7 @@
 | Seguros (RC reformas + vehículo) | RC: **≈ 160–300 €/año** (sin empleados; 250–400 € con plantilla); vehículo: `[PENDIENTE]` | ídem |
 | Centro de negocios (cuota inicial/alta) | Fase 1: domicilio profesional **desde 36 €+IVA/mes** (Coworking Oleiros) u oficina virtual; coworking 109–180 €; despacho 375–500 € si hace falta | ídem |
 | Gestoría (cuota mensual corriente) | S.L. básica **120–250 €/mes** (+15–30 €/empleado/mes cuando se contrate) | ídem, ver §5.1 |
-| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Según la tabla mensual de escenarios ([tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md)): con rampa moderada y 20.000 € de aportación la caja toca fondo en ago (−4,3 a −6,3 k€) → colchón extra ≈ 4,3–6,3 k€ (ampliar capital a ≈ 26 k€ o financiar el vehículo); con ritmo fuerte (4/mes desde may) los 20 k€ alcanzan |
+| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Con las puertas de contratación de Rubén (sin grupo parado, tesorería §8) **los 20.000 € alcanzan** (caja positiva; colchón ≈ 0–1 k€). Solo si se contratara por calendario harían falta ≈ 4,3–6,3 k€ más |
 | Marketing de arranque | `[PENDIENTE]` | Ver sección 05 |
 
 ## 2. Costes de mano de obra (2026 — método corregido por Rubén)
@@ -169,11 +169,11 @@ capacidad de ejecución sino la **demanda generada** → de ahí la captación c
       [ficha coste-laboral-real](../../04-finanzas/coste-laboral-real-empleados-2026.md).
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
-- [ ] **Cerrar objetivo año 1 y colchón** con la [tabla mensual](../../04-finanzas/tesoreria-arranque-2026-2027.md)
-      (§7): elegir ritmo (moderado vs fuerte), cómo cubrir el colchón (aportación ≈ 26 k€,
-      financiar vehículo o ritmo fuerte), y fijar objetivo ≈ 36 pequeñas-equivalentes +
-      1–2 grandes ≈ 190–200 k€ s/IVA. Confirmar modalidad de contratación y CNAE/AT-EP
-      con la gestoría; costear el alcance real de cada obra grande al ofertar.
+- [ ] **Cerrar régimen objetivo** con las [puertas de contratación](../../04-finanzas/tesoreria-arranque-2026-2027.md)
+      (§8, sin trabajadores parados): objetivo de **2 grupos en cadena** ≈ 3,5–4,5 k€/mes
+      de régimen → año 1 con 1–2 grandes ≈ +15–25 k€ antes de impuestos. Confirmar
+      modalidad de contratación y CNAE/AT-EP con la gestoría; la palanca real es la
+      captación (cerrar 3–4 pequeñas/mes y 1 grande cada ~3 meses).
 - [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v3 con modelo
       de grupos + coste laboral real + **tabla mensual de escenarios de caja** en
       [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md)
