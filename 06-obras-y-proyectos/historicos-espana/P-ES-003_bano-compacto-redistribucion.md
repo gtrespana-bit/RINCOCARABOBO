@@ -2,7 +2,7 @@
 
 > Estado: `[BORRADOR]` — ficha interna creada 2026-09-03 a partir de la web RemodelaT
 > Venezuela (caso "Remodelación de Baño Secundario Compacto" en Las Mercedes).
-> Ubicación real y año: **[PENDIENTE]**.
+> Ubicación en ficha: **A Coruña (provisional)** — la ajustará Rubén. Sin fecha de ejecución.
 
 ## Identificación
 
@@ -10,13 +10,11 @@
 |---|---|
 | Código | P-ES-003 |
 | Título de la ficha | Reforma de **baño pequeño** con redistribución y corrección de tabique |
-| Título en la web VE | Baño Secundario Compacto — Las Mercedes, Caracas (ubicación ficticia adaptada) |
-| Ubicación real (España) | **[PENDIENTE]** |
-| Año aproximado | **[PENDIENTE]** |
+| Título en la web VE | Baño Secundario Compacto — Las Mercedes, Caracas (ubicación ficticia adaptada — no usar) |
+| Ubicación actual (provisional) | **A Coruña** — *ajustar a la ubicación exacta* |
 | Tipo de inmueble | Apartamento / piso |
-| Cliente | Referencia genérica (sin datos) |
-| Presupuesto (€) | **[PENDIENTE]** |
-| Duración declarada | 2 semanas de ejecución |
+| Cliente | Referencia genérica (sin datos personales) — fotos autorizadas por contrato |
+| Duración (según web VE) | 2 semanas de ejecución (verificar) |
 
 ## Qué se hizo (resumen)
 
@@ -59,11 +57,9 @@ templada, espejo LED antivaho.
   corredera"*.
 - Mensaje clave: en pisos (muy común en A Coruña) el **aprovechamiento del espacio** es el
   argumento de venta; antes/después muy visual.
-- ⚠️ No usar con la ubicación venezolana: corregir a la ubicación real antes de publicar.
+- ⚠️ La ubicación figura como "A Coruña" (provisional); ajustarla antes del uso público definitivo.
 
-## Pendiente de confirmar con Rubén
+## Pendiente
 
-- [ ] Ubicación real y año aproximado.
-- [ ] Presupuesto real en €.
-- [ ] Verificar duración (2 semanas según web).
-- [ ] Confirmar permiso de publicación de fotos y detalles.
+- [ ] Ajustar la ubicación exacta cuando Rubén la indique.
+- [ ] Verificar duración real (web VE declara 2 semanas).

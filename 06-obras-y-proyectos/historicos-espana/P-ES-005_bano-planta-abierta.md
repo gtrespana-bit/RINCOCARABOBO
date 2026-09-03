@@ -2,21 +2,19 @@
 
 > Estado: `[BORRADOR]` — ficha interna creada 2026-09-03 a partir de la web RemodelaT
 > Venezuela (caso "Remodelación Integral de Baño en Townhouse" en La Trigaleña).
-> Ubicación real y año: **[PENDIENTE]**.
+> Ubicación en ficha: **A Coruña (provisional)** — la ajustará Rubén. Sin fecha de ejecución.
 
 ## Identificación
 
 | Campo | Dato |
 |---|---|
 | Código | P-ES-005 |
-| Título de la ficha | Reforma integral de baño a **planta abierta** en vivienda adosada ("townhouse") |
-| Título en la web VE | Baño en Townhouse — La Trigaleña, Valencia (ubicación ficticia adaptada) |
-| Ubicación real (España) | **[PENDIENTE]** |
-| Año aproximado | **[PENDIENTE]** |
-| Tipo de inmueble | Vivienda adosada / townhouse |
-| Cliente | Referencia genérica (sin datos) |
-| Presupuesto (€) | **[PENDIENTE]** |
-| Duración declarada | 1 semana de ejecución |
+| Título de la ficha | Reforma integral de baño a **planta abierta** en vivienda adosada |
+| Título en la web VE | Baño en Townhouse — La Trigaleña, Valencia (ubicación ficticia adaptada — no usar) |
+| Ubicación actual (provisional) | **A Coruña** — *ajustar a la ubicación exacta* |
+| Tipo de inmueble | Vivienda adosada (en la web VE, "townhouse") |
+| Cliente | Referencia genérica (sin datos personales) — fotos autorizadas por contrato |
+| Duración (según web VE) | 1 semana de ejecución (verificar) |
 
 ## Qué se hizo (resumen)
 
@@ -60,11 +58,9 @@ resina + polvo de mármol, mampara templada, spots LED.
   60×120 para duplicar la amplitud"*.
 - Mensaje clave: **la demolición estratégica como solución de espacio** (relevante en baños
   de adosados y pisos reformados); gran formato rectificado = acabado de lujo a precio razonable.
-- ⚠️ No usar con la ubicación venezolana: corregir a la ubicación real antes de publicar.
+- ⚠️ La ubicación figura como "A Coruña" (provisional); ajustarla antes del uso público definitivo.
 
-## Pendiente de confirmar con Rubén
+## Pendiente
 
-- [ ] Ubicación real y año aproximado.
-- [ ] Presupuesto real en €.
-- [ ] Verificar duración (1 semana según web).
-- [ ] Confirmar permiso de publicación de fotos y detalles.
+- [ ] Ajustar la ubicación exacta cuando Rubén la indique.
+- [ ] Verificar duración real (web VE declara 1 semana).

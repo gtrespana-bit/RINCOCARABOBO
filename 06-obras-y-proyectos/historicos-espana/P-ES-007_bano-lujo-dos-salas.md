@@ -2,7 +2,7 @@
 
 > Estado: `[BORRADOR]` — ficha interna creada 2026-09-03 a partir de la web RemodelaT
 > Venezuela (caso "Remodelación Integral de Baño de Lujo en Quinta" en Guataparo/La Lagunita).
-> Ubicación real y año: **[PENDIENTE]**.
+> Ubicación en ficha: **A Coruña (provisional)** — la ajustará Rubén. Sin fecha de ejecución.
 
 ## Identificación
 
@@ -10,13 +10,11 @@
 |---|---|
 | Código | P-ES-007 |
 | Título de la ficha | Reforma de **baño de lujo**: división en dos salas independientes + luz natural |
-| Título en la web VE | Baño de Lujo en Quinta — Guataparo / La Lagunita (ubicación ficticia adaptada) |
-| Ubicación real (España) | **[PENDIENTE]** |
-| Año aproximado | **[PENDIENTE]** |
-| Tipo de inmueble | Vivienda unifamiliar amplia ("quinta") |
-| Cliente | Referencia genérica (sin datos) |
-| Presupuesto (€) | **[PENDIENTE]** |
-| Duración declarada | 2 semanas y media de ejecución |
+| Título en la web VE | Baño de Lujo en Quinta — Guataparo / La Lagunita (ubicación ficticia adaptada — no usar) |
+| Ubicación actual (provisional) | **A Coruña** — *ajustar a la ubicación exacta* |
+| Tipo de inmueble | Vivienda unifamiliar amplia (en la web VE, "quinta") |
+| Cliente | Referencia genérica (sin datos personales) — fotos autorizadas por contrato |
+| Duración (según web VE) | 2 semanas y media de ejecución (verificar) |
 
 ## Qué se hizo (resumen)
 
@@ -40,7 +38,7 @@ volcánica importada y porcelanato metro verde.
 - **Acentos:** porcelanato tipo **metro (subway) verde esmaltado**; **piedra volcánica
   importada** como pieza escultórica (sin función portante).
 - **Plomería:** multicapa PEX-Al-PEX agua fría/caliente; desagües subterráneos en PVC
-  (110 mm poceta / 40 mm lavabos).
+  (110 mm inodoro / 40 mm lavabos).
 - **Equipamiento:** sanitario principal **ROCA** de alta gama; lavabos sobrepuestos de porcelana
   y grifería **importados de Italia**; plato de ducha de **hormigón in situ** acabado en
   microcemento antideslizante.
@@ -68,11 +66,9 @@ italianos.
 - Mensaje clave: obra **arquitectónica de alta gama** (estructura, luz, microcemento,
   hormigón visto) — la ficha más potente para posicionar a RemodelaT Coruña en el segmento
   premium y ante reformas integrales de viviendas unifamiliares.
-- ⚠️ No usar con la ubicación venezolana: corregir a la ubicación real antes de publicar.
+- ⚠️ La ubicación figura como "A Coruña" (provisional); ajustarla antes del uso público definitivo.
 
-## Pendiente de confirmar con Rubén
+## Pendiente
 
-- [ ] Ubicación real y año aproximado.
-- [ ] Presupuesto real en €.
-- [ ] Verificar duración (2,5 semanas según web).
-- [ ] Confirmar permiso de publicación de fotos y detalles.
+- [ ] Ajustar la ubicación exacta cuando Rubén la indique.
+- [ ] Verificar duración real (web VE declara 2,5 semanas).

@@ -1,21 +1,20 @@
-# P-ES-002 · Cocina de quinta reformada en 1 semana
+# P-ES-002 · Cocina reformada en 1 semana
 
 > Estado: `[BORRADOR]` — ficha interna creada 2026-09-03 a partir de la web RemodelaT
-> Venezuela (caso "Remodelación Integral de Cocina en Quinta"). Ubicación real y año: **[PENDIENTE]**.
+> Venezuela (caso "Remodelación Integral de Cocina en Quinta").
+> Ubicación en ficha: **A Coruña (provisional)** — la ajustará Rubén. Sin fecha de ejecución.
 
 ## Identificación
 
 | Campo | Dato |
 |---|---|
 | Código | P-ES-002 |
-| Título de la ficha | Reforma integral de cocina en vivienda amplia ("quinta") |
-| Título en la web VE | Cocina en Quinta — Caracas (ubicación ficticia adaptada) |
-| Ubicación real (España) | **[PENDIENTE]** |
-| Año aproximado | **[PENDIENTE]** |
-| Tipo de inmueble | Vivienda unifamiliar amplia ("quinta") |
-| Cliente | Referencia genérica (sin datos) |
-| Presupuesto (€) | **[PENDIENTE]** |
-| Duración declarada | 1 semana de ejecución |
+| Título de la ficha | Reforma integral de cocina en vivienda amplia |
+| Título en la web VE | Cocina en Quinta — Caracas (ubicación ficticia adaptada — no usar) |
+| Ubicación actual (provisional) | **A Coruña** — *ajustar a la ubicación exacta* |
+| Tipo de inmueble | Vivienda unifamiliar amplia (en la web VE, "quinta") |
+| Cliente | Referencia genérica (sin datos personales) — fotos autorizadas por contrato |
+| Duración (según web VE) | 1 semana de ejecución (verificar) |
 
 ## Qué se hizo (resumen)
 
@@ -50,15 +49,13 @@ cerámica rectificada, cable ignífugo, TEKA (inducción, lavavajillas, horno, m
 
 ## Ángulo para la futura web/portfolio de Coruña
 
-- Propuesta de nombre real: *"Reforma exprés de cocina en una semana: lacado alto brillo y
-  cuarzo oscuro"*.
+- Propuesta de nombre real: *"Reforma de cocina en una semana: lacado alto brillo y cuarzo
+  oscuro"*.
 - Mensaje clave: **planificación y oficios coordinados** permiten reformar entero en 1 semana;
   acabado premium (lacado/termoformado) a precio contenido frente a cocina a medida de gama alta.
-- ⚠️ No usar con la ubicación venezolana: corregir a la ubicación real antes de publicar.
+- ⚠️ La ubicación figura como "A Coruña" (provisional); ajustarla antes del uso público definitivo.
 
-## Pendiente de confirmar con Rubén
+## Pendiente
 
-- [ ] Ubicación real y año aproximado.
-- [ ] Presupuesto real en €.
-- [ ] Verificar duración (1 semana según web).
-- [ ] Confirmar permiso de publicación de fotos y detalles.
+- [ ] Ajustar la ubicación exacta cuando Rubén la indique.
+- [ ] Verificar duración real (web VE declara 1 semana).

@@ -1,7 +1,8 @@
 # P-ES-001 · Cocina reubicada a la zona día + suelo epóxico
 
 > Estado: `[BORRADOR]` — ficha interna creada 2026-09-03 a partir de la web RemodelaT
-> Venezuela (caso "Cocina de Lujo en Guataparo"). Ubicación real y año: **[PENDIENTE]**.
+> Venezuela (caso "Cocina de Lujo en Guataparo").
+> Ubicación en ficha: **A Coruña (provisional)** — la ajustará Rubén. Sin fecha de ejecución.
 
 ## Identificación
 
@@ -9,13 +10,11 @@
 |---|---|
 | Código | P-ES-001 |
 | Título de la ficha | Reforma de cocina con **reubicación integral** a la zona día |
-| Título en la web VE | Cocina de Lujo en Guataparo (ubicación ficticia adaptada) |
-| Ubicación real (España) | **[PENDIENTE]** |
-| Año aproximado | **[PENDIENTE]** |
-| Tipo de inmueble | Vivienda unifamiliar amplia ("quinta") |
-| Cliente | Referencia genérica (sin datos) |
-| Presupuesto (€) | **[PENDIENTE]** |
-| Duración declarada | 2 semanas y media |
+| Título en la web VE | Cocina de Lujo en Guataparo (ubicación ficticia adaptada — no usar) |
+| Ubicación actual (provisional) | **A Coruña** — *ajustar a la ubicación exacta* |
+| Tipo de inmueble | Vivienda unifamiliar amplia (en la web VE, "quinta") |
+| Cliente | Referencia genérica (sin datos personales) — fotos autorizadas por contrato |
+| Duración (según web VE) | 2 semanas y media (verificar) |
 
 ## Qué se hizo (resumen)
 
@@ -60,11 +59,9 @@ Siemens (lavavajillas, horno, nevera 90 cm), sistema de ACS solar térmico.
   corazón de la casa"*.
 - Mensaje clave: obra de **replanteo completo** (estructura + instalaciones + acabado), no un
   simple cambio de muebles. Suelo epóxico y estantería LED como detalles "wow" fotogénicos.
-- ⚠️ No usar con la ubicación venezolana: corregir a la ubicación real antes de publicar.
+- ⚠️ La ubicación figura como "A Coruña" (provisional); ajustarla antes del uso público definitivo.
 
-## Pendiente de confirmar con Rubén
+## Pendiente
 
-- [ ] Ubicación real y año aproximado.
-- [ ] Presupuesto real en € (útil para estructura de costes).
-- [ ] Verificar duración (2,5 semanas según web).
-- [ ] Confirmar permiso de publicación de fotos y detalles.
+- [ ] Ajustar la ubicación exacta cuando Rubén la indique.
+- [ ] Verificar duración real (web VE declara 2,5 semanas).

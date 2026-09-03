@@ -133,7 +133,7 @@ para el marketing de Coruña (cambiando mercado, precios y datos de contacto).
 |---|---|---|
 | Método (10 etapas) + garantía por partidas | ✅ Sí | Núcleo del mensaje; idéntico en España |
 | Narrativa "experiencia europea/española" | ✅ Sí | En Coruña es el mercado de origen: aún más creíble |
-| Casos de obra (fotos + textos técnicos) | ⚠️ Con adaptación | Devolver a su contexto real español; ubicaciones y monedas a corregir |
+| Casos de obra (fotos + textos técnicos) | ⚠️ Con adaptación | Fichas internas en `06-obras-y-proyectos/historicos-espana` con ubicación provisional "A Coruña" (a ajustar) y sin fechas de ejecución; monedas/precios a tratar aparte |
 | Fichas de proyecto / galerías antes-después | ✅ Estructura sí | Modelo de presentación excelente |
 | Posicionamiento "alto estándar, no low-cost" | ✅ Sí | Diferenciador válido en A Coruña |
 | Blog: esquema de temas y estructura | ✅ Sí | Reescribir con precios y normativa española (€/m², IVA, CTE) |
@@ -146,8 +146,9 @@ para el marketing de Coruña (cambiando mercado, precios y datos de contacto).
 ## 11. Pendientes que esto abre (para el plan de Coruña)
 
 - [ ] Confirmar con Rubén: cifras de experiencia verificables (años, n.º proyectos reales).
-- [ ] Reconstruir el "mapa real" de cada proyecto (ubicación en España, año, cliente genérico)
-      como archivo interno (`06-obras-y-proyectos` o aquí en referencias).
+- [x] Fichas internas de los 7 proyectos creadas en `06-obras-y-proyectos/historicos-espana`
+      (P-ES-001…007): ubicación provisional **A Coruña** (Rubén ajustará a la exacta),
+      **sin fecha de ejecución**; fotografías autorizadas por contrato (sin datos personales).
 - [ ] Decidir identidad: ¿RemodelaT Coruña hereda el logo/paleta de RemodelaT o se crea nueva?
 - [ ] Cuando toque la web: partir de esta base Astro (o clonarla) en lugar de empezar de cero.
 

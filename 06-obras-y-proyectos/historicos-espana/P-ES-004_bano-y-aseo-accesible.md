@@ -2,7 +2,7 @@
 
 > Estado: `[BORRADOR]` — ficha interna creada 2026-09-03 a partir de la web RemodelaT
 > Venezuela (caso "Remodelación de Baño Principal y Aseo Adaptado" en Caracas).
-> Ubicación real y año: **[PENDIENTE]**.
+> Ubicación en ficha: **A Coruña (provisional)** — la ajustará Rubén. Sin fecha de ejecución.
 
 ## Identificación
 
@@ -10,13 +10,11 @@
 |---|---|
 | Código | P-ES-004 |
 | Título de la ficha | Reforma de baño principal + **armario empotrado convertido en aseo accesible** |
-| Título en la web VE | Baño Principal y Aseo Adaptado — Caracas (ubicación ficticia adaptada) |
-| Ubicación real (España) | **[PENDIENTE]** |
-| Año aproximado | **[PENDIENTE]** |
+| Título en la web VE | Baño Principal y Aseo Adaptado — Caracas (ubicación ficticia adaptada — no usar) |
+| Ubicación actual (provisional) | **A Coruña** — *ajustar a la ubicación exacta* |
 | Tipo de inmueble | Vivienda (residencia) |
-| Cliente | Referencia genérica (sin datos) — baño con necesidad de accesibilidad |
-| Presupuesto (€) | **[PENDIENTE]** |
-| Duración declarada | 2 semanas de ejecución |
+| Cliente | Referencia genérica (sin datos personales) — fotos autorizadas por contrato |
+| Duración (según web VE) | 2 semanas de ejecución (verificar) |
 
 ## Qué se hizo (resumen)
 
@@ -33,8 +31,8 @@ materiales común y fontanería **multicapa PEX-Al-PEX** canalizada bajo el suel
   (juntas milimétricas, planitud absoluta).
 - **Red de fontanería nueva:** multicapa PEX-Al-PEX para agua fría y caliente (previene
   corrosión, fugas e incrustaciones).
-- **Hazaña de fontanería subterránea:** desagües canalizados bajo el suelo hacia el nuevo aseo:
-  **PVC 110 mm (poceta) y 40 mm (lavabo)**.
+- **Fontanería subterránea:** desagües canalizados bajo el suelo hacia el nuevo aseo:
+  **PVC 110 mm (inodoro) y 40 mm (lavabo)**.
 - **Estructura del aseo adaptado:** cerramiento en **drywall hidrófugo RH de 13 mm** con
   perfiles de acero de 60 mm.
 - **Accesibilidad real:** **puerta corredera flotante** (sin radio de giro ni escalones,
@@ -53,7 +51,7 @@ mate), cristal templado + aluminio negro, LED 6500K, puerta corredera flotante.
 
 - **Repo fuente:** `reformat-venezuela/public/images/proyectos/bano-caracas/`
 - **Originales:** carpeta `remodelacion comprimido/baño caracas/` del repo fuente.
-- Distribución: **antes** (2), **obra** (instalación porcelanato, poceta instalada, ducha +
+- Distribución: **antes** (2), **obra** (instalación porcelanato, inodoro instalado, ducha +
   mampara), **resultado baño** (espejo + 3 finales), **aseo accesible** (armario convertido 2
   + finales 2).
 
@@ -62,13 +60,11 @@ mate), cristal templado + aluminio negro, LED 6500K, puerta corredera flotante.
 - Propuesta de nombre real: *"Baño reformado + armario convertido en aseo: accesibilidad sin
   obras mayores"*.
 - Mensaje clave: diferenciación clara en un nicho con demanda creciente (**adaptación de
-  viviendas para mayores / movilidad reducida** — viviendas antiguas de A Coruña, puerta
-  corredera, sin escalones). Encaja con normativa de accesibilidad y con demanda real gallega.
-- ⚠️ No usar con la ubicación venezolana: corregir a la ubicación real antes de publicar.
+  viviendas para mayores / movilidad reducida** — muy relevante en el parque de viviendas de
+  A Coruña; puerta corredera, sin escalones).
+- ⚠️ La ubicación figura como "A Coruña" (provisional); ajustarla antes del uso público definitivo.
 
-## Pendiente de confirmar con Rubén
+## Pendiente
 
-- [ ] Ubicación real y año aproximado.
-- [ ] Presupuesto real en €.
-- [ ] Verificar duración (2 semanas según web).
-- [ ] Confirmar permiso de publicación de fotos y detalles (caso con componente personal).
+- [ ] Ajustar la ubicación exacta cuando Rubén la indique.
+- [ ] Verificar duración real (web VE declara 2 semanas).
