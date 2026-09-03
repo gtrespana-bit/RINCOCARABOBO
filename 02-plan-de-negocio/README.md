@@ -3,41 +3,39 @@
 **Propósito:** el plan de negocio completo de RemodelaT Coruña, elaborado por secciones
 en Markdown. Cada sección se crea como archivo propio y se va completando por fases.
 
-## Índice de secciones (a crear)
+> 📌 **Política de datos (acordada con Rubén, 2026-09-03):** no se incluye ninguna cifra o
+> dato inventado. Cada dato tiene origen: aportado por Rubén (con fecha) o de una fuente
+> verificable con referencia. Lo no confirmado se marca `[PENDIENTE]`.
+> Ver [datos confirmados](datos-confirmados.md) y [registro de decisiones](../01-empresa/decisiones/).
+
+## Índice de secciones
 
 | Documento | Contenido | Estado |
 |---|---|---|
-| `00-resumen-ejecutivo.md` | Resumen de una página: qué, para quién, cuánto y cuándo | pendiente |
-| `01-modelo-de-negocio.md` | Cómo se gana dinero, formato de trabajo y precios | pendiente |
-| `02-servicios.md` | Servicios concretos: reformas integrales, cocinas, baños… | pendiente |
-| `03-mercado.md` | Resumen del mercado en A Coruña (se alimenta de `03-mercado-a-coruna`) | pendiente |
-| `04-competencia.md` | Competidores, precios y posicionamiento | pendiente |
-| `05-marketing-y-ventas.md` | Cómo captar clientes: web, referencias, inmobiliarias… | pendiente |
-| `06-operaciones.md` | Cómo se ejecuta una obra: equipo, subcontratas, compras | pendiente |
-| `07-plan-financiero.md` | Inversión inicial, gastos fijos, tesorería, punto de equilibrio | pendiente |
-| `08-riesgos.md` | Riesgos del proyecto y cómo mitigarlos | pendiente |
-| `09-plan-de-accion.md` | Próximos pasos con fechas y responsables | pendiente |
+| `00-resumen-ejecutivo.md` | Resumen de una página: qué, para quién, cuánto y cuándo | `[BORRADOR]` 2026-09-03 |
+| `01-modelo-de-negocio.md` | Cómo se gana dinero, formato de trabajo y precios | `[BORRADOR]` 2026-09-03 |
+| `02-servicios.md` | Servicios: integrales, cocinas, baños, accesibilidad + catálogo amplio | `[BORRADOR]` 2026-09-03 |
+| `03-mercado.md` | Mercado en A Coruña (se alimenta de `03-mercado-a-coruna`) | `[BORRADOR]` 2026-09-03 |
+| `04-competencia.md` | Competidores, precios y posicionamiento | `[BORRADOR]` 2026-09-03 |
+| `05-marketing-y-ventas.md` | Captación online, web, referencias | `[BORRADOR]` 2026-09-03 |
+| `06-operaciones.md` | Ejecución: método 10 etapas, equipo, subcontratas, recursos | `[BORRADOR]` 2026-09-03 |
+| `07-plan-financiero.md` | Inversión ~20.000 €, costes (CotizaT), obras tipo, punto equilibrio | `[BORRADOR/esqueleto]` 2026-09-03 |
+| `08-riesgos.md` | Riesgos del proyecto y cómo mitigarlos | `[BORRADOR]` 2026-09-03 |
+| `09-plan-de-accion.md` | Próximos pasos dic 2026 → feb–mar 2027 con responsables | `[BORRADOR]` 2026-09-03 |
 
-## Política de datos del plan (acordada con Rubén, 2026-09-03)
+## Documentos de apoyo
 
-> **No se incluye ninguna cifra, dato o afirmación inventada.** Cada dato del plan debe
-> tener un origen:
-> 1. **Aportado por Rubén** (con fecha de aportación), o
-> 2. Procedente de una **fuente verificable** (INE, IGE, Ayuntamiento, prensa, informe…)
->    con referencia y fecha.
->
-> Mientras un dato no esté confirmado se marca como **`[PENDIENTE]`** en el documento.
+- [Datos confirmados](datos-confirmados.md) — aportaciones de Rubén (fecha y fuente).
+- [CotizaT: fuente de precios](referencias/2026-09-03_cotizat-fuente-precios.md) — tablas de
+  precios España (partidas y mano de obra).
+- [Inventario web RemodelaT Venezuela](referencias/2026-09-03_inventario-reformat-venezuela.md)
+  — método, proyectos reales, blog y marketing.
 
 ## Notas
 
-- La **experiencia previa de Rubén** (Las Palmas, Madrid y Venezuela) puede servir como
-  material de referencia para varias secciones: precios, procesos de obra, errores a evitar.
-- `referencias/` guarda análisis de material previo. Ver
-  [inventario de la web RemodelaT Venezuela](referencias/2026-09-03_inventario-reformat-venezuela.md):
-  método de trabajo, proyectos reales, blog y marketing — fuente clave para este plan y
-  para la futura web de Coruña.
-- Si se quiere guardar **planes o documentos de proyectos anteriores** como referencia,
-  crear aquí la subcarpeta `referencias/` y archivarlos con nombre y fecha.
-  ⚠️ No incluir datos confidenciales de clientes ni de las empresas anteriores.
-- El plan financiero debe enlazar con los datos de [`04-finanzas`](../04-finanzas/README.md)
-  y el mercado con [`03-mercado-a-coruna`](../03-mercado-a-coruna/README.md).
+- La **experiencia previa de Rubén** (Las Palmas, Madrid y Venezuela) sirve como material de
+  referencia: precios, procesos de obra, errores a evitar.
+- El plan financiero enlaza con los datos de [`04-finanzas`](../04-finanzas/README.md) y el
+  mercado con [`03-mercado-a-coruna`](../03-mercado-a-coruna/README.md).
+- Las plantillas operativas (presupuesto, contrato…) vivirán en
+  [`09-plantillas`](../09-plantillas/README.md).
