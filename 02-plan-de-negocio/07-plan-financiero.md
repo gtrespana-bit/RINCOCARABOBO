@@ -35,19 +35,30 @@
   `03-mercado.md`). Ejemplo 70 m² estándar ≈ 42.000–56.000 € (Cronoshare A Coruña).
 - Estas referencias servirán para validar que nuestras tarifas (CotizaT) son de mercado.
 
-## 4. Estructura de costes por obra tipo (a calcular)
+## 4. Estructura de costes por obra tipo
 
 ✅ **Pilotos hechos (2026-09-03):**
 - [Reforma integral de baño estándar (4,5 m²)](../../04-finanzas/estructura-de-costes.md):
   coste total estimado ≈ 3.235–3.850 € (sin IVA) → al cliente ≈ 5.290–6.290 € c/IVA.
 - [Reforma de cocina estándar (3 m)](../../04-finanzas/estructura-de-costes-cocina.md):
   coste total estimado ≈ 2.745–4.025 € (sin IVA) → al cliente ≈ 4.485–6.575 € c/IVA.
-- Ambos dentro del rango de mercado (España 2026). Método validado: partidas CotizaT
-  + productos finales con precios investigados (fuente y fecha).
+- [Reforma integral 80 m²](../../04-finanzas/estructura-de-costes-integral.md):
+  coste ≈ 15.040–17.860 € sin IVA (188–223 €/m²) → al cliente ≈ 24.570–29.175 €
+  (307–365 €/m² c/IVA).
+- Los tres dentro o por debajo del rango de mercado (España 2026). Método validado:
+  partidas CotizaT + productos finales con precios investigados (fuente y fecha).
+
+> ⚠️ El piloto de integral **excluye** ventanas/carpintería exterior, cambios de
+> distribución/tabiques, calefacción/ACS, rodapiés/marcos, bajantes, muebles de
+> dormitorio, licencias/gestión de proyecto, seguro/SS y gastos generales → queda por
+> debajo de la banda "económica" de mercado (400–1.000 €/m²). Antes de ofertar una
+> integral hay que **sumar esas partidas por obra** (presupuestos reales) y decidir
+> política de contingencia y gastos de gestión.
 
 Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
-1. Reforma integral (€/m² por calidades).
-2. Servicios secundarios (pintura, suelos, revestimientos…).
+1. Servicios secundarios (pintura, suelos, revestimientos…).
+2. Ampliar la integral: ventanas, tabiques, calefacción/ACS y gestión/proyecto con
+   presupuestos reales (A Coruña).
 
 Por cada obra tipo: coste materiales + coste mano de obra + subcontratas + gastos
 (indirectos, transporte, residuos, imprevistos) → margen objetivo. `[PENDIENTE]`.
@@ -68,7 +79,10 @@ Por cada obra tipo: coste materiales + coste mano de obra + subcontratas + gasto
 
 ## 7. Pendiente (siguientes pasos)
 
-- [ ] Calcular obra tipo 1 (baño) con CotizaT como piloto → validar método de costes.
+- [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
+      gestión/proyecto) y validar con 2–3 presupuestos reales en A Coruña.
+- [ ] Costear servicios secundarios (pintura, suelos, revestimientos…).
+- [ ] Definir política de contingencia (imprevistos) y gastos de gestión por obra.
 - [ ] Cotizar constitución S.L., gestoría, seguros, centro de negocios y vehículo real.
 - [ ] Definir retribución y objetivos año 1 (con Rubén, con números delante).
 - [ ] Montar hoja de tesorería mensual de arranque (meses previos a primera obra).

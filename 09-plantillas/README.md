@@ -7,7 +7,8 @@ en formato editable/PDF para entregar a clientes).
 
 | Plantilla | Uso |
 |---|---|
-| `presupuesto.md` | Presupuesto para cliente: partidas, mediciones, condiciones |
+| `presupuesto.md` | **Presupuesto para cliente** (estructura por capítulos, condiciones y exclusiones). Base validada con el modelo de costes (`04-finanzas`) |
+| `presupuesto-ejemplo-bano.md` | Ejemplo relleno de presupuesto (baño 4,5 m²) para ver el formato en la práctica |
 | `contrato-de-obra.md` | Contrato con cliente (ver también `05-legal-y-tramites/contratos`) |
 | `ficha-de-obra.md` | Resumen de cada obra: datos, fechas, importes, contactos |
 | `seguimiento-de-obra.md` | Control semanal: estado, incidencias, próximos pasos |
