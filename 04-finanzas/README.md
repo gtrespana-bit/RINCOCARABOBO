@@ -12,6 +12,7 @@ presupuestos económicos y (cuando se opere) facturación y contabilidad.
 | [estructura-de-costes-integral.md](estructura-de-costes-integral.md) | Piloto de costes: obra tipo **reforma integral 80 m² €/m²** (partidas comunes CotizaT + bloques baño/cocina + productos) — excluye ventanas, tabiques, calefacción, gestión/proyecto | `[BORRADOR]` 2026-09-03 |
 | `plan-financiero.md` | Inversión inicial, gastos de constitución, equipamiento, tesorería, punto de equilibrio | en `02-plan-de-negocio/07-plan-financiero.md` |
 | Plantillas de presupuesto ([`../09-plantillas/presupuesto.md`](../09-plantillas/presupuesto.md) + [ejemplo baño](../09-plantillas/presupuesto-ejemplo-bano.md)) | Estructura de oferta al cliente a partir del modelo de costes validado | `[BORRADOR]` 2026-09-03 |
+| [margen-contingencia-y-gastos-de-gestion.md](margen-contingencia-y-gastos-de-gestion.md) | Política: margen 35 % sobre coste, reparto GG/reserva de imprevistos ≈ 8 %/beneficio, punto de equilibrio mensual | `[BORRADOR/propuesta]` 2026-09-03 — confirmar con Rubén |
 
 ## Reglas y notas
 

@@ -11,9 +11,10 @@
 |---|---|---|
 | Vehículo (SUV grande; visitas, reuniones y material; + remolque pequeño según necesidad) | ~10.000 € | Confirmado por Rubén |
 | Herramientas iniciales (solo las necesarias para integrales, baños y cocinas) | `[PENDIENTE]` | Rubén confirmó compra solo de lo necesario |
-| Constitución S.L. (notaría/registro/gestoría) + primeros gastos legales | `[PENDIENTE]` | Investigar costes reales A Coruña |
-| Seguros (RC, vehículo; otros) | `[PENDIENTE]` | 2-3 presupuestos |
-| Centro de negocios (cuota inicial/alta) | `[PENDIENTE]` | 2-3 presupuestos A Coruña |
+| Constitución S.L. (notaría/registro/gestoría) | **≈ 400–900 €** trámite sencillo (sin los 3.000 € de capital, que es inversión) | Investigado 2026-09-03; ver [referencia costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md) |
+| Seguros (RC reformas + vehículo) | RC: **≈ 160–300 €/año** (sin empleados; 250–400 € con plantilla); vehículo: `[PENDIENTE]` | ídem |
+| Centro de negocios (cuota inicial/alta) | Fase 1: domicilio profesional **desde 36 €+IVA/mes** (Coworking Oleiros) u oficina virtual; coworking 109–180 €; despacho 375–500 € si hace falta | ídem |
+| Gestoría (cuota mensual corriente) | S.L. básica **120–250 €/mes** (+15–30 €/empleado/mes cuando se contrate) | ídem, ver §5.1 |
 | Fondo de maniobra (tesorería entre cobros) | `[PENDIENTE]` | Resto tras lo anterior |
 | Marketing de arranque | `[PENDIENTE]` | Ver sección 05 |
 
@@ -52,25 +53,51 @@
 > distribución/tabiques, calefacción/ACS, rodapiés/marcos, bajantes, muebles de
 > dormitorio, licencias/gestión de proyecto, seguro/SS y gastos generales → queda por
 > debajo de la banda "económica" de mercado (400–1.000 €/m²). Antes de ofertar una
-> integral hay que **sumar esas partidas por obra** (presupuestos reales) y decidir
-> política de contingencia y gastos de gestión.
+> integral hay que **sumar esas partidas por obra** (presupuestos reales).
+> La política de **margen (35 %), contingencia (reserva interna ≈ 8 %) y gastos de
+> gestión** se define en
+> [04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)
+> (propuesta 2026-09-03, pendiente de confirmar por Rubén).
 
 Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 1. Servicios secundarios (pintura, suelos, revestimientos…).
 2. Ampliar la integral: ventanas, tabiques, calefacción/ACS y gestión/proyecto con
    presupuestos reales (A Coruña).
 
-Por cada obra tipo: coste materiales + coste mano de obra + subcontratas + gastos
-(indirectos, transporte, residuos, imprevistos) → margen objetivo. `[PENDIENTE]`.
-
-## 5. Cuentas previstas (a cerrar con lo anterior)
+## 5. Cuentas previstas
 
 | Concepto | Estado |
 |---|---|
-| Retribución del socio el año 1 | `[PENDIENTE]` (Rubén: por definir) |
-| Objetivo de obras/facturación año 1 | `[PENDIENTE]` |
-| Punto de equilibrio mensual | `[PENDIENTE]` (depende de gastos fijos: gestoría, centro negocios, seguros, vehículo, marketing) |
-| IVA / IRPF / impuestos | Según forma S.L. → con gestoría |
+| Retribución del socio el año 1 | `[PENDIENTE]` (Rubén: por definir; contexto salarial en [referencia costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md) §6) |
+| Objetivo de obras/facturación año 1 | `[PENDIENTE]` (abierto; escenarios en §5.2) |
+| Punto de equilibrio mensual | ≈ 0,5 obra pequeña/mes solo gastos fijos; ≈ 1,7 obras/mes con retribución moderada (ver §5.1) |
+| IVA / IRPF / Impuesto de Sociedades | Según forma S.L. → con gestoría |
+
+### 5.1. Gastos fijos mensuales (investigado 2026-09-03, rangos reales)
+
+| Gasto fijo mensual | Rango | Punto medio usado |
+|---|---|---|
+| Cuota RETA del administrador (tramo 1, año 1 sin/poca facturación) | 206–235 €/mes | 220 € |
+| Gestoría S.L. | 120–250 €/mes | 180 € |
+| Centro: domicilio profesional / oficina virtual | 36–179 €/mes | 100 € |
+| Seguro RC reformas (prorrateado) | 13–25 €/mes | 20 € |
+| Software, comunicaciones, varios | `[PENDIENTE]` | 60 € |
+| **Total sin retribución del socio** | **≈ 430–850 €/mes** | **≈ 580 €/mes** |
+
+*(Fuentes de cada rango: [referencia costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md).)*
+
+### 5.2. Escenarios de objetivo año 1 (orientativos, a cerrar con Rubén)
+
+Margen bruto medio por obra tipo (modelo validado): ≈ 1.200 € obra pequeña (baño/cocina),
+≈ 5.760 € integral 80 m². Operativa real: feb–dic 2027 (≈ 10-11 meses).
+
+| Escenario | Volumen | Facturación ≈ | Margen bruto ≈ | Notas |
+|---|---|---|---|---|
+| **Prudente** | 1 obra pequeña/mes de media | 55–60 k€ | ≈ 13–15 k€ | Cubre gastos fijos + retribución mínima; sin colchón |
+| **Recomendado** | 1,5–2 obras pequeñas/mes | 90–115 k€ | ≈ 22–28 k€ | Cubre gastos + retribución moderada + reservas |
+| **Con integrales** | 10–12 pequeñas + 2–3 integrales | ≈ 115–140 k€ | ≈ 30–36 k€ | Exige 2 empleados estables + subcontratas (equipo confirmado) |
+
+*(Volumen limitado por la capacidad real: ver decisión de capacidad con Rubén.)*
 
 ## 6. Financiación
 
@@ -79,10 +106,13 @@ Por cada obra tipo: coste materiales + coste mano de obra + subcontratas + gasto
 
 ## 7. Pendiente (siguientes pasos)
 
+- [x] Política de contingencia y gastos de gestión definida (propuesta 2026-09-03) →
+      **confirmar con Rubén** (margen 35 %, reserva ≈ 8 %, GG cubiertos por el margen).
+- [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
+      negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
 - [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
-      gestión/proyecto) y validar con 2–3 presupuestos reales en A Coruña.
+      gestión/proyecto) — Rubén lo validó "por el momento" como está (2026-09-03).
 - [ ] Costear servicios secundarios (pintura, suelos, revestimientos…).
-- [ ] Definir política de contingencia (imprevistos) y gastos de gestión por obra.
-- [ ] Cotizar constitución S.L., gestoría, seguros, centro de negocios y vehículo real.
-- [ ] Definir retribución y objetivos año 1 (con Rubén, con números delante).
+- [ ] Cerrar con Rubén: retribución del socio, objetivo de obras/facturación año 1 y
+      capacidad de obras en paralelo (con los escenarios de §5.2 delante).
 - [ ] Montar hoja de tesorería mensual de arranque (meses previos a primera obra).
