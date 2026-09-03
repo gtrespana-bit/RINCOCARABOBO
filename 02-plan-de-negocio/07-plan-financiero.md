@@ -37,15 +37,17 @@
 
 ## 4. Estructura de costes por obra tipo (a calcular)
 
-✅ **Piloto hecho:** [reforma integral de baño estándar (4,5 m²)](../../04-finanzas/estructura-de-costes.md),
-calculada con partidas de CotizaT valoradas con recursos de España (2026-08-25):
-coste directo ≈ 2.362 € en partidas (+ bloque de productos finales a presupuestar).
-Contraste de mercado incluido.
+✅ **Pilotos hechos (2026-09-03):**
+- [Reforma integral de baño estándar (4,5 m²)](../../04-finanzas/estructura-de-costes.md):
+  coste total estimado ≈ 3.235–3.850 € (sin IVA) → al cliente ≈ 5.290–6.290 € c/IVA.
+- [Reforma de cocina estándar (3 m)](../../04-finanzas/estructura-de-costes-cocina.md):
+  coste total estimado ≈ 2.745–4.025 € (sin IVA) → al cliente ≈ 4.485–6.575 € c/IVA.
+- Ambos dentro del rango de mercado (España 2026). Método validado: partidas CotizaT
+  + productos finales con precios investigados (fuente y fecha).
 
 Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
-1. Reforma de cocina (estándar y alta).
-2. Reforma integral (€/m² por calidades).
-3. Servicios secundarios (pintura, suelos, revestimientos…).
+1. Reforma integral (€/m² por calidades).
+2. Servicios secundarios (pintura, suelos, revestimientos…).
 
 Por cada obra tipo: coste materiales + coste mano de obra + subcontratas + gastos
 (indirectos, transporte, residuos, imprevistos) → margen objetivo. `[PENDIENTE]`.

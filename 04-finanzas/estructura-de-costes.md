@@ -84,26 +84,40 @@ estructurales, con **ducha** (plato + mampara fija).
 > - CotizaT usa por defecto un margen del 35 % sobre cada partida para formar precio de
 >   venta; es una referencia, no una imposición.
 
-## 3. Productos finales a añadir (PENDIENTE de presupuestar)
+## 3. Productos finales (investigación de precios reales, 2026-09-03)
 
-Estas partidas **no incluyen el producto final** (en CotizaT se añade como "producto
-presupuestado"). Hay que presupuestarlos con proveedor local (A Coruña) y/o almacén:
+> Estas partidas de CotizaT **no incluyen el producto final**. Para completar el coste sin
+> inventar, se han investigado precios reales en tiendas de bricolaje/materiales en España
+> (**Obramat** —precios sin IVA, B2B— y **Leroy Merlin** —P.V.P. con IVA—) con su fuente y
+> fecha. Los precios Leroy Merlin se muestran con IVA y su equivalente aproximado sin IVA
+> (÷1,21) para sumarlos a las partidas (que se valoran sin IVA).
 
-| Producto | Para | Estado |
-|---|---|---|
-| Porcelanato/cerámica de pared (17 m² + mermas) | Alicatado | `[PENDIENTE]` precio proveedor |
-| Porcelanato de suelo (4,5 m² + mermas) | Solado | `[PENDIENTE]` |
-| Inodoro (estándar o suspendido) | Sanitario | `[PENDIENTE]` |
-| Lavabo + mueble de baño | Sanitario | `[PENDIENTE]` |
-| Plato de ducha | Ducha | `[PENDIENTE]` |
-| Griferías (lavabo y ducha) | Grifería | `[PENDIENTE]` |
-| Espejo (con o sin luz) y accesorios | Acabados | `[PENDIENTE]` |
+| Producto | Cant. (c/merma) | P.V.P. referencia (fuente) | ≈ sin IVA | Fuente (consultado 2026-09-03) |
+|---|---|---|---|---|
+| Azulejo pared baño 30×90 (pasta blanca) | ~19 m² | 9,77–14,24 €/m² sin IVA | 9,77–14,24 | Obramat, azulejos baño (blanco mate 11,50 €/m² c/IVA ≈ 9,50) |
+| Porcelanato suelo (rectificado) | ~5 m² | 10,13–17,79 €/m² sin IVA | 10,13–17,79 | Obramat, suelo porcelánico interior/imitación madera |
+| Inodoro + cisterna (Roca Meridian) | 1 | 265–418 € c/IVA | 219–345 | Leroy Merlin, inodoro Roca Meridian / Pack WC 417,99 € |
+| Plato de ducha (acrílico 80–90 cm) | 1 | 135–270 € c/IVA | 112–223 | Leroy Merlin, platos de ducha Roca (ofertas 134,90; acrílico 169) |
+| Mueble de baño con lavabo (60–80 cm) | 1 | 199–280 € c/IVA | 164–231 | Leroy Merlin, muebles baño pequeño (Espacio/Comoro 199–279) |
+| Grifo lavabo monomando | 1 | 21–70 € c/IVA | 17–58 | Leroy Merlin, grifos lavabo (básico 20,79; Roca Alpine 69,99) |
+| Columna de ducha monomando | 1 | 80–180 € c/IVA | 66–149 | Leroy Merlin, duchas termostáticas/monomando (SENSEA Icone 179) |
+| Espejo LED (60–80 cm) | 1 | 70–150 € c/IVA | 58–124 | Leroy Merlin, espejos LED (ofertas 104,95–131,99) |
+| **Total productos (rango)** | | **≈ 1.055–1.805 € c/IVA** | **≈ 873–1.490 €** | |
 
-**Referencia de mercado del bloque (España 2026, para orientar):** el conjunto de
-sanitarios y grifería (inodoro, lavabo con mueble, plato de ducha y grifería) puede ir
-**desde ~800 € (línea básica) hasta ~3.500 € o más (marcas de diseño)**, según datos de
-ReforMatch (2026). (El precio de la mampara de vidrio ya está incluido en la partida
-07.07.01.020 del cuadro anterior.)
+*(La mampara de vidrio templado ya está incluida en la partida 07.07.01.020.)*
+
+### 3.1. Coste total del escenario baño (rango)
+
+| Concepto | € (sin IVA) |
+|---|---|
+| Partidas de obra (CotizaT ES) | 2.362 |
+| Productos finales (rango investigado) | +873 a +1.490 |
+| **Coste total estimado** | **≈ 3.235 – 3.852** |
+| Precio de venta c/ margen 35 % (sin IVA) | ≈ 4.370 – 5.200 |
+| **Precio al cliente (+ IVA 21 %)** | **≈ 5.290 – 6.290 €** |
+
+> El rango **cae dentro del mercado** de reforma completa de baño en España 2026
+> (ver §4), lo que valida el método. Ajustar calidades (productos) sube/baja el rango.
 
 ## 4. Contraste con el mercado (España 2026, fuentes públicas)
 
@@ -113,9 +127,7 @@ ReforMatch (2026). (El precio de la mampara de vidrio ya está incluido en la pa
 | Construdeco | Completa (demoliciones, electricidad y fontanería, ducha, alicatado, sanitarios): **4.500–7.000 €**; premium desde 8.500 € |
 | Ferhogar | Completa: media **3.000–9.000 €**; gama media-alta **900–1.800 €/m²** |
 
-→ El escenario CotizaT (2.362 € de partidas) + el bloque de productos (rango de mercado)
-sitúa el total en una franja razonable **dentro del mercado** de reforma completa de baño.
-Validar con presupuestos reales locales en cuanto Rubén esté en A Coruña.
+→ Coherente. Validar con presupuestos reales locales en cuanto Rubén esté en A Coruña.
 
 ## 5. Próximos pasos
 
