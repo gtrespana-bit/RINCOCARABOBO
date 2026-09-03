@@ -15,7 +15,7 @@
 | Seguros (RC reformas + vehículo) | RC: **≈ 160–300 €/año** (sin empleados; 250–400 € con plantilla); vehículo: `[PENDIENTE]` | ídem |
 | Centro de negocios (cuota inicial/alta) | Fase 1: domicilio profesional **desde 36 €+IVA/mes** (Coworking Oleiros) u oficina virtual; coworking 109–180 €; despacho 375–500 € si hace falta | ídem |
 | Gestoría (cuota mensual corriente) | S.L. básica **120–250 €/mes** (+15–30 €/empleado/mes cuando se contrate) | ídem, ver §5.1 |
-| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Cubrir ≈ 2.480 €/mes sin grupo (580 fijos + retribución neta 1.600 €) durante la rampa de captación hasta llenar el Grupo 1 (≈ 7.640 €/mes con grupo activo); mínimo recomendado ≈ 6–7 k€ según resto de partidas |
+| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Según la tabla mensual de escenarios ([tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md)): con rampa moderada y 20.000 € de aportación la caja toca fondo en ago (−4,3 a −6,3 k€) → colchón extra ≈ 4,3–6,3 k€ (ampliar capital a ≈ 26 k€ o financiar el vehículo); con ritmo fuerte (4/mes desde may) los 20 k€ alcanzan |
 | Marketing de arranque | `[PENDIENTE]` | Ver sección 05 |
 
 ## 2. Costes de mano de obra (2026 — método corregido por Rubén)
@@ -169,15 +169,16 @@ capacidad de ejecución sino la **demanda generada** → de ahí la captación c
       [ficha coste-laboral-real](../../04-finanzas/coste-laboral-real-empleados-2026.md).
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
-- [ ] **Reabrir objetivo año 1 con el modelo de grupos**: fijar modalidad de contratación
-      (indefinido vs. obra) y confirmar con la gestoría CNAE/AT-EP, jornada y pluses;
-      confirmar el **alcance real** de la obra grande (¿ventanas, tabiques, calefacción…
-      además del modelo de suelo+2 baños+cocina+puertas?); fijar rampa y objetivo
-      (≈170–206 k€ con el Grupo 1 según ritmo).
+- [ ] **Cerrar objetivo año 1 y colchón** con la [tabla mensual](../../04-finanzas/tesoreria-arranque-2026-2027.md)
+      (§7): elegir ritmo (moderado vs fuerte), cómo cubrir el colchón (aportación ≈ 26 k€,
+      financiar vehículo o ritmo fuerte), y fijar objetivo ≈ 36 pequeñas-equivalentes +
+      1–2 grandes ≈ 190–200 k€ s/IVA. Confirmar modalidad de contratación y CNAE/AT-EP
+      con la gestoría; costear el alcance real de cada obra grande al ofertar.
 - [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v3 con modelo
-      de grupos + coste laboral real en [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md):
-      estructura ≈ 7.640 €/mes con Grupo 1; equilibrio ≈ 3,3 pequeñas/mes; obra grande
-      (Grupo 2) a validar con Rubén.
+      de grupos + coste laboral real + **tabla mensual de escenarios de caja** en
+      [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md)
+      (§4–7): estructura ≈ 7.640 €/mes con Grupo 1; equilibrio ≈ 3,3 pequeñas/mes;
+      escenarios A–D con colchón (4,3–6,3 k€ si rampa moderada).
 - [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
       gestión/proyecto) — Rubén lo validó "por el momento" como está (2026-09-03).
 - [ ] Costear servicios secundarios (pintura, suelos, revestimientos…).

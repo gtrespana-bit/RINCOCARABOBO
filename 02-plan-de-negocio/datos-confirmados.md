@@ -116,6 +116,16 @@
 |---|---|---|
 | Mes 6 operativo (julio 2027) | Rubén da por bueno el ejemplo: **4 obras pequeñas → + 1.532 €/mes** (18.704 € ventas s/IVA − 9.532 materiales − 7.640 estructura), ≈ 8 % s/venta antes de impuestos | Queda anotado en [tesorería §4.1](../../04-finanzas/tesoreria-arranque-2026-2027.md). Aclarado: margen de obra 40–45 % (s/coste directo) ≠ beneficio neto mensual ≈ 8 % (tras estructura); caja va por detrás del beneficio (cobros a 30–60 días + garantía 5 %) |
 
+## Aportaciones — 2026-09-03 (13.ª tanda: tabla mensual de tesorería y cobro)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Esquema de cobro de las obras | **50 % entrada + 20 % + 20 % + 10 % final** (por hitos) | Aplicado en la tabla mensual; en obra grande el 50 % ≈ 14.000 € al firmar alivia la caja |
+| Rampa realista (abr–jun 2027) | **2–3 obras pequeñas/mes** en el arranque | Arranque feb–mar más lento (1–2); plena carga 4/mes después |
+| Tabla mensual de escenarios | Montada en [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md): A) moderada sin grande: caja mín −6.332 € (ago), saldo −204 · B) moderada + piso 100 en may: mín −4.274 €, saldo +1.854 · C) fuerte 4/mes desde may: mín +1.298 €, saldo +8.968 · D) fuerte + grande en sep: saldo +11.026 € | Venta anual: A 149,6 k€ · B 177,8 k€ · C 168,3 k€ · D 196,5 k€ (s/IVA) |
+| Colchón necesario | **Con rampa moderada, 20.000 € NO alcanzan** (fondo en agosto): faltan ≈ 4,3–6,3 k€ → ampliar aportación a ≈ 26 k€, financiar el vehículo, o ritmo fuerte | Con ritmo fuerte (36 obras/año) los 20 k€ alcanzan y el año cierra en positivo |
+| Objetivo coherente | ≈ **36 pequeñas-equivalentes + 1–2 obras grandes ≈ 190–200 k€ s/IVA** (≈ 230–240 c/IVA) | Cierra el objetivo en revisión (pendiente de elegir ritmo/colchón con Rubén) |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

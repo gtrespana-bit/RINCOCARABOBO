@@ -148,12 +148,71 @@ c/IVA, ≈ 12–15 semanas-grupo → con Grupo 2 dedicado ~3–4 meses). Detalle
 4. Retención de garantía (5–10 % cobrada a ~3 meses) e IVA: fuera de estas cuentas
    (IVA se liquida por trimestre).
 
-## 7. Pendiente para cerrar la hoja mensual definitiva
+## 7. Tabla mensual de tesorería (escenarios de caja, dic-26 → dic-27)
 
+**Datos de Rubén (2026-09-03):** cobro de las obras por hitos **50 % entrada + 20 % +
+20 % + 10 % final**; rampa realista de pequeñas **2–3/mes en abr–jun** (arranque
+feb–mar más lento). Construido con: pequeña media 4.676 € s/IVA (materiales 2.383 €),
+piso 100 m² ≈ 28.170 € s/IVA (materiales ≈ 11.022 €), estructura Grupo 1 ≈ 7.640 €/mes
+(5.030 + 710 + 1.900), aportación 20.000 € con inversión dic-26 ≈ 12.400 € (vehículo
+10.000 + herramientas 1.500 + constitución 900) y ene-27 seguros 750 €. Cifras **sin
+IVA** (IVA se liquida por trimestre). Pequeñas cobradas dentro del mes (obra ≤ 1 semana).
+
+**Escenario de referencia — B · moderada + 1 piso 100 m² (entra en may):**
+
+| Mes | Peq. | Venta s/IVA | Materiales | Estructura | Grupo 2 | Cobros grande | Resultado | Caja acum. |
+|---|---|---|---|---|---|---|---|---|
+| dic-26 | 0 | — | — | 710 | — | — | −710 | 6.890 |
+| ene-27 | 0 | — | — | 1.460 | — | — | −1.460 | 5.430 |
+| feb-27 | 1 | 4.676 | −2.383 | −2.610 | — | — | −317 | 5.113 |
+| mar-27 | 2 | 9.352 | −4.766 | −7.640 | — | — | −3.054 | 2.059 |
+| abr-27 | 2 | 9.352 | −4.766 | −7.640 | — | — | −3.054 | −995 |
+| may-27 | 3 | 14.028 | −7.149 | −7.640 | −5.030 | +14.085 (50 %) | +579 | −416 |
+| jun-27 | 3 | 14.028 | −7.149 | −7.640 | −5.030 | +5.634 (20 %) | −3.464 | −3.880 |
+| jul-27 | 3 | 14.028 | −7.149 | −7.640 | −5.030 | +5.634 (20 %) | −157 | −4.037 |
+| ago-27 | 2 | 9.352 | −4.766 | −7.640 | — | +2.817 (10 %) | −237 | −4.274 |
+| sep-27 | 4 | 18.704 | −9.532 | −7.640 | — | — | +1.532 | −2.742 |
+| oct-27 | 4 | 18.704 | −9.532 | −7.640 | — | — | +1.532 | −1.210 |
+| nov-27 | 4 | 18.704 | −9.532 | −7.640 | — | — | +1.532 | +322 |
+| dic-27 | 4 | 18.704 | −9.532 | −7.640 | — | — | +1.532 | +1.854 |
+
+**Venta del año ≈ 177.800 € s/IVA (≈ 215.100 € c/IVA) · 32 pequeñas + 1 piso 100.**
+
+### Comparativa de escenarios
+
+| Escenario | Pequeñas/año | Venta s/IVA | Caja mínima | Saldo final | Colchón extra sobre 20.000 € |
+|---|---|---|---|---|---|
+| A · Moderada, sin grande | 32 | 149.600 € | **− 6.332 €** (ago) | − 204 € | ≈ 6.300 € |
+| **B · Moderada + piso 100 (may)** | 32 | 177.800 € | **− 4.274 €** (ago) | + 1.854 € | ≈ 4.300 € |
+| C · Fuerte (4/mes desde may), sin grande | 36 | 168.300 € | + 1.298 € (abr) | + 8.968 € | 0 |
+| D · Fuerte + piso 100 (sep) | 36 | 196.500 € | + 1.298 € (abr) | **+ 11.026 €** | 0 |
+
+### Lectura (importante)
+
+1. **Con la rampa moderada que describes (2–3/mes hasta jun), 20.000 € NO alcanzan**:
+   la caja toca fondo en **agosto (−4.300 a −6.300 €)**, por el verano flojo + grupo
+   pagado. Opciones: ampliar aportación a **≈ 25–26.000 €**, o **financiar el vehículo**
+   (deja esos ~7–10 k€ como colchón), o anticipar el ritmo de 4/mes.
+2. **Las obras grandes arreglan la caja** (entrada del 50 % ≈ 14.000 € al firmar) además
+   del resultado: con 1 piso 100 el año cierra en positivo (+1.854 €) y el colchón
+   necesario baja a ≈ 4.300 €.
+3. **El Grupo 2 solo se contrata al firmar la obra grande** y solo se llena del todo con
+   la variante D (chalet) o combinando grande + pequeñas; con un piso 100 a media jornada
+   le quedan huecos (≈ 54 % de ocupación) → usar esos huecos en pequeñas/apoyo.
+4. Objetivo coherente con la tabla: **≈ 36 obras pequeñas-equivalentes + 1–2 obras
+   grandes → venta ≈ 190–200 k€ s/IVA (≈ 230–240 k€ c/IVA)**; por debajo (solo pequeñas
+   a ritmo moderado) el año 1 roza el equilibrio con el colchón justo.
+
+## 8. Pendiente para cerrar la hoja mensual definitiva
+
+- [ ] Elegir (Rubén): **ritmo objetivo** (moderado 2–3/mes vs fuerte 4/mes desde may) y
+      **cómo se cubre el colchón** (ampliar aportación a ≈ 26 k€ vs financiar el
+      vehículo vs ritmo fuerte).
 - [ ] Obra grande real: al ofertar, identificar la **variante (A–D de la [ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md))** y costear con medición real; cerrar con Rubén cómo presupuestar suelo radiante/aerotermia (proveedor instalador habilitado).
 - [ ] Modalidad de contratación de los grupos (indefinido vs. obra) y confirmación con
       gestoría de CNAE (AT/EP 2,35 % vs 6,70 %), jornada y pluses del convenio.
 - [ ] Descuentos reales de proveedor de materiales (hoy: precio de tienda sin IVA).
-- [ ] Objetivo de facturación año 1 revisado (≈ 170–206 k€ con Grupo 1 según ritmo).
-- [ ] Rampa real mes a mes (primeras obras, contratación del Grupo 1 y del Grupo 2).
+- [ ] Objetivo de facturación año 1: cerrar con la tabla (§7): ≈ 36 pequeñas-equivalentes
+      + 1–2 grandes ≈ 190–200 k€ s/IVA.
 - [ ] Presupuestos reales: gestoría, seguros, centro, herramientas, marketing.
+- [ ] IVA: prever liquidez de la primera liquidación trimestral (colchón extra ~5–10 %).
