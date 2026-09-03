@@ -51,9 +51,12 @@ propietarios (normas de obra en fincas).
 - **1 grupo de obra = 1 oficial + 1 ayudante.** Ritmo real: **1 baño o 1 cocina por
   semana → hasta 4 obras pequeñas/mes** (baños, cocinas, cambios de suelo, etc.).
 - **Grupo 1:** se contrata con las primeras obras y se mantiene en las pequeñas.
-- **Grupo 2:** se contrata cuando entra una **obra grande (~3 meses, ≈ 30.000 €)** y se
-  dedica a ella; el Grupo 1 sigue con pequeñas y **apoya a la obra grande en las semanas
-  sin pequeñas** (más rendimiento → se termina antes).
+- **Grupo 2:** se contrata cuando entra una **obra grande** y se dedica a ella; el Grupo 1
+  sigue con pequeñas y **apoya a la obra grande en las semanas sin pequeñas** (más
+  rendimiento → se termina antes). Obra grande real de Rubén: **piso ~100 m²** (suelo
+  nuevo, 2 baños, cocina, puertas…) → costeada en
+  [su ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md): venta ≈
+  34.090 € c/IVA, margen real ≈ 40–42 %, ≈ 6,5 semanas-grupo (2–3 meses de calendario).
 - **Sin subcontratación**: si se necesita más gente se amplía la plantilla (nuevo grupo).
 - **Captación continua**: no se rechazan obras que salgan.
 - Consecuencia económica (ver [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md)):

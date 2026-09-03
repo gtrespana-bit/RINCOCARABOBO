@@ -44,8 +44,9 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
 - Subcontratación de especialidades: **NO** (decisión Rubén, 2026-09-03) — si la carga lo
   justifica se **amplía la plantilla propia** (nuevos grupos).
 - Capacidad (modelo de grupos, 2026-09-03): **1 grupo (oficial+ayudante) = 1 baño/cocina
-  por semana → hasta 4 obras pequeñas/mes**; al entrar una obra grande (~3 meses,
-  ≈30.000 €) se contrata un 2.º grupo dedicado y el Grupo 1 apoya las semanas libres.
+  por semana → hasta 4 obras pequeñas/mes**; al entrar una **obra grande (piso ~100 m²:
+  suelo, 2 baños, cocina, puertas → ≈ 34.090 € c/IVA)** se contrata un 2.º grupo dedicado
+  y el Grupo 1 apoya las semanas libres.
   Captación continua, sin rechazar obras. Coste del grupo por convenio A Coruña + SS 2026
   ≈ **5.030 €/mes** (ver [ficha](../../04-finanzas/coste-laboral-real-empleados-2026.md)).
   Objetivo de facturación `[EN REVISIÓN]` (equilibrio ≈ 170–206 k€/año con grupo).

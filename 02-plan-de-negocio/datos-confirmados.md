@@ -92,6 +92,15 @@
 | Margen real de sus presupuestos CotizaT | **40–45 % de margen sobre coste real** (Rubén, observado en su práctica) | Repreciando MO a convenio: baño/cocina salen en 38–41 %; los materiales a precio de tienda sin IVA (descuento de proveedor lo subiría) |
 | Tesorería v3 | Recalculada: estructura ≈ **7.640 €/mes** con Grupo 1 (grupo 5.030 + 710 otros + 1.900 retribución); equilibrio ≈ **3,3 pequeñas/mes** (≈ 170 k€/año) · plena carga 4/mes ≈ +17 k€/año (≈ 206 k€) | MO real por obra: baño ≈ 1.286–1.328 € (75,8 h) · cocina ≈ 647–668 € (38 h) · integral ≈ 5.506–5.686 € (324,9 h) |
 
+## Aportaciones — 2026-09-03 (11.ª tanda: obra grande real costeada)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Obra grande real (Rubén) | No es "30.000 € genérico": es un **piso ~100 m²** — *cambiar suelo de cerámica en todo, 2 baños, una cocina, incluyendo puertas, etc.* | Costeada: [ficha piso 100 m²](../../04-finanzas/estructura-de-costes-reforma-piso-100.md) |
+| Coste/venta del escenario | Coste directo real ≈ 19.826–20.114 € (MO convenio 8.804–9.092 + materiales ≈ 11.022) → **venta ≈ 34.090 € c/IVA** (≈ 341 €/m²; rango 33.100–38.400) | Margen real ≈ **40–42 %** (de nuevo en la banda de Rubén 40–45 %) |
+| Trabajo directo | 519 h (272 oficial + 247 ayudante) → **6,5 semanas-grupo** (≈ 32 días-grupo) | Un grupo lo hace en ~2 meses; con gestión/remates e intercalando pequeñas, 3 meses de calendario |
+| Grupo 2 a jornada completa | Con 12 semanas ≈ 960 h disponibles, la obra ocuparía ≈ 54 % → el resto son huecos para apoyo/otras obras, o el alcance real incluye más (ventanas, tabiques, calefacción…) | `[PENDIENTE]` confirmar alcance exacto con Rubén |
+
 ## Aportaciones — 2026-09-03 (10.ª tanda: mes 6 operativo validado)
 
 | Tema | Dato confirmado | Notas |

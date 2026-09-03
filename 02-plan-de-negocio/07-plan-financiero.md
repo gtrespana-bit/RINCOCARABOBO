@@ -62,8 +62,13 @@
 - [Reforma integral 80 m²](../../04-finanzas/estructura-de-costes-integral.md):
   coste ≈ 15.040–17.860 € sin IVA (188–223 €/m²) → al cliente ≈ 24.570–29.175 €
   (307–365 €/m² c/IVA).
-- Los tres dentro o por debajo del rango de mercado (España 2026). Método validado:
-  partidas CotizaT + productos finales con precios investigados (fuente y fecha).
+- **[Obra grande real (piso 100 m²: suelo nuevo, 2 baños, cocina, puertas)](../../04-finanzas/estructura-de-costes-reforma-piso-100.md)**,
+  escenario descrito por Rubén: coste directo real ≈ 19.826–20.114 € (MO convenio +
+  materiales) → venta al cliente ≈ **34.090 € c/IVA** (≈ 341 €/m²) · margen real sobre
+  coste ≈ **40–42 %** · ≈ 6,5 semanas-grupo de trabajo directo.
+- Todos dentro o por debajo del rango de mercado (España 2026). Método validado:
+  partidas CotizaT (tarifa y horas) + productos finales con precios investigados (fuente
+  y fecha); MO repreciada a coste real de convenio donde se analiza margen.
 
 > ⚠️ El piloto de integral **excluye** ventanas/carpintería exterior, cambios de
 > distribución/tabiques, calefacción/ACS, rodapiés/marcos, bajantes, muebles de
@@ -88,7 +93,7 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 |---|---|
 | Retribución del socio el año 1 | **≈ 1.600 €/mes netos** (confirmado 2026-09-03; bruto ≈ 1.850–2.000 €/mes según IRPF) |
 | Objetivo de obras/facturación año 1 | `[EN REVISIÓN]` — el ≈ 90–115 k€ se fijó sin grupo fijo; con grupos el equilibrio es ≈ 170–206 k€/año (ver §5.2 v3 y [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md)) |
-| Capacidad de obra | **Grupos de obra**: Grupo 1 (oficial+ayudante) → hasta 4 pequeñas/mes; Grupo 2 dedicado a obra grande (~30.000 €/3 meses) cuando salga. Sin subcontratas (confirmado 2026-09-03) |
+| Capacidad de obra | **Grupos de obra**: Grupo 1 (oficial+ayudante) → hasta 4 pequeñas/mes; Grupo 2 dedicado a obra grande (piso ~100 m² → [ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md) ≈ 34.090 € c/IVA) cuando salga. Sin subcontratas (confirmado 2026-09-03) |
 | Punto de equilibrio mensual | Sin grupo: ≈ 0,5 obra pequeña/mes solo gastos fijos (580 €). **Con Grupo 1: ≈ 3,3 obras/mes (estructura ≈ 7.640 €/mes)** — ver [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md) |
 | IVA / IRPF / Impuesto de Sociedades | Según forma S.L. → con gestoría |
 
@@ -125,15 +130,16 @@ y [coste-laboral-real](../../04-finanzas/coste-laboral-real-empleados-2026.md).
 Margen/contribución con grupos (horas reales de CotizaT × coste de convenio, 2026-09-03):
 obra pequeña media → venta ≈ 4.676 €, materiales ≈ 2.383 €, **contribución ≈ 2.293 €/obra**
 (cubre sueldos del grupo + estructura); margen real sobre coste directo ≈ 38–41 % en
-baño/cocina (lo que Rubén observa en CotizaT: 40–45 %). Obra grande ≈ 30.000 €/3 meses
-`[PENDIENTE: ¿IVA?]`.
+baño/cocina (lo que Rubén observa en CotizaT: 40–45 %). Obra grande real: piso ~100 m²
+(suelo, 2 baños, cocina, puertas) → [ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md):
+venta ≈ 28.170 € s/IVA (≈ 34.090 c/IVA), margen real ≈ 40–42 %, ≈ 6,5 semanas-grupo.
 
 | Escenario (Grupo 1 activo) | Ritmo | Venta anual ≈ | Resultado ≈ | Notas |
 |---|---|---|---|---|
 | Insuficiente (pérdidas) | 3 pequeñas/mes | 154 k€ | **− 8 k€/año** | Grupo parado ≥1 semana/mes |
 | Equilibrio | ≈ 3,3 pequeñas/mes | ≈ 171 k€ | ≈ 0 | Estructura ≈ 7.640 €/mes cubierta |
 | **Capacidad plena** | 4 pequeñas/mes | ≈ 206 k€ | ≈ +17 k€/año | Grupo lleno; + integral con Grupo 2 = extra |
-| Con obra grande | 3–4/mes + 1 integral (Grupo 2) | 230–260 k€ | mayor | Grupo 2 dedicado; semanas libres del Grupo 1 apoyan |
+| Con obra grande | 3–4/mes + 1 piso 100 m² (Grupo 2) | 230–260 k€ | mayor | Obra grande tipo: piso 100 m² → [ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md) ≈ 28.170 € s/IVA, margen real 40–42 %, ≈ 6,5 sem-grupo; Grupo 2 dedicado con huecos para apoyo |
 
 **Cómo se alcanza (modelo de grupos confirmado):** Grupo 1 contratado con las primeras
 obras → pequeñas a **ritmo semanal (4/mes máx.)**; cuando entra la obra grande se
@@ -154,7 +160,8 @@ capacidad de ejecución sino la **demanda generada** → de ahí la captación c
 - [x] Retribución (≈ 1.600 €/mes netos) cerrada con Rubén (2026-09-03).
 - [x] Capacidad cerrada con Rubén (2026-09-03): **modelo de grupos** — Grupo 1
       (oficial+ayudante) hasta 4 pequeñas/mes; Grupo 2 dedicado a la obra grande
-      (~3 meses, ≈30.000 €) cuando salga; sin subcontratas. Objetivo año 1: `[EN
+      (obra grande = piso ~100 m², costeada) cuando salga; sin subcontratas. Objetivo
+      año 1: `[EN
       REVISIÓN]` (el ≈ 90–115 k€ era sin grupo fijo; equilibrio real ≈ 170–206 k€).
 - [x] Costes laborales reales calculados (2026-09-03): convenio construcción A Coruña
       2026 + SS 2026 → grupo ≈ 5.030 €/mes (4.948–5.110). CotizaT queda como generador
@@ -164,8 +171,9 @@ capacidad de ejecución sino la **demanda generada** → de ahí la captación c
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
 - [ ] **Reabrir objetivo año 1 con el modelo de grupos**: fijar modalidad de contratación
       (indefinido vs. obra) y confirmar con la gestoría CNAE/AT-EP, jornada y pluses;
-      confirmar si los ≈30.000 € de la obra grande son con IVA y su alcance; fijar rampa y
-      objetivo (≈170–206 k€ con el Grupo 1 según ritmo).
+      confirmar el **alcance real** de la obra grande (¿ventanas, tabiques, calefacción…
+      además del modelo de suelo+2 baños+cocina+puertas?); fijar rampa y objetivo
+      (≈170–206 k€ con el Grupo 1 según ritmo).
 - [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v3 con modelo
       de grupos + coste laboral real en [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md):
       estructura ≈ 7.640 €/mes con Grupo 1; equilibrio ≈ 3,3 pequeñas/mes; obra grande

@@ -50,8 +50,10 @@ Rubén — nunca sus precios:
 
 1. **Grupo 1** (oficial + ayudante) desde las primeras obras: baños, cocinas, suelos →
    hasta **4 obras pequeñas/mes**.
-2. Cuando entra una **obra grande** (≈ 3 meses, ≈ 30.000 € `[PENDIENTE: ¿IVA?]`) se
-   contrata el **Grupo 2**, dedicado a la grande.
+2. Cuando entra una **obra grande** se contrata el **Grupo 2**, dedicado a ella. La obra
+   grande real de Rubén: **piso ~100 m²** (suelo nuevo, 2 baños, cocina, puertas…) →
+   costeada en [su ficha](estructura-de-costes-reforma-piso-100.md): venta ≈ 34.090 €
+   c/IVA, ≈ 6,5 semanas-grupo de trabajo directo.
 3. El Grupo 1 sigue con las pequeñas y **apoya a la obra grande** las semanas sin
    pequeñas → la grande avanza sin coste extra de MO (ya pagada) y termina antes.
 
@@ -104,21 +106,28 @@ Mes 6 = 6.º mes operando (feb–jul 2027, grupo ya a plena carga):
 > - Sensibilidad del mismo mes: 3 pequeñas → **− 761 €**; 2 pequeñas → **− 3.054 €**.
 >   El grupo parado a medias es lo que hace perder dinero (por eso captación continua).
 
-## 5. Obra grande con Grupo 2 (≈ 30.000 €, ~3 meses)
+## 5. Obra grande real (piso ~100 m²) con Grupo 2
 
-| Hipótesis de venta | Venta s/IVA | Coste directo ≈ | Margen directo ≈ | MO real modelada | ≈ Semanas-grupo de MO |
-|---|---|---|---|---|---|
-| "30.000 €" con IVA | 24.793 € | ≈ 16.100 € | ≈ 8.700 € | ≈ 6.300 € | ≈ 4,6 |
-| "30.000 €" sin IVA | 30.000 € | ≈ 19.500 € | ≈ 10.500 € | ≈ 7.600 € | ≈ 5,5 |
+**Escenario real descrito por Rubén (2026-09-03):** piso de 100 m² — suelo de cerámica
+nuevo en todo, **2 baños**, **cocina**, **puertas incluidas**, etc. Costeado en
+[estructura-de-costes-reforma-piso-100.md](estructura-de-costes-reforma-piso-100.md):
 
-> ⚠️ **Punto crítico a validar:** un Grupo 2 fijo 12 semanas a jornada completa cuesta
-> ≈ 12 × 1.356–1.400 = **16.300–16.800 €**, mientras que la mano de obra real que modela
-> una obra de ese importe es ≈ **6.300–7.600 € (4,5–5,5 semanas de grupo)**. Es decir: o
-> la obra grande real tiene mucho más alcance que el piloto de 80 m², o el Grupo 2 no
-> está 12 semanas a jornada completa (entre medias apoya pequeñas), o la grande se
-> ejecuta con el Grupo 1 + refuerzos y el Grupo 2 solo en picos. **Confirmar con Rubén la
-> obra grande real** (importe con/sin IVA, superficie, alcance y semanas de MO) antes de
-> fijar números del Grupo 2.
+| Concepto | Valor |
+|---|---|
+| Coste directo real (MO convenio + materiales) | ≈ 19.826–20.114 € |
+| **Venta al cliente** (coste tarifa ×1,35 + IVA) | **≈ 34.090 € c/IVA** (≈ 341 €/m²; rango 33.100–38.400) |
+| Margen real sobre coste | ≈ 40–42 % |
+| Trabajo directo | 519 h → **6,5 semanas-grupo** (≈ 32 días-grupo) |
+| Si va a cargo del Grupo 2 (fijo 12 sem ≈ 960 h) | ocupa ≈ 54 % de su jornada teórica |
+
+> ⚠️ **Lectura para el Grupo 2:** la obra real tipo **no consume 12 semanas a jornada
+> completa de un grupo**: son ≈ 6,5 semanas de trabajo directo, que con gestión, compras
+> y remates dan 2–3 meses de calendario. Las 12 semanas del Grupo 2 dedicado solo se
+> justifican si la obra real **incluye más alcance** que este modelo (ventanas, tabiques,
+> calefacción/ACS, rodapiés, bajantes, muebles…) o si ese grupo **apoya también otras
+> obras** en los huecos (pequeñas, refuerzos). **Confirmar con Rubén el alcance real** de
+> su obra grande típica antes de fijar el Grupo 2 a jornada completa. Hasta entonces:
+> tratar la grande como "margen extra ≈ 40–42 %" con la MO ya cubierta por el grupo.
 
 ## 6. Implicaciones (a cerrar con Rubén)
 
@@ -135,7 +144,9 @@ Mes 6 = 6.º mes operando (feb–jul 2027, grupo ya a plena carga):
 
 ## 7. Pendiente para cerrar la hoja mensual definitiva
 
-- [ ] Obra grande real: importe ¿con IVA?, superficie/alcance, semanas de MO.
+- [ ] Obra grande real: confirmar con Rubén el **alcance** (¿ventanas, tabiques,
+      calefacción/ACS, rodapiés, bajantes, muebles…?) y la venta objetivo del modelo
+      (34.090 € c/IVA ≈ 341 €/m²).
 - [ ] Modalidad de contratación de los grupos (indefinido vs. obra) y confirmación con
       gestoría de CNAE (AT/EP 2,35 % vs 6,70 %), jornada y pluses del convenio.
 - [ ] Descuentos reales de proveedor de materiales (hoy: precio de tienda sin IVA).
