@@ -18,6 +18,16 @@ en Markdown. Cada sección se crea como archivo propio y se va completando por f
 | `08-riesgos.md` | Riesgos del proyecto y cómo mitigarlos | pendiente |
 | `09-plan-de-accion.md` | Próximos pasos con fechas y responsables | pendiente |
 
+## Política de datos del plan (acordada con Rubén, 2026-09-03)
+
+> **No se incluye ninguna cifra, dato o afirmación inventada.** Cada dato del plan debe
+> tener un origen:
+> 1. **Aportado por Rubén** (con fecha de aportación), o
+> 2. Procedente de una **fuente verificable** (INE, IGE, Ayuntamiento, prensa, informe…)
+>    con referencia y fecha.
+>
+> Mientras un dato no esté confirmado se marca como **`[PENDIENTE]`** en el documento.
+
 ## Notas
 
 - La **experiencia previa de Rubén** (Las Palmas, Madrid y Venezuela) puede servir como
