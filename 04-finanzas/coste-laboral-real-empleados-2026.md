@@ -78,22 +78,24 @@ recurso, distinguiendo oficial/ayudante):
 **Coste de MO real por obra** (horas × coste/h real de §3) frente al coste que salía con
 la tarifa CotizaT:
 
-| Obra tipo | MO tarifa CotizaT (referencia comercial) | **MO real (convenio + SS)** | Materiales (investigados, s/IVA) | Coste directo real | PVP del modelo s/IVA | **Margen s/coste real** |
+| Obra tipo | MO tarifa CotizaT (referencia comercial) | **MO real (convenio + SS)** | Materiales (investigados, s/IVA) | Coste directo real | **PVP mercado 2026 s/IVA** | **Margen s/coste real** |
 |---|---|---|---|---|---|---|
-| Baño | 1.437 € | **1.286–1.328 €** | 2.105 € | 3.391–3.433 € | 4.782 € | **39–41 %** |
-| Cocina | 725 € | **647–668 €** | 2.661 € | 3.308–3.329 € | 4.570 € | **37–38 %** |
-| Integral | 7.596 € | **5.506–5.686 €** | 8.854 € | 14.360–14.540 € | 22.210 € | **53–55 %** |
+| Baño | 1.437 € | **1.286–1.328 €** | 2.105 € | 3.391–3.433 € | **5.800–6.400 €** (≈ 6.100) | **≈ 78–88 %** |
+| Cocina | 725 € | **647–668 €** | 2.661 € | 3.308–3.329 € | **5.000–6.000 €** (≈ 5.500) | **≈ 65–80 %** |
+| Integral | 7.596 € | **5.506–5.686 €** | 8.854 € | 14.360–14.540 € | **29.000–32.000 €** | **≈ 105–120 %** |
+| Piso 100 m² (A) | — | **8.804–9.092 €** | 11.022 € | 19.826–20.114 € | **36.000–39.000 €** (≈ 37.500) | **≈ 85 %** |
 
-> El margen sobre coste real de las obras pequeñas (≈ 38–41 %) coincide con lo que Rubén
-> observa en sus presupuestos CotizaT (**40–45 % de margen real**). La integral sale más
-> alta porque sus materiales se tomaron en el punto medio de gamas investigadas y el
-> alcance del piloto es básico (sin ventanas, tabiques, calefacción…). Los materiales se
-> han valorado a precio de tienda sin IVA; con descuento de proveedor el margen real
-> sube.
+> El PVP ya no sale del modelo de costes × 1,35 (quedaba 20–30 % bajo de mercado; Rubén,
+> 2026-09-03): se fija en la **banda de mercado 2026** del producto completo
+> ([calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)). Con
+> plantilla propia a convenio el coste directo real es menor que la tarifa de mercado que
+> paga el cliente, y ese diferencial es el margen real (≈ 80–90 % en pequeñas, más en la
+> integral por su alcance básico sin ventanas/tabiques/calefacción). Materiales a precio
+> de tienda sin IVA; con descuento de proveedor el margen real sube.
 
 ## 5. Uso en el modelo financiero
 
-1. **Estructura mensual con Grupo 1 activo** (ver `tesoreria-arranque-2026-2027.md` v2):
+1. **Estructura mensual con Grupo 1 activo** (ver `tesoreria-arranque-2026-2027.md` v4):
    grupo **≈ 5.030 €/mes** (4.950–5.110) + 710 € (RETA 220 + gestoría 180 + centro 100 +
    software 60 + marketing 150) + retribución de Rubén ≈ 1.900 €/mes bruto ≈ **7.640 €/mes**.
 2. **Nunca** usar la hora de CotizaT (21 €/h oficial, tarifa facturada) como coste

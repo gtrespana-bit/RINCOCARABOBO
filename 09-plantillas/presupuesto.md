@@ -1,8 +1,12 @@
 # Plantilla de presupuesto de obra — RemodelaT Coruña S.L.
 
-> Estado: `[BORRADOR]` (2026-09-03). Uso interno: base para preparar la oferta al cliente
-> en formato limpio (Word/PDF). Los costes se calculan con las tablas de CotizaT y precios
-> de materiales investigados (con fuente). **Ninguna cifra inventada.**
+> Estado: `[BORRADOR]` (2026-09-03, actualizado a la recalibración de precios de Rubén:
+> los PVP modelo estaban 20–30 % por debajo de mercado). Uso interno: base para preparar
+> la oferta al cliente. **Regla de precio:** el PVP se fija en la banda de mercado 2026
+> (nunca por debajo del punto bajo-medio documentado; ver
+> [04-finanzas/calibracion-tarifas-mercado-2026.md](../04-finanzas/calibracion-tarifas-mercado-2026.md));
+> CotizaT se usa para medición (m², horas) y el coste real (nómina + materiales) para
+> validar el margen. **Ninguna cifra inventada.**
 
 ## Estructura del presupuesto (por capítulos)
 
@@ -46,18 +50,19 @@ Válido hasta: [30 días]
 9. PRUEBAS Y CONTROLES
 
    TOTAL PARTIDAS (sin IVA)                      ________ €
-   Margen / gestión (% o fijo)  [según política]  ________ €
-   BASE IMPONIBLE                                ________ €
-   IVA (21 %)                                    ________ €
+   BASE IMPONIBLE (PVP = banda de mercado 2026)  ________ €
+   IVA (10 % vivienda habitual / 21 %)           ________ €
    TOTAL PRESUPUESTO                             ________ €
 ```
 
 ## Condiciones del presupuesto (texto a incluir siempre)
 
-1. **Precios:** en euros, con IVA al 21 % indicado aparte (base imponible + IVA).
+1. **Precios:** en euros, con IVA indicado aparte (base imponible + IVA). Tipo aplicable:
+   **10 %** en reforma de vivienda habitual (obra > 2 años desde su construcción) o 21 %
+   en el resto — confirmar con gestoría antes de la primera factura.
 2. **Validez:** 30 días naturales desde la fecha (los precios de materiales varían).
-3. **Forma de pago:** (propuesta) 30-40 % a la firma / pagos por hitos de obra según
-   avance / 5-10 % retenido a la entrega con garantía. [Confirmar política con Rubén]
+3. **Forma de pago (confirmada por Rubén):** **50 % a la firma / 20 % / 20 % por hitos /
+   10 % a la entrega** (con la garantía por escrito).
 4. **Plazo de ejecución:** __ semanas desde el inicio, condicionado a permisos, entregas de
    materiales y climatología. Plazo orientativo, no vinculante si hay causas ajenas.
 5. **No incluido en este presupuesto** (lista de exclusiones explícita, p. ej.):
@@ -81,12 +86,17 @@ Válido hasta: [30 días]
 
 ## Notas de cálculo interno (no se entregan al cliente)
 
-- Costes de mano de obra: tarifas CotizaT España (oficial 1.ª 21-24 €/h, ayudante 15 €/h,
-  datos 2026-08-25). Si se ejecuta con empleados propios, usar **coste empresa**
-  (17-20 €/h) para calcular el margen real.
+- Coste de mano de obra con **empleados propios**: coste empresa real (convenio
+  construcción A Coruña 2026 + SS 2026; oficial/ayudante 17–20 €/h, grupo ≈ 34–35 €/h
+  dúo) — ver [coste-laboral-real](../04-finanzas/coste-laboral-real-empleados-2026.md).
+  CotizaT solo para **mediciones y horas** (nunca sus precios como PVP: quedaban 20–30 %
+  bajo de mercado).
 - Productos: precio investigado (Obramat/Leroy Merlin u otro proveedor, con fecha) o
   presupuesto de proveedor local (A Coruña).
-- Añadir **contingencia** (imprevistos de obra) y **gastos de gestión** según política que
-  defina Rubén ([PENDIENTE]).
+- PVP de partida (p. ej. suelo cerámico colocado, demoliciones): usar las bandas de
+  mercado de la [calibración](../04-finanzas/calibracion-tarifas-mercado-2026.md).
+- Contingencias e imprevistos: **política Rubén (2026-09-03)** — precio cerrado; los
+  imprevistos ocultos o cambios se documentan y presupuestan como **modificación** que el
+  cliente aprueba; la empresa no los absorbe.
 - Revisar cada partida con el método RemodelaT (etapa 4: presupuesto por partidas con sus
   exclusiones).

@@ -62,6 +62,14 @@ y limpieza. Sin cambios estructurales ni de distribución.
 | Prueba de presión de red de agua (16.04.01.050) | 1 glb | 19,53 | 20 |
 | **Total partidas comunes** | | | **≈ 8.998 €** |
 
+> ⚠️ **Las tarifas unitarias CotizaT de demolición/solado (11,02 y 20,23 €/m²) están por
+> debajo del mercado real 2026** (Rubén: demoler un suelo ≈ 15,50 €/m² y colocar cerámica
+> ≈ 24 €/m² como "baratos"; mercado: demolición 16–22 y solado 26–32 €/m²). Por eso el
+> **PVP no se obtiene de sumar tarifas CotizaT con su margen**, sino fijando la banda de
+> mercado del producto completo (ver [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)).
+> CotizaT queda como base de **mediciones** (m², horas, rendimientos), que es el uso que
+> le da Rubén.
+
 ## 3. Bloques baño ×2 y cocina (pilotos, sin IVA)
 
 | Bloque | Partidas | Productos | Total bloque |
@@ -86,11 +94,9 @@ mamparas y muebles — según los pilotos.)*
 | Bloques 2 baños + cocina (partidas) | 5.740 |
 | Productos (suelo + bloques, punto medio) | 6.129 |
 | **Coste de tarifa total (base de margen comercial)** | **≈ 20.870** |
-| **Venta con margen 35 % (sin IVA)** | **≈ 28.170** |
-| **Precio al cliente (+ IVA 21 %)** | **≈ 34.090 (≈ 341 €/m²)** |
-
-Con productos en el rango alto/bajo, la venta al cliente quedaría ≈ **33.100–38.400 €
-c/IVA** (≈ 331–384 €/m²).
+| **Venta recalibrada a mercado 2026 (sin IVA)** | **≈ 36.000–39.000** (≈ 370–390 €/m²) |
+| **Precio al cliente (IVA 10 % reforma vivienda)** | **≈ 40.000–43.000 (≈ 400–430 €/m²)** |
+| *(Anterior: 28.170 s/IVA ≈ 34.090 c/IVA al 21 % — 20–30 % bajo de mercado; ver* | *[calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md))* |
 
 **Coste real y margen real (MO a convenio A Coruña + SS 2026):**
 
@@ -100,10 +106,14 @@ c/IVA** (≈ 331–384 €/m²).
 | MO real en nómina | **8.804–9.092 €** |
 | Materiales reales (partidas + productos) | **≈ 11.022 €** |
 | **Coste directo real** | **≈ 19.826–20.114 €** |
-| **Margen real sobre coste** | **40,1–42,1 %** (≈ 29,6 % s/venta) |
+| **Margen real sobre coste** | **≈ 79–97 %** (punto medio 37.500 € → ≈ 88 %; ≈ 46 % s/venta) |
 
-> ✅ El margen real vuelve a caer en la banda que Rubén observa en sus presupuestos
-> CotizaT (**40–45 % sobre coste real**), igual que en baño/cocina (38–41 %).
+> ✅ La **venta se fija en la banda de mercado 2026** y el **coste real es el de plantilla
+> propia a convenio** (más barato que la tarifa que paga el cliente en el mercado): esa
+> diferencia es el margen. Un reformista que subcontrata a gremios a tarifa de mercado no
+> puede replicar este margen; aquí es posible porque la MO es propia. Rubén observa
+> 40–45 % de margen sobre costes tarifa CotizaT; con plantilla a convenio el margen real
+> sobre coste directo sube al ≈ 85–90 %, y así se traslada al caso tipo de la tesorería.
 
 ## 6. Lectura operativa (Grupo 2 y duración)
 
@@ -125,10 +135,10 @@ dimensionar:
 
 | Variante | Descripción | Añadido estimado | Venta total aprox. c/IVA | Tiempo de grupo | Fuente / estado |
 |---|---|---|---|---|---|
-| **A — Piso 100 m² típico** | Suelo nuevo + 2 baños + cocina + puertas (§5) | — | **≈ 34.090 €** (≈ 341 €/m²) | 519 h (≈ 6,5 sem.) | Costeada (CotizaT + tienda) |
-| **B — Piso 100 + ventanas** | Sustituir ~10 m² de ventanas (≈7-8 huecos) PVC doble acristalamiento | ≈ **2.900 € c/IVA** (CotizaT: PVC doble 169,11 €/m² ×1,35) + desmontaje | **≈ 37.000 €** | + 21 h (≈ 1,3 días) | Rango de proveedor PVC real 250–450 €/m² → validar con carpintería local |
-| **C — Piso 100 + suelo radiante** | Suelo radiante hidráulico (~75–100 m²) + aerotermia (calefacción + ACS) | ≈ **12.000–23.500 €** instalado (mercado 2026) | **≈ 46.000–57.600 €** | + 4–7 días (SR) + aerotermia | Mercado España 2026: SR hidráulico 50–85 €/m² (piso 100 ≈ 5.000–8.500 €); aerotermia piso 100 ≈ 7.000–15.000 €. Coste interno/margen a definir con proveedor instalador |
-| **D — Chalet / vivienda independiente 200 m²+** | Casa completa (una/dos plantas): solados grandes, 3–4 baños, cocina office, más puertas | Escalado del modelo A: **≈ 65.000–78.000 € c/IVA** (≈ 325–390 €/m²) | — | ≈ 12–15 sem.-grupo (≈ 3–4 meses con Grupo 2) | Paramétrico `[SUPUESTO]` (escala ×1,9–2,3 sobre A); costear en visita; si añade ventanas/radiante sube |
+| **A — Piso 100 m² típico** | Suelo nuevo + 2 baños + cocina + puertas (§5) | — | **≈ 36.000–39.000 s/IVA → ≈ 40.000–43.000 c/IVA (10 %)** (≈ 400–430 €/m²) | 519 h (≈ 6,5 sem.) | Costeada (CotizaT mediciones + tienda) + recalibrada a mercado 2026 |
+| **B — Piso 100 + ventanas** | Sustituir ~10 m² de ventanas (≈7-8 huecos) PVC doble acristalamiento | ≈ **+2.500–3.000 € s/IVA** (CotizaT: PVC doble 169,11 €/m²; ×1,35 de margen → ≈ 2.280 s/IVA + desmontaje) | **≈ 39.000–42.000 s/IVA → ≈ 43.000–46.000 c/IVA** | + 21 h (≈ 1,3 días) | Rango de proveedor PVC real 250–450 €/m² → validar con carpintería local |
+| **C — Piso 100 + suelo radiante** | Suelo radiante hidráulico (~75–100 m²) + aerotermia (calefacción + ACS) | ≈ **12.000–23.500 € c/IVA** instalado (mercado 2026) | **≈ 52.000–66.500 € c/IVA** | + 4–7 días (SR) + aerotermia | Mercado España 2026: SR hidráulico 50–85 €/m² (piso 100 ≈ 5.000–8.500 €); aerotermia piso 100 ≈ 7.000–15.000 €. Coste interno/margen a definir con proveedor instalador |
+| **D — Chalet / vivienda independiente 200 m²+** | Casa completa (una/dos plantas): solados grandes, 3–4 baños, cocina office, más puertas | **≈ 65.000–78.000 € c/IVA** (observado por Rubén en mercado; el escalado interno ×1,9–2,3 del A recalibrado daría ≈ 75.000–99.000 → costear en visita) | — | ≈ 12–15 sem.-grupo (≈ 3–4 meses con Grupo 2) | Paramétrico `[SUPUESTO]`; si añade ventanas/radiante sube |
 
 > - **Uso:** cuando salga una obra grande, primero identificar su variante (A–D y sus
 >   combinaciones) y luego formar el presupuesto con medición real; el cuadro sirve para
@@ -145,10 +155,12 @@ dimensionar:
 ## 7. Contraste con el mercado y advertencias honestas
 
 - Mercado A Coruña 2026 (Cronoshare): reforma integral 400–1.000 €/m² (económica
-  400–550). Nuestro modelo (≈ 331–384 €/m² c/IVA) sigue **por debajo de la banda
-  económica**: no incluye carpintería exterior (ventanas/puerta de entrada), cambios de
+  400–550). Con la recalibración el modelo entra en **≈ 400–430 €/m² c/IVA, banda baja de
+  la franja económica de mercado** (antes quedaba en 331–384 €/m², por debajo).
+  Sigue sin incluir carpintería exterior (ventanas/puerta de entrada), cambios de
   distribución, calefacción/ACS, rodapiés/marcos fuera de partida, bajantes ni los costes
-  de gestión (licencia, proyecto si aplica, seguridad y salud, seguro, GG).
+  de gestión (licencia, proyecto si aplica, seguridad y salud, seguro, GG): cada uno se
+  suma en la obra real.
 - Las **mediciones son de escenario** (`[SUPUESTO]`): se ajustan con la visita real. Los
   **costes unitarios son reales** (CotizaT ES + tienda). Materiales a precio de tienda
   sin IVA: el descuento real de proveedor mejora el margen.
@@ -161,7 +173,8 @@ dimensionar:
       calefacción…? "etc." del encargo).
 - [ ] Convertir este escenario en **presupuesto tipo de obra grande** (plantilla).
 - [ ] Alimentar la [tesorería §5](tesoreria-arranque-2026-2027.md): obra grande concreta
-      (34.090 € c/IVA, margen real ≈ 40–42 %) y la decisión del Grupo 2.
+      (≈ 37.500 € s/IVA ≈ 41.000 € c/IVA al 10 %, margen ≈ 85 % sobre coste directo) y la
+      decisión del Grupo 2.
 
 ## Fuentes y trazabilidad
 

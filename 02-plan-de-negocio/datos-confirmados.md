@@ -114,7 +114,7 @@
 
 | Tema | Dato confirmado | Notas |
 |---|---|---|
-| Mes 6 operativo (julio 2027) | Rubén da por bueno el ejemplo: **4 obras pequeñas → + 1.532 €/mes** (18.704 € ventas s/IVA − 9.532 materiales − 7.640 estructura), ≈ 8 % s/venta antes de impuestos | Queda anotado en [tesorería §4.1](../../04-finanzas/tesoreria-arranque-2026-2027.md). Aclarado: margen de obra 40–45 % (s/coste directo) ≠ beneficio neto mensual ≈ 8 % (tras estructura); caja va por detrás del beneficio (cobros a 30–60 días + garantía 5 %) |
+| Mes 6 operativo (julio 2027) | Rubén da por bueno el ejemplo: **4 obras pequeñas → + 1.532 €/mes** (18.704 € ventas s/IVA − 9.532 materiales − 7.640 estructura), ≈ 8 % s/venta antes de impuestos | Registro histórico (PVP antiguo). Con la **recalibración de mercado (16.ª tanda)** el mismo mes pasa a **+ 6.428 €** (23.600 € ventas). Aclarado: margen de obra 40–45 % (s/coste directo) ≠ beneficio neto mensual (tras estructura); caja va por detrás del beneficio |
 
 ## Aportaciones — 2026-09-03 (13.ª tanda: tabla mensual de tesorería y cobro)
 
@@ -124,14 +124,14 @@
 | Rampa realista (abr–jun 2027) | **2–3 obras pequeñas/mes** en el arranque | Arranque feb–mar más lento (1–2); plena carga 4/mes después |
 | Tabla mensual de escenarios | Montada en [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md): A) moderada sin grande: caja mín −6.332 € (ago), saldo −204 · B) moderada + piso 100 en may: mín −4.274 €, saldo +1.854 · C) fuerte 4/mes desde may: mín +1.298 €, saldo +8.968 · D) fuerte + grande en sep: saldo +11.026 € | Venta anual: A 149,6 k€ · B 177,8 k€ · C 168,3 k€ · D 196,5 k€ (s/IVA) |
 | Colchón necesario | **Con rampa moderada, 20.000 € NO alcanzan** (fondo en agosto): faltan ≈ 4,3–6,3 k€ → ampliar aportación a ≈ 26 k€, financiar el vehículo, o ritmo fuerte | Con ritmo fuerte (36 obras/año) los 20 k€ alcanzan y el año cierra en positivo |
-| Objetivo coherente | ≈ **36 pequeñas-equivalentes + 1–2 obras grandes ≈ 190–200 k€ s/IVA** (≈ 230–240 c/IVA) | Cierra el objetivo en revisión (pendiente de elegir ritmo/colchón con Rubén) |
+| Objetivo coherente | ≈ **36 pequeñas-equivalentes + 1–2 obras grandes ≈ 190–200 k€ s/IVA** (≈ 230–240 c/IVA) | Registro histórico: los escenarios A–D y este objetivo quedan **obsoletos** tras la 14.ª (puertas de contratación) y la 16.ª (recalibración de precios) → caso tipo ≈ 299 k€ s/IVA (PENDIENTE de validar) |
 
 ## Aportaciones — 2026-09-03 (14.ª tanda: sin trabajadores parados / puertas de contratación)
 
 | Tema | Dato confirmado | Notas |
 |---|---|---|
 | Regla de contratación | **Nunca se contrata por calendario ni un grupo para 1 obra pequeña.** Grupo 1 solo con ≥ 3–4 obras pequeñas firmadas; Grupo 2 con obra grande firmada; Grupo 3 con 2.ª grande | Las 1–2 primeras obras se agendan y las hace Rubén (coste sin grupo ≈ 2.610 €/mes, no 7.640 €) |
-| Cadena de obras grandes | Al terminar las pequeñas se empalma la grande; **cerrar la siguiente grande durante la actual** (~3 meses de margen) → grandes en cadena + pequeñas continuas | Grupo 2 en huecos hace pequeñas/apoyo (≈ 1 pequeña extra/mes ≈ +2.300 €) |
+| Cadena de obras grandes | Al terminar las pequeñas se empalma la grande; **cerrar la siguiente grande durante la actual** (~3 meses de margen) → grandes en cadena + pequeñas continuas | Grupo 2 en huecos hace pequeñas/apoyo (≈ 1 pequeña extra/mes ≈ +2.300 € con PVP antiguo; **+3.500 € recalibrado**, 16.ª tanda) |
 | Resultados corregidos | Sin grupo: −270 a +2.100 €/mes · Grupo1 pleno: +1.532 € · 2 grupos en cadena: **≈ +3.500–4.500 €/mes** · Año 1 con puertas + 1–2 grandes: ≈ +15.000–25.000 € | **Los escenarios A–D con caja −4.274/−6.332 quedan obsoletos** (asumían grupo por calendario) |
 | Capital | Con estas reglas **no hay grupo parado** → los 20.000 € alcanzan (colchón ≈ 0–1 k€) | El límite real es la **captación**, no la capacidad ni el capital |
 | Régimen objetivo | 2 grupos constantes (grande en cadena + pequeñas con apoyo) ≈ **+3.500–4.500 €/mes**; ampliar a Grupo 3 cuando haya 2 grandes en paralelo | Registrar en tesorería §8 |
@@ -140,10 +140,19 @@
 
 | Tema | Dato confirmado | Notas |
 |---|---|---|
-| Caso tipo año 1 (reglas por cartera) | **38 obras pequeñas + 2 pisos 100 m² en cadena → venta ≈ 234.000 € s/IVA (≈ 283.200 c/IVA) · resultado ≈ + 12.240 €** antes de impuestos | Mes a mes en [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md): feb 1 (Rubén) → mar contrata G1 (3+ firmadas) → abr pleno → may-jul G2 grande #1 → ago sin G2 (fin de contrato, nadie parado) → sep-nov G2 grande #2 |
+| Caso tipo año 1 (reglas por cartera) | **38 obras pequeñas + 2 pisos 100 m² en cadena → venta ≈ 234.000 € s/IVA (≈ 283.200 c/IVA) · resultado ≈ + 12.240 €** antes de impuestos | Registro histórico con PVP antiguo (4.676 €/pequeña, 28.170 €/grande). Mes a mes igual pero **recalculado a PVP de mercado en la 16.ª tanda: ≈ 299.200 € s/IVA ≈ + 77.400 €** (PENDIENTE de validar con Rubén) |
 | Caja | Con los 20.000 € de capital: **caja mínima ≈ 5.062 € (mar-27), final ≈ 18.380 €** | Sin IVA ni garantía del 10 % (los absorbe el colchón) |
 | Unidad económica | + 1 pequeña ≈ + 2.293 €/mes · + 1 grande con G2 dedicado ≈ + 2.058 € netos/obra · G2 con 1 pequeña/mes en huecos ≈ + 2.979 €/mes · **2 grupos en cadena ≈ + 3.500–4.500 €/mes** | Para decidir sobre la marcha |
-| Conclusión | Los escenarios A–D con caja −4.274/−6.332 (grupo por calendario) quedan **obsoletos**; el capital alcanza y el límite real es la **captación** (3–4 pequeñas/mes + 1 grande cada ~3 meses) | Objetivo coherente ≈ 230–240 k€ s/IVA |
+| Conclusión | Los escenarios A–D con caja −4.274/−6.332 (grupo por calendario) quedan **obsoletos**; el capital alcanza y el límite real es la **captación** (3–4 pequeñas/mes + 1 grande cada ~3 meses) | Objetivo coherente ≈ 230–240 k€ s/IVA (histórico) → ≈ 299 k€ tras la 16.ª tanda |
+
+## Aportaciones — 2026-09-03 (16.ª tanda: corrección de precios — los PVP estaban 20–30 % bajos)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Corrección de precios (Rubén) | Los presupuestos modelo usan **precios 20–30 % por debajo del mercado 2026**: *"colocar un suelo cerámico es 24 €/m² como barato; demoler un suelo es 15,50 €/m² como barato"* | CotizaT vale como base de **mediciones**, pero aplicando su margen tipo se queda corto → **no volver a presupuestar con los PVP antiguos** |
+| Investigación de mercado 2026 | Hecha por partida y por obra completa → [calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md): suelo colocado **26–32 €/m²** · demolición **16–22 €/m²** · alicatado **28–35 €/m²** · baño **5.800–6.400 € s/IVA** · cocina **5.000–6.000 € s/IVA** · piso 100 **36.000–39.000 € s/IVA** · integral 80 **29.000–32.000 € s/IVA** | Fuentes 2026: presunow, preciom2, habitissimo, cronoshare, ponersuelosmadrid, CYPE/generadordeprecios, lebenproyectos, reformas10, reformatucasa, obrazo, reformatch, wollyhome, cociexpres |
+| Nueva unidad económica (PVP de mercado) | Pequeña media ≈ **5.900 € s/IVA** → contribución ≈ **3.500 €/obra** · piso 100 ≈ **37.500 € s/IVA** → bruto ≈ **26.478 €/obra** · **caso tipo 38 peq + 2 grandes ≈ 299.200 € s/IVA → ≈ + 77.400 € antes de impuestos**, caja mínima ≈ 7.000 €, final ≈ 83.500 € | `[PENDIENTE]` validar bandas con Rubén e IVA (10 % vivienda habitual vs 21 %) con la gestoría. El margen alto es legítimo: MO propia a convenio frente a la tarifa de mercado que paga el cliente |
+| Estado del modelo | Tesorería en **v4** con PVP de mercado (caso tipo mes a mes en §7, sensibilidad en §8); fichas de obra y plan financiero **recalibrados** | Sustituyen al caso tipo 234 k€ (15.ª tanda) en todo el repo salvo en este registro histórico |
 
 ## Relacionado (decisiones previas)
 

@@ -1,7 +1,10 @@
 # 00 · Resumen ejecutivo — RemodelaT Coruña S.L.
 
-> Estado: `[BORRADOR]` (2026-09-03). Política: ningún dato inventado; lo no confirmado
-> aparece como `[PENDIENTE]`. Fuentes: datos aportados por Rubén y fuentes públicas citadas.
+> Estado: `[BORRADOR]` (2026-09-03, actualizado a la recalibración de precios de Rubén:
+> los PVP modelo estaban 20–30 % por debajo de mercado → nueva calibración en
+> [04-finanzas/calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md),
+> `[PENDIENTE]` de validar). Política: ningún dato inventado; lo no confirmado aparece
+> como `[PENDIENTE]`.
 
 ## Qué es el proyecto
 
@@ -45,11 +48,13 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
   justifica se **amplía la plantilla propia** (nuevos grupos).
 - Capacidad (modelo de grupos, 2026-09-03): **1 grupo (oficial+ayudante) = 1 baño/cocina
   por semana → hasta 4 obras pequeñas/mes**; al entrar una **obra grande (piso ~100 m²:
-  suelo, 2 baños, cocina, puertas → ≈ 34.090 € c/IVA)** se contrata un 2.º grupo dedicado
-  y el Grupo 1 apoya las semanas libres.
+  suelo, 2 baños, cocina, puertas → PVP recalibrado ≈ 37.500 € s/IVA ≈ 41.000 € c/IVA
+  al 10 %)** se contrata un 2.º grupo dedicado y el Grupo 1 apoya las semanas libres.
   Captación continua, sin rechazar obras. Coste del grupo por convenio A Coruña + SS 2026
   ≈ **5.030 €/mes** (ver [ficha](../../04-finanzas/coste-laboral-real-empleados-2026.md)).
-  Objetivo de facturación `[EN REVISIÓN]` con el modelo por cartera (caso tipo año 1: 38 pequeñas + 2 pisos 100 en cadena ≈ 234 k€ s/IVA, resultado ≈ +12 k€; [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md)).
+  Objetivo de facturación (precios de mercado 2026, recalibrados): caso tipo año 1 — 38
+  pequeñas + 2 pisos 100 en cadena — **≈ 299 k€ s/IVA, resultado ≈ + 77.000 € antes de
+  impuestos**, caja siempre positiva ([tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md)).
 - Base operativa: **centro de negocios** en A Coruña (oficina a demanda).
 - Vehículo: SUV grande + remolque (visitas y transporte de materiales).
 (Detalle en [`06-operaciones.md`](06-operaciones.md).)
@@ -59,8 +64,10 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
 Inversión inicial prevista: **≈ 20.000 €** (aportados por Rubén; ampliable si hace falta).
 Reparto provisional: ~10.000 € vehículo + constitución/seguros + herramientas iniciales +
 fondo de maniobra + marketing de arranque (reparto por cerrar en el
-[plan financiero](07-plan-financiero.md)). Precios/costes se apoyan en **CotizaT**
-(tablas de precios España propias de Rubén) y en contrastes de mercado.
+[plan financiero](07-plan-financiero.md)). Los **precios de venta** se fijan contra la
+**banda de mercado 2026** (investigación propia; Rubén corrigió los PVP CotizaT como
+20–30 % bajos); **CotizaT** se usa para mediciones/horas y como generador comercial.
+Contrastes locales pendientes en A Coruña.
 
 ## Calendario objetivo
 
@@ -69,10 +76,14 @@ fondo de maniobra + marketing de arranque (reparto por cerrar en el
 
 ## Pendiente para cerrar este resumen
 
-- [ ] Fijar precios/tarifas propias (CotizaT + mercado local).
+- [ ] **Validar la recalibración de precios** (bandas 2026: baño 5.800–6.400 s/IVA,
+      cocina 5.000–6.000, piso 100 36.000–39.000 € s/IVA, suelo 26–32 €/m²) — ver
+      [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md) y confirmar
+      el tipo de IVA (10 % vs 21 %) con la gestoría.
 - [x] Retribución del socio año 1: **≈ 1.600 €/mes netos** (2026-09-03).
-- [ ] Objetivo año 1: `[EN REVISIÓN]` — el ≈ 90–115 k€ era sin grupo fijo; con grupos el
-      caso tipo ≈ 234 k€ s/IVA (38 peq + 2 grandes, +12 k€); reglas por cartera sin parados (2026-09-03).
+- [ ] Objetivo año 1: con grupos por cartera y PVP de mercado, caso tipo ≈ **299 k€ s/IVA**
+      (38 peq + 2 grandes en cadena, ≈ +77.000 € antes de impuestos); bandas de precio
+      `[PENDIENTE]` de validar con Rubén (2026-09-03).
 - [x] Capacidad: grupos de obra (4 pequeñas/mes por grupo; Grupo 2 para obra grande);
       sin subcontratas (2026-09-03).
 - [x] Coste laboral: calculado por convenio construcción A Coruña 2026 + SS 2026 (grupo

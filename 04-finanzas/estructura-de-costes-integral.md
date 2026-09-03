@@ -4,11 +4,9 @@
 - **Estado:** `[BORRADOR]` — mismo método validado en los pilotos de [baño](estructura-de-costes.md)
   y [cocina](estructura-de-costes-cocina.md). Pendiente de validar con presupuestos reales
   de la zona y de afinar mediciones con visita.
-- ⚠️ La **mano de obra de las partidas está a tarifa comercial CotizaT** (generador de
-  presupuestos). El **coste real de la MO en nómina** (convenio A Coruña 2026 + SS) está
-  en [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md):
-  integral → MO real ≈ 5.506–5.686 € (324,9 h de grupo ≈ 4,1 semanas), margen real
-  ≈ 53–55 % sobre coste directo del piloto.
+- ⚠️ **Recalibrado a mercado 2026**: PVP propuesto **≈ 29.000–32.000 € s/IVA ≈ 32.000–35.000 €
+  c/IVA (10 %) ≈ 400–440 €/m²** (entra en la banda económica de mercado; antes quedaba por
+  debajo). Detalle en [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md).
 - **Método:** partidas de **CotizaT** valoradas con recursos España (€, 2026-08-25) +
   **productos finales** con precios investigados (Obramat sin IVA / Leroy Merlin con IVA,
   consultados 2026-09-03). Nada inventado.
@@ -96,16 +94,18 @@ productos— y la cocina se añaden como bloques del piloto para no duplicar par
 | Baño completo (piloto) | 3.235–3.852 | — |
 | Cocina (piloto) | 2.746–4.026 | — |
 | Productos comunes (suelo + aseo) | 1.261–2.186 | — |
-| **Coste total estimado** | **≈ 15.040–17.860** | **188–223 €/m²** |
-| Venta con margen 35 % (sin IVA) | ≈ 20.300–24.110 | 254–301 €/m² |
-| **Precio al cliente (+ IVA 21 %)** | **≈ 24.570–29.175** | **307–365 €/m²** |
+| Coste total estimado a tarifa CotizaT | ≈ 15.040–17.860 | 188–223 €/m² |
+| **Coste directo real (MO en nómina + materiales)** | **≈ 14.360–14.540 €** | ≈ 180–182 €/m² |
+| **PVP propuesto — mercado 2026 (sin IVA)** | **≈ 29.000–32.000 €** | **≈ 363–400 €/m²** |
+| **Precio al cliente (IVA 10 %)** | **≈ 32.000–35.000 €** | **≈ 400–438 €/m²** |
 
 ## 6. Contraste con el mercado y advertencias honestas
 
 - **Referencia de mercado A Coruña 2026** (Cronoshare): reforma integral **400–1.000 €/m²**
   (económica 400–550; estándar 600–800; alta 800–1.000). Ej.: 70 m² estándar 42.000–56.000 €.
-- Nuestro rango (307–365 €/m² al cliente) es **inferior a la banda "económica" de mercado**.
-  Explicación (sin inventar, pendiente de validar):
+- Con la recalibración (Rubén, 2026-09-03), el PVP propuesto (≈ 400–440 €/m² c/IVA) entra
+  en la banda **económica-baja del mercado** (400–550 €/m²) y deja margen real ≈ 105–120 %
+  sobre el coste directo real. Notas honestas sobre el escenario:
   1. **Este escenario NO incluye** partidas habituales de una integral real: carpintería
      exterior (ventanas/puerta de entrada), cambios de distribución (tabiques), calefacción
      /ACS, muebles de dormitorios, rodapiés/marcos de puertas si no entran en la partida,

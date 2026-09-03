@@ -13,7 +13,7 @@
   lo exige y se justifica, se **amplía la plantilla propia** (Rubén, 2026-09-03).
 - Conclusión: el coste de personal fijo solo se activa con obra asegurada → estructura
   ajustable al arranque; con el Grupo 1 activo la estructura mensual es ≈ 7.640 € (ver
-  [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md) y
+  [tesorería v4](../../04-finanzas/tesoreria-arranque-2026-2027.md) y
   [coste laboral real](../../04-finanzas/coste-laboral-real-empleados-2026.md)).
 
 ## 2. Método de trabajo (Método RemodelaT, 10 etapas)
@@ -51,17 +51,20 @@ propietarios (normas de obra en fincas).
 - **1 grupo de obra = 1 oficial + 1 ayudante.** Ritmo real: **1 baño o 1 cocina por
   semana → hasta 4 obras pequeñas/mes** (baños, cocinas, cambios de suelo, etc.).
 - **Grupo 1:** se contrata con las primeras obras y se mantiene en las pequeñas.
-- **Grupo 2:** se contrata cuando entra una **obra grande** y se dedica a ella; el Grupo 1
+- **Grupo 2:** se contrata solo con **obra grande firmada** y se dedica a ella; el Grupo 1
   sigue con pequeñas y **apoya a la obra grande en las semanas sin pequeñas** (más
   rendimiento → se termina antes). Obra grande real de Rubén: **piso ~100 m²** (suelo
-  nuevo, 2 baños, cocina, puertas…) → costeada en
+  nuevo, 2 baños, cocina, puertas…) → costeada y **recalibrada a mercado 2026** en
   [su ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md): venta ≈
-  34.090 € c/IVA, margen real ≈ 40–42 %, ≈ 6,5 semanas-grupo (2–3 meses de calendario).
+  37.500 € s/IVA (≈ 41.000 € c/IVA al 10 %), margen ≈ 85 % sobre coste directo,
+  ≈ 6,5 semanas-grupo (2–3 meses de calendario).
 - **Sin subcontratación**: si se necesita más gente se amplía la plantilla (nuevo grupo).
 - **Captación continua**: no se rechazan obras que salgan.
-- Consecuencia económica (ver [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md)):
-  con el Grupo 1 activo la estructura es ≈ 7.640 €/mes → el equilibrio está en **≈ 3,3
-  obras pequeñas/mes**; planificar 1–2/mes con grupo contratado genera pérdidas.
+- Consecuencia económica (ver [tesorería v4](../../04-finanzas/tesoreria-arranque-2026-2027.md)):
+  con el Grupo 1 activo la estructura es ≈ 7.640 €/mes y cada pequeña aporta ≈ 3.500 €
+  antes de estructura → el equilibrio está en **≈ 2,2 obras pequeñas/mes** (con los
+  precios recalibrados a mercado); las puertas de contratación (grupo solo con cartera
+  firmada) evitan los meses a pérdida.
 - Coste del grupo ya calculado con datos reales (convenio A Coruña 2026 + SS 2026:
   ≈ 5.030 €/mes). Pendiente: modalidad de contratación, CNAE/AT-EP y pluses con la
   gestoría, y la obra grande real → tabla mensual definitiva.
@@ -93,6 +96,9 @@ propietarios (normas de obra en fincas).
 - [ ] Contactos de proveedores de materiales y de profesionales (candidatos a plantilla).
 - [ ] Calendario tipo y **rampa real de obra** con el modelo de grupos (modalidad de
       contratación y obra grande con Rubén → tabla mensual definitiva). Hoja de tesorería
-      v3 montada: [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
-- [ ] Objetivo de facturación año 1 (en revisión tras el modelo de grupos: ≈ 170–206 k€
-      con el Grupo 1 según ritmo).
+      v4 montada y recalibrada a mercado:
+      [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
+- [ ] Objetivo de facturación año 1: caso tipo recalibrado ≈ **299 k€ s/IVA** (38
+      pequeñas + 2 pisos 100 en cadena, ≈ +77.000 € antes de impuestos) → validar bandas
+      de precio con Rubén (ver
+      [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md)).

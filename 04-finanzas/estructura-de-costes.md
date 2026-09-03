@@ -3,17 +3,22 @@
 - **Fecha:** 2026-09-03
 - **Estado:** `[BORRADOR]` — modelo piloto para validar el método de costes.
   Pendiente de validar con proveedores locales de A Coruña y con presupuestos reales.
-- ⚠️ La **mano de obra de las partidas está a tarifa comercial CotizaT** (generador de
+- ⚠️ **PVP recalibrado a mercado 2026** (Rubén 2026-09-03: los presupuestos estaban
+  20–30 % por debajo de mercado): propuesta **5.800–6.400 € s/IVA ≈ 6.400–7.000 € c/IVA
+  (10 %)** para el baño completo 4–6 m² (mercado 2026: 5.000–8.000 € c/IVA; detalle y
+  fuentes en [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)).
+- La **mano de obra de las partidas** está a tarifa comercial CotizaT (generador de
   presupuestos). El **coste real de la MO en nómina** (convenio A Coruña 2026 + SS) y los
   márgenes reales resultantes están en
   [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md): baño →
-  MO real ≈ 1.286–1.328 € (75,8 h de grupo), margen real ≈ 39–41 %.
+  MO real ≈ 1.286–1.328 € (75,8 h de grupo) → margen real ≈ 78–88 % sobre coste directo.
 - **Método:** partidas descompuestas de **CotizaT** (`generador-comercial`, repo propio de
   Rubén) valoradas con los **recursos de España en €** de
   `basedatos_partidas/salida/precios_recursos_espana.csv` (fecha datos: 2026-08-25,
   fuente de cada precio indicada en el CSV). Cálculo reproducible: coste partida =
   Σ(precio recurso ES × rendimiento del recurso en la partida).
-- **Moneda:** €, **sin IVA** (a un presupuesto de venta se añade IVA 21 %).
+- **Moneda:** €, **sin IVA**. IVA aplicable: **10 %** en reforma de vivienda habitual
+  (> 2 años) o 21 % — confirmar con gestoría.
 - **Política:** ningún dato inventado. Los costes salen de la fuente CotizaT; los
   **productos finales** (porcelanato, sanitarios…) están `[PENDIENTE]` de presupuestar.
 
@@ -79,15 +84,16 @@ estructurales, con **ducha** (plato + mampara fija).
 | Concepto | € |
 |---|---|
 | **Coste directo de partidas** (materiales básicos + mano de obra a tarifa ES + maquinaria) | **≈ 2.362 €** |
-| Precio de venta orientativo con margen 35 % (margen tipo CotizaT) | ≈ 3.188 € |
-| Precio de venta orientativo con margen 25 % | ≈ 2.952 € |
+| *Precio de venta orientativo con margen 35 % (margen tipo CotizaT)* | *≈ 3.188 € — **no usar como PVP**:* |
+| | *con el coste real de MO (nómina) el margen 35 % a tarifa ES queda 20–30 % bajo de mercado* |
 
 > Notas de interpretación:
-> - La mano de obra está valorada con las **tarifas de mercado ES** de CotizaT
->   (oficial 1.ª ~21-24 €/h, ayudante 15 €/h). Si la obra se ejecuta con **empleados
->   propios**, el coste empresa real es menor (17-20 €/h) → el margen mejora.
-> - CotizaT usa por defecto un margen del 35 % sobre cada partida para formar precio de
->   venta; es una referencia, no una imposición.
+> - La mano de obra está valorada con las **tarifas de mercado ES** de CotizaT (oficial
+>   1.ª ~21–24 €/h, ayudante ~15 €/h), que son precios de venta de mercado, no coste de
+>   plantilla: con **empleados propios a convenio** el coste empresa real es menor
+>   (17–20 €/h) → el margen real es mayor que el 35 % tipo CotizaT.
+> - Por eso el **PVP no se calcula sobre la tarifa CotizaT** sino sobre la banda de
+>   mercado 2026 del producto completo (§4 y ficha de calibración).
 
 ## 3. Productos finales (investigación de precios reales, 2026-09-03)
 
@@ -115,14 +121,19 @@ estructurales, con **ducha** (plato + mampara fija).
 
 | Concepto | € (sin IVA) |
 |---|---|
-| Partidas de obra (CotizaT ES) | 2.362 |
+| Partidas de obra (CotizaT ES, MO a tarifa de mercado) | 2.362 |
 | Productos finales (rango investigado) | +873 a +1.490 |
-| **Coste total estimado** | **≈ 3.235 – 3.852** |
-| Precio de venta c/ margen 35 % (sin IVA) | ≈ 4.370 – 5.200 |
-| **Precio al cliente (+ IVA 21 %)** | **≈ 5.290 – 6.290 €** |
+| Coste total estimado a tarifa CotizaT | ≈ 3.235 – 3.852 |
+| **Coste directo real (MO en nómina a convenio + materiales; ficha [coste-laboral](coste-laboral-real-empleados-2026.md))** | **≈ 3.391 – 3.433 €** |
+| **PVP propuesto — mercado 2026 (sin IVA)** | **≈ 5.800 – 6.400 €** |
+| **Precio al cliente (IVA 10 %)** | **≈ 6.400 – 7.000 €** |
+| Margen real sobre coste directo | ≈ 78–88 % |
 
-> El rango **cae dentro del mercado** de reforma completa de baño en España 2026
-> (ver §4), lo que valida el método. Ajustar calidades (productos) sube/baja el rango.
+> El PVP propuesto queda en la banda **media-baja del mercado real 2026** de reforma
+> completa de baño 4–6 m² (5.000–8.000 € c/IVA: presunow, lebenproyectos, reformatucasa,
+> reformas10), frente al anterior ≈ 4.800–5.300 c/IVA que Rubén marcó como 20–30 % bajo.
+> Ajustar calidades (productos) sube/baja el coste; el PVP se fija contra la banda de
+> mercado, no contra el coste.
 
 ## 4. Contraste con el mercado (España 2026, fuentes públicas)
 

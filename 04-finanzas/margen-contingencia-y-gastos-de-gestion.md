@@ -1,31 +1,43 @@
 # Política de margen, contingencia y gastos de gestión — RemodelaT Coruña S.L.
 
-- **Fecha:** 2026-09-03
+- **Fecha:** 2026-09-03 · actualizado a la **recalibración de precios** (Rubén: los
+  presupuestos estaban 20–30 % por debajo de mercado).
 - **Estado:** `[BORRADOR/CONFIRMADO EN PARTE]` — la **política de contingencias** y la
   **retribución/objetivo/capacidad** quedaron confirmadas por Rubén el 2026-09-03 (ver
-  `02-plan-de-negocio/datos-confirmados.md`, 6.ª tanda). El **margen del 35 %** es la base
-  validada en los pilotos; se ajustará con la primera obra real. Los **hechos**
-  (referencias sectoriales) llevan fuente y fecha.
+  `02-plan-de-negocio/datos-confirmados.md`, 6.ª tanda). La **regla de precio cambia**
+  tras la corrección del 2026-09-03: el precio se fija contra la **banda de mercado
+  real 2026**, no contra el coste × 1,35 (los presupuestos con el margen tipo CotizaT
+  quedaban 20–30 % bajos). Los **hechos** (referencias sectoriales) llevan fuente y fecha.
 - **Objeto:** definir cómo se convierte el **coste directo** de una obra (modelos de
   `04-finanzas`) en **precio al cliente**, y cómo se gestionan los **imprevistos** y los
   **gastos de estructura** sin inventar partidas ni sorprender al cliente.
 
-## 1. Cómo se forma el precio hoy (modelo validado)
+## 1. Cómo se forma el precio hoy (regla recalibrada, 2026-09-03)
 
-En los pilotos de baño, cocina e integral el precio de venta se forma así:
+**Antes (obsoleto):** `Coste CotizaT × 1,35 × 1,21 = precio`. Ese método daba presupuestos
+**20–30 % por debajo de mercado** (Rubén: colocar un suelo cerámico ≈ 24 €/m² y demoler un
+suelo ≈ 15,50 €/m² son "baratos"; lo que CotizaT tasaba a 11–20 €/m²).
+
+**Ahora:**
 
 ```
-Coste directo (partidas CotizaT ES + productos a precio investigado, sin IVA)
-      × 1,35  (margen comercial del 35 % sobre coste; margen "tipo CotizaT")
-      = Base imponible
-      × 1,21  (IVA)
-      = Precio al cliente
+Precio al cliente = banda de mercado 2026 del producto completo (s/IVA)
+                    (nunca por debajo del punto bajo-medio documentado)
+Coste directo real = MO en nómina (convenio A Coruña 2026 + SS) + materiales
+Regla de viabilidad: PVP mercado ≥ coste directo real × 1,35  →  si no, no ofertar
+CotizaT = mediciones (m², horas, rendimientos), NO precios de venta
 ```
 
-Ese 35 % es un **margen comercial bruto**: debe cubrir, a la vez, los **gastos de
-gestión/estructura**, un **colchón de tesorería/riesgo de empresa** y el **beneficio
-neto**. Este documento reparte ese margen en esas bolsas para que las cuentas cuadren;
-los **imprevistos de obra** no se descuentan de él (ver política confirmada en §3.3).
+- La **investigación de mercado** (por partida y por obra completa) está en
+  [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md).
+- El coste directo real no fija el precio: sirve para **validar la viabilidad** y saber
+  el **margen real** de cada obra. Con plantilla propia a convenio, el margen real es muy
+  superior al de un reformista que subcontrata a tarifa de mercado — esa es la ventaja
+  estructural del modelo.
+- Tabla resumen de bandas: baño ≈ **5.800–6.400 € s/IVA**, cocina ≈ **5.000–6.000 €
+  s/IVA**, piso 100 m² ≈ **36.000–39.000 € s/IVA**, integral 80 m² ≈ **29.000–32.000 €
+  s/IVA** (IVA aplicable al cliente: **10 %** en reforma de vivienda habitual > 2 años,
+  a confirmar con gestoría).
 
 ## 2. Referencias sectoriales (hechos, con fuente)
 
@@ -36,43 +48,49 @@ los **imprevistos de obra** no se descuentan de él (ver política confirmada en
 | Aplicación en serie | GG se aplica sobre el PEM y BI sobre (PEM + GG): PVP ≈ PEM × 1,13 × 1,06 | motordepresupuestos.com (2026-04-18) |
 | Contingencia / imprevistos | Obra residencial estándar: reservar **5–10 % del presupuesto**; rehabilitaciones con incertidumbre (tabiques, instalaciones antiguas): hasta **15–25 %** | reformasuru.com (2026-06); estudiokonzept.com (2026-01); livingbyesparza.es (2025-12) |
 
-Traducción a % sobre el **precio de venta sin IVA** (estructura pública típica):
-GG 13 % s/PEM ≈ **11 % del PVP**, BI 6 % s/subtotal ≈ **6 % del PVP** (≈17 % en total).
-El margen RemodelaT del 35 % sobre coste equivale a ≈ **26 % del PVP**: queda margen para
-el colchón de tesorería/riesgo de la empresa, coherente con una empresa pequeña.
+En obra pública GG ≈ 11 % + BI ≈ 6 % del PVP (≈ 17 % en total) porque el contratista
+**subcontrata** la ejecución a tarifa de mercado. RemodelaT ejecuta con **plantilla
+propia**: su margen (PVP de mercado − coste directo real) es mayor (≈ 44 % del PVP en el
+baño) y con ese margen cubre estructura, riesgo y beneficio. Es la diferencia de modelo
+(ejecutar con empleados propios), no un precio inflado.
 
 ## 3. Política RemodelaT (confirmada en parte el 2026-09-03)
 
-### 3.1. Margen comercial objetivo: **35 % sobre el coste directo (mínimo)**
+### 3.1. Regla de precio: banda de mercado 2026 (nunca por debajo del punto bajo-medio)
 
-- Mantener el 35 % usado en los pilotos como **objetivo mínimo** (base imponible = coste
-  × 1,35). Es lo que hace que los precios al cliente (5.290–6.290 € baño, 4.485–6.575 €
-  cocina, 307–365 €/m² integral) estén dentro del mercado 2026.
-- Subir margen (40–45 %) solo en: calidades *premium*, obras pequeñas con mucho riesgo
-  oculto (edificios antiguos) o cuando la validación con presupuestos reales lo
-  justifique. `[PENDIENTE] validar con Rubén al primer contraste real`
-- Si se ejecuta con **empleados propios** (coste empresa real 17–20 €/h < tarifa de
-  mercado 21–24 €/h que usa CotizaT), el margen real mejora sin tocar el precio.
+- El **precio de oferta se fija en la banda baja-media del mercado real 2026** del
+  producto completo, documentado en
+  [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md). CotizaT ya
+  no se usa para formar el precio (quedaba 20–30 % bajo), solo para medir.
+- El **coste directo real** (MO nómina + materiales) valida la viabilidad: si el PVP de
+  mercado no cubre coste × 1,35, la obra no se oferta tal cual (o se reduce alcance /
+  sube calidades justificadas).
+- Subir a banda **media-alta / premium** solo en: calidades *premium*, obras pequeñas
+  con mucho riesgo oculto (edificios antiguos), demanda alta o validación con
+  presupuestos reales. `[PENDIENTE] validar con Rubén al primer contraste real`.
+- La ejecución con **empleados propios a convenio** (coste empresa 17–20 €/h < tarifa de
+  mercado 21–24 €/h) es lo que hace el margen alto sin tocar el precio.
 
-### 3.2. Reparto interno del margen (para saber si el 35 % cubre)
+### 3.2. Reparto del margen (para saber si el precio cubre)
 
-Desglose orientativo sobre el precio de venta sin IVA (obra pequeña tipo, punto medio):
+El margen de cada obra = **PVP de mercado − coste directo real**. Ejemplo con el baño
+(punto medio: PVP ≈ 6.100 € s/IVA, coste directo real ≈ 3.412 €):
 
-| Concepto | % sobre coste | % sobre PVP sin IVA | Ej. baño (PVP ≈ 4.782 €) |
-|---|---|---|---|
-| Coste directo | 100 % | 74,1 % | ≈ 3.542 € |
-| Gastos de gestión/estructura (ref. GG 13 % s/PEM) | ≈ 10–15 % | ≈ 8–11 % | ≈ 380–525 € |
-| Colchón de tesorería/riesgo de empresa | ≈ 5–8 % | ≈ 4–6 % | ≈ 190–285 € |
-| Beneficio neto antes de impuestos (resto) | ≈ 12–19 % | ≈ 9–14 % | ≈ 430–670 € |
+| Concepto | Ej. baño (€) | % sobre el PVP |
+|---|---|---|
+| Coste directo real (MO nómina + materiales) | ≈ 3.412 | ≈ 56 % |
+| **Margen bruto (antes de estructura)** | **≈ 2.688** | **≈ 44 %** |
+| └ Gastos de estructura del mes (grupo + retribución + fijos; §5) | (se cubren con ~2,2 pequeñas/mes) | — |
+| └ Colchón de tesorería/riesgo de empresa (huecos de cobro, garantías 10 %) | prudencia a nivel de empresa | — |
+| └ Beneficio neto antes de impuestos | el resto, según obras del mes | — |
 
 > El colchón no es una "reserva oculta por obra": es tesorería de empresa para huecos de
 > cobro, garantías, roturas o semanas sin obra. Los **imprevistos del inmueble no salen de
 > aquí**: se presupuestan como modificación al cliente (§3.3).
 >
 > El **% real** de gastos de gestión se cerrará con la contabilidad del primer año
-> (gestoría + centro de negocios + seguros + software + vehículo). Hasta entonces, usar
-> estos rangos para no gastarse el margen: **no dar todo el 35 % como beneficio**.
-> `[PENDIENTE] seguimiento con la tesorería real`.
+> (gestoría + centro + seguros + software + vehículo). `[PENDIENTE] seguimiento con la
+> tesorería real`.
 
 ### 3.3. Contingencia (imprevistos): política CONFIRMADA por Rubén (2026-09-03)
 
@@ -100,29 +118,29 @@ Desglose orientativo sobre el precio de venta sin IVA (obra pequeña tipo, punto
 
 ### 3.4. Gastos de gestión y estructura
 
-- Cubiertos por el margen comercial (no se cobran como recargo al cliente en obra
-  pequeña/media). Referencia de cuánto gastar: con **≈ 12 obras pequeñas/año**, cada obra
-  debe cargar ≈ 350–450 € de estructura (≈ 8–9 % del PVP de un baño).
+- Cubiertos por el margen de las obras (no se cobran como recargo al cliente en obra
+  pequeña/media). Con el Grupo 1 activo la estructura mensual es ≈ **7.640 €/mes**
+  (grupo 5.030 + retribución Rubén 1.900 + fijos 710): en el caso tipo se cubre con
+  ≈ **2,2 obras pequeñas/mes** (cada una ≈ 3.500 € de margen antes de estructura);
+  a 3–4 obras/mes el excedente es beneficio (ver
+  [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md)).
 - En **integrales grandes** (varias semanas, más gestión, proyecto/permisos posibles) se
   valorará una línea de **gestión de obra** explícita. `[PENDIENTE]`
 
-## 4. Números por obra tipo (puntos medios del modelo, 2026-09-03)
+## 4. Números por obra tipo (recalibrados a mercado 2026)
 
-| Obra tipo | Coste medio | PVP ×1,35 (s/IVA) | Margen bruto 35 % |
-|---|---|---|---|
-| Baño 4,5 m² | ≈ 3.542 € | ≈ 4.782 € | ≈ 1.240 € |
-| Cocina 3 m | ≈ 3.385 € | ≈ 4.570 € | ≈ 1.185 € |
-| Integral 80 m² | ≈ 16.450 € | ≈ 22.210 € | ≈ 5.760 € |
+| Obra tipo | Coste directo real (MO nómina + mat.) | PVP mercado s/IVA | Margen bruto real | % sobre PVP |
+|---|---|---|---|---|
+| Baño 4,5 m² | ≈ 3.391–3.433 € | ≈ 5.800–6.400 € | ≈ 2.400–3.000 € | ≈ 41–46 % |
+| Cocina 3 m | ≈ 3.308–3.329 € | ≈ 5.000–6.000 € | ≈ 1.700–2.700 € | ≈ 34–45 % |
+| Pequeña media (mix) | — | **≈ 5.900 €** | **≈ 3.500 €** (antes de estructura) | ≈ 60 % s/venta |
+| Piso 100 m² (A) | ≈ 19.826–20.114 € | ≈ 36.000–39.000 € | ≈ 15.900–19.200 € | ≈ 44–49 % |
+| Integral 80 m² | ≈ 14.360–14.540 € | ≈ 29.000–32.000 € | ≈ 14.400–17.700 € | ≈ 50–55 % |
 
-*(El margen de la integral es mayor pero cubre más semanas de gestión y más riesgo. Ese
-margen bruto reparte entre GG + colchón + beneficio neto (§3.2); los imprevistos de obra
-se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
-
-> Coste medio = partidas CotizaT con MO a tarifa comercial. Repreciando la MO a coste
-> real (convenio A Coruña 2026 + SS), el coste directo real baja y el **margen real sobre
-> coste queda en ≈ 38–41 % en baño/cocina** — lo que Rubén observa en sus presupuestos
-> CotizaT (40–45 %) — e ≈ 53–55 % en la integral del piloto. Detalle:
-> [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md).
+*(El margen de las obras grandes cubre más semanas de gestión y más riesgo. Los
+imprevistos de obra se facturan al cliente como modificación (§3.3), nunca salen del
+margen. Pequeña media = mix baño/cocina; su margen antes de estructura paga los sueldos
+del grupo y la estructura del mes.)*
 
 ## 5. Punto de equilibrio mensual (costes fijos investigados — ver referencia de costes)
 
@@ -137,25 +155,25 @@ se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 
 - **Retribución del socio (confirmada por Rubén, 2026-09-03): ≈ 1.600 €/mes netos**.
   Bruto estimado ≈ 1.850–2.000 €/mes según retención IRPF (cuadrar con gestoría al
-  formalizar la nómina de administrador). Total a cubrir con el margen:
-  ≈ 580 + 1.900 ≈ **2.480 €/mes** (≈ 2.430–2.580 según bruto).
+  formalizar la nómina de administrador). Total a cubrir con el margen sin grupo:
+  ≈ 580 + 1.900 ≈ **2.480 €/mes**.
 
-**Equilibrio (margen medio ≈ 1.200 € por obra pequeña; ≈ 5.760 € por integral):**
+**Equilibrio (recalibrado; cada obra pequeña aporta ≈ 3.500 € antes de estructura; la
+estructura con Grupo 1 activo ≈ 7.640 €/mes):**
 
 | Escenario | Necesario para cubrir |
 |---|---|
-| Solo gastos fijos (580 €/mes) | ≈ 0,5 obra pequeña/mes, o 1 integral cada ~10 meses |
-| Gastos fijos + retribución neta 1.600 €/mes (total ≈ 2.480 €/mes) | ≈ **2,1 obras pequeñas/mes**, o ≈ 0,43 integrales/mes (1 integral cubre ≈ 2,3 meses) |
+| Solo estructura sin grupo (≈ 2.480 €/mes, obras agendadas que ejecuta Rubén) | ≈ 0,7 obra pequeña/mes → 1 pequeña al mes ya deja ≈ + 1.000 € |
+| Con **Grupo 1 activo** (≈ 7.640 €/mes) | ≈ **2,2 obras pequeñas/mes**; de 3 en adelante todo es excedente (+2.900 a +6.400 €/mes) |
+| Obra grande con Grupo 2 | la grande (bruto ≈ 26.500 € − materiales) paga el grupo con holgura y deja ≈ + 11.400 € netos por obra |
 
 > Implicación con la capacidad por grupos y el coste laboral real (Rubén, 2026-09-03):
-> el **Grupo 1 (oficial + ayudante)** se contrata con las primeras obras (coste real por
-> convenio A Coruña + SS 2026 ≈ 5.030 €/mes) y cubre hasta 4 pequeñas/mes; cuando entra
-> la obra grande se añade el Grupo 2. Con el grupo activo la estructura sube a
-> **≈ 7.640 €/mes** → el equilibrio real está en ≈ 3,3 pequeñas/mes (ver
-> [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md) y
-> [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md)); el
-> objetivo anual de 90–115 k€ queda **en revisión** con este modelo
-> (`02-plan-de-negocio/07-plan-financiero.md` §5.2).
+> el **Grupo 1 (oficial + ayudante)** se contrata solo con cartera firmada (≥ 3–4 obras
+> pequeñas) y cubre hasta 4 pequeñas/mes; el **Grupo 2** entra con obra grande firmada.
+> Con esa regla y los precios recalibrados, el caso tipo del año 1 (38 pequeñas + 2 pisos
+> 100 en cadena) deja **≈ 299 k€ s/IVA de venta y ≈ +77.000 € antes de impuestos** (ver
+> [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md) §7 y
+> [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md)).
 
 ## 6. Decisiones y seguimiento
 
@@ -164,10 +182,13 @@ se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
       → 2026-09-03.
 - [x] Coste laboral real calculado (convenio A Coruña 2026 + SS 2026; grupo ≈ 5.030 €/mes)
       → 2026-09-03. CotizaT queda como generador comercial (no fuente de costes internos).
-- [ ] Objetivo año 1: en revisión con el modelo de grupos (≈ 170–206 k€ con el Grupo 1
-      según ritmo) → reabrir con Rubén.
-- [ ] Confirmar el margen del 35 % con la primera obra real y definir % para calidades
-      *premium* / riesgo alto (hasta entonces se mantiene el 35 % de los pilotos).
+- [ ] **Recalibración de precios (Rubén, 2026-09-03):** validar bandas propuestas
+      (baño 5.800–6.400 s/IVA; cocina 5.000–6.000; piso 100 36.000–39.000; partidas de
+      suelo/demolición) → [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md).
+- [ ] Confirmar el tipo de IVA (10 % vs 21 %) con la gestoría y los presupuestos reales
+      de gremios en A Coruña.
+- [ ] Confirmar la regla de precio (§3.1) con la primera obra real y definir % para
+      calidades *premium* / riesgo alto.
 - [ ] Revisar si en integrales grandes se cobra línea de "gestión de obra" explícita
       (con datos de la primera integral real).
 - [ ] Seguimiento de gastos reales de gestión vs. desglose §3.2 con la contabilidad del
@@ -181,5 +202,7 @@ se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 - Contingencia: [reformasuru.com](https://www.reformasuru.com/post/por-que-evitar-reformas-sin-presupuesto-escrito)
   (2026-06) · [estudiokonzept.com](https://estudiokonzept.com/cuanto-cuesta-una-reforma-integral/) (2026-01) ·
   [livingbyesparza.es](https://livingbyesparza.es/precio-reforma-integral/) (2025-12).
+- Precios de mercado 2026 (suelo, demolición, baño, cocina, integral): ver tabla y enlaces
+  en [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md).
 - Costes fijos (RETA, gestoría, seguros, centro de negocios): ver
   [referencia de costes locales](../02-plan-de-negocio/referencias/2026-09-03_costes-locales-gestion-espana.md).

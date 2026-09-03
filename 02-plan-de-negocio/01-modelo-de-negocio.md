@@ -26,9 +26,9 @@ debe estar bien hecha y documentada.
 - Ejecución de obras de reforma (integrales y parciales) **presupuestadas por partidas**
   (demolición, instalaciones, impermeabilización, revestimientos, carpintería, acabados,
   limpieza) con sus exclusiones claras.
-- Ingreso = presupuesto pactado (base imponible + IVA 21 %), con pagos por hitos/avance
-  de obra según contrato. *(Esquema de pagos y retenciones: `[PENDIENTE]` — definir en
-  plantilla de contrato.)*
+- Ingreso = presupuesto pactado (base imponible + IVA — **10 % en reforma de vivienda
+  habitual > 2 años, 21 % en el resto**; a confirmar con gestoría), con pagos por hitos
+  de obra según contrato (50 % entrada + 20 % + 20 % + 10 % final, confirmado por Rubén).
 - Modelo de ejecución (confirmado 2026-09-03): **plantilla propia** (Rubén + empleados
   según obra, ampliable) — **sin subcontratación de especialidades**: si la carga lo
   justifica se amplía la plantilla propia.
@@ -48,14 +48,16 @@ debe estar bien hecha y documentada.
 | Método y garantía por escrito | Método RemodelaT en 10 etapas (probado en obra real; contenido propio) |
 | Experiencia demostrable | Obra real documentada (fichas P-ES-001…007 con fotos antes/después) |
 | Conocimiento técnico | Fundador ingeniero; decisión: la empresa **ejecuta**; si hace falta proyecto visado → estudio externo (confirmado) |
-| Herramienta de precios propia | **CotizaT**: tablas de precios de España por partidas (fuente interna) |
+| Herramienta de precios propia | **CotizaT**: tablas de precios de España por partidas — uso para **mediciones**; PVP contra banda de mercado 2026 ([calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md)) |
 | Idiomas / web | Español (+ gallego a valorar) `[PENDIENTE]` |
 
 ## 6. Estructura legal y fiscal (prevista)
 
 - **S.L. unipersonal** (socio único: Rubén). Denominación de trabajo: **RemodelaT Coruña S.L.**
   (validar con gestoría).
-- IVA 21 %; régimen general. NIF de la sociedad. Gestoría en A Coruña `[PENDIENTE]`.
+- Régimen general. IVA: tipo **10 %** en reformas de vivienda habitual (> 2 años) y 21 %
+  en el resto — confirmar criterio con la gestoría. NIF de la sociedad. Gestoría en
+  A Coruña `[PENDIENTE]`.
 - Detalle en [`05-legal-y-tramites`](../05-legal-y-tramites/README.md).
 
 ## 7. Pendiente (no inventar, aportar o investigar)

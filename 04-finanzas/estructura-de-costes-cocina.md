@@ -3,10 +3,11 @@
 - **Fecha:** 2026-09-03
 - **Estado:** `[BORRADOR]` — mismo método validado en el [piloto de baño](estructura-de-costes.md).
   Pendiente de validar con proveedores locales de A Coruña y con presupuestos reales.
-- ⚠️ La **mano de obra de las partidas está a tarifa comercial CotizaT** (generador de
-  presupuestos). El **coste real de la MO en nómina** (convenio A Coruña 2026 + SS) está
-  en [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md): cocina
-  → MO real ≈ 647–668 € (38 h de grupo), margen real ≈ 37–38 %.
+- ⚠️ **Recalibrado a mercado 2026** (Rubén: precios 20–30 % bajos): PVP propuesto **5.000–6.000 €
+  s/IVA ≈ 5.500–6.600 € c/IVA (10 %)**, sin electrodomésticos grandes (el mercado de cocina
+  completa con electrodomésticos está en 6.500–14.000 € c/IVA, fuentes 2026 en
+  [calibracion-tarifas-mercado-2026.md](calibracion-tarifas-mercado-2026.md)). MO real en
+  nómina ≈ 647–668 € (38 h) → margen real ≈ 65–80 % sobre coste directo.
   Pendiente de validar con proveedores locales de A Coruña y presupuestos reales.
 - **Método:** partidas de **CotizaT** valoradas con recursos España (€) + **productos
   finales investigados** en tiendas reales (Obramat sin IVA / Leroy Merlin con IVA),
@@ -86,11 +87,13 @@ compra a medida como producto con instalación incluida → evita doble coste.)
 
 | Concepto | € (sin IVA) |
 |---|---|
-| Partidas de obra (CotizaT ES) | ≈ 1.016 |
+| Partidas de obra (CotizaT ES, MO a tarifa de mercado) | ≈ 1.016 |
 | Productos finales (rango investigado) | +1.730 a +3.010 |
-| **Coste total estimado** | **≈ 2.745 – 4.025** |
-| Precio de venta c/ margen 35 % (sin IVA) | ≈ 3.705 – 5.435 |
-| **Precio al cliente (+ IVA 21 %)** | **≈ 4.485 – 6.575 €** |
+| Coste total estimado a tarifa CotizaT | ≈ 2.745 – 4.025 |
+| **Coste directo real (MO en nómina a convenio + materiales)** | **≈ 3.308 – 3.329 €** |
+| **PVP propuesto — mercado 2026 (sin IVA)** | **≈ 5.000 – 6.000 €** |
+| **Precio al cliente (IVA 10 %)** | **≈ 5.500 – 6.600 €** |
+| Margen real sobre coste directo | ≈ 65–80 % |
 
 ## 4. Contraste con el mercado (España 2026, fuentes públicas)
 
