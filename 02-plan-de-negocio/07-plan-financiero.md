@@ -37,11 +37,15 @@
 
 ## 4. Estructura de costes por obra tipo (a calcular)
 
-Obras tipo a costear con CotizaT (partidas + recursos España) y contrastes locales:
-1. Reforma de baño (estándar y alta).
-2. Reforma de cocina (estándar y alta).
-3. Reforma integral (€/m² por calidades).
-4. Servicios secundarios (pintura, suelos, revestimientos…).
+✅ **Piloto hecho:** [reforma integral de baño estándar (4,5 m²)](../../04-finanzas/estructura-de-costes.md),
+calculada con partidas de CotizaT valoradas con recursos de España (2026-08-25):
+coste directo ≈ 2.362 € en partidas (+ bloque de productos finales a presupuestar).
+Contraste de mercado incluido.
+
+Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
+1. Reforma de cocina (estándar y alta).
+2. Reforma integral (€/m² por calidades).
+3. Servicios secundarios (pintura, suelos, revestimientos…).
 
 Por cada obra tipo: coste materiales + coste mano de obra + subcontratas + gastos
 (indirectos, transporte, residuos, imprevistos) → margen objetivo. `[PENDIENTE]`.

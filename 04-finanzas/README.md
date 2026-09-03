@@ -5,11 +5,11 @@ presupuestos económicos y (cuando se opere) facturación y contabilidad.
 
 ## Documentos previstos (se crean según se necesiten)
 
-| Documento | Contenido |
-|---|---|
-| `plan-financiero.md` | Inversión inicial, gastos de constitución, equipamiento, tesorería, punto de equilibrio |
-| `estructura-de-costes.md` | Costes fijos y variables de una reforma tipo (mano de obra, materiales, % beneficio) |
-| `presupuesto-tipo.md` | Partidas estándar de un presupuesto de reforma (base para ofrecer a clientes) |
+| Documento | Contenido | Estado |
+|---|---|---|
+| [estructura-de-costes.md](estructura-de-costes.md) | Piloto de costes: obra tipo **baño estándar 4,5 m²** con partidas CotizaT (ES) | `[BORRADOR]` 2026-09-03 |
+| `plan-financiero.md` | Inversión inicial, gastos de constitución, equipamiento, tesorería, punto de equilibrio | en `02-plan-de-negocio/07-plan-financiero.md` |
+| `presupuesto-tipo.md` | Partidas estándar de un presupuesto de reforma (base para ofrecer a clientes) | pendiente |
 
 ## Reglas y notas
 
