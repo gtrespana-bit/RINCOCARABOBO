@@ -8,7 +8,7 @@
 
 | # | Tarea | Detalle | Resp. | Estado |
 |---|---|---|---|---|
-| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo CotizaT (baño/cocina/integral), retribución, capacidad por grupos y **tesorería v2** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: objetivo año 1 en revisión con el modelo de grupos; afinar supuestos (grupo, obra grande) con presupuestos reales | R | `[EN CURSO]` |
+| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo CotizaT (baño/cocina/integral), retribución, capacidad por grupos, **coste laboral real** (convenio A Coruña + SS) y **tesorería v3** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: objetivo año 1 en revisión; afinar CNAE/AT-EP, modalidad de contratación y obra grande con presupuestos reales | R | `[EN CURSO]` |
 | A2 | Elegir gestoría en A Coruña | 3 presupuestos (constitución S.L. + contabilidad mensual) | R | `[PENDIENTE]` |
 | A3 | Validar denominación "RemodelaT Coruña S.L." | Disponibilidad en Registro Mercantil (vía gestoría) | R/gestoría | `[PENDIENTE]` |
 | A4 | Decidir identidad visual y dominio | ¿Heredar marca RemodelaT (logo/paleta) o crear? Dominio .es | R | `[PENDIENTE]` |

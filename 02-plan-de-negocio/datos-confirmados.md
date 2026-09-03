@@ -83,6 +83,15 @@
 | Desglose MO/materiales (fuente CotizaT, 2026-09-03) | Baño: coste 3.543 € → MO 1.437 (41 %) + mat. 2.105 · Cocina: 3.386 € → MO 725 (21 %) + mat. 2.661 · Integral 80 m²: 16.450 € → MO 7.596 (46 %) + mat. 8.854 | Calculado de los descompuestos (recurso a recurso) + productos |
 | Tesorería de arranque | Recalculada en **v2 con modelo de grupos**: estructura ≈ 7.910 €/mes con Grupo 1 (5.300 grupo + 710 otros + 1.900 retribución); equilibrio ≈ 3,5 pequeñas/mes; Grupo 2 en obra grande pendiente de validar (su MO modelada ≈ 8.480–10.260 € < 12 semanas × 1.320 €/sem) | La v1 (20 obras/año) queda obsoleta como plan base |
 
+## Aportaciones — 2026-09-03 (9.ª tanda: corrección del método de costes laborales)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Coste de los trabajadores | **No se calcula con las tarifas/hora de CotizaT**: CotizaT es el generador comercial (precios de venta); su propia base marca la hora de oficial a 21 € como *"tarifa facturada, no incluye cargas del empleador"* | Corrige la tesorería v2 (estimaba 18,5/14,5 €/h). Cálculo real: **convenio construcción A Coruña 2026 + SS patronal 2026** → [ficha](../../04-finanzas/coste-laboral-real-empleados-2026.md) |
+| Coste real de empleados (A Coruña, 2026) | Ayudante (Niv. X): bruto 1.557 €/mes ×14 → coste empresa 2.416–2.495 €/mes · Oficial 1ª (Niv. VIII): 1.632 €/mes ×14 → 2.532–2.615 €/mes · **Grupo (1+1) ≈ 5.030 €/mes** (4.948–5.110) | SS 2026 ≈ 30,65 % + AT/EP 2,35 % (CNAE 43) o 6,70 % (CNAE 41). CotizaT sigue usándose para **horas** (rendimientos) y precios de venta |
+| Margen real de sus presupuestos CotizaT | **40–45 % de margen sobre coste real** (Rubén, observado en su práctica) | Repreciando MO a convenio: baño/cocina salen en 38–41 %; los materiales a precio de tienda sin IVA (descuento de proveedor lo subiría) |
+| Tesorería v3 | Recalculada: estructura ≈ **7.640 €/mes** con Grupo 1 (grupo 5.030 + 710 otros + 1.900 retribución); equilibrio ≈ **3,3 pequeñas/mes** (≈ 170 k€/año) · plena carga 4/mes ≈ +17 k€/año (≈ 206 k€) | MO real por obra: baño ≈ 1.286–1.328 € (75,8 h) · cocina ≈ 647–668 € (38 h) · integral ≈ 5.506–5.686 € (324,9 h) |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

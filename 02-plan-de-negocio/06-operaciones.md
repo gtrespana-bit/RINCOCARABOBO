@@ -12,8 +12,9 @@
 - Especialidades (electricidad, fontanería, etc.): **sin subcontratación** — si una obra
   lo exige y se justifica, se **amplía la plantilla propia** (Rubén, 2026-09-03).
 - Conclusión: el coste de personal fijo solo se activa con obra asegurada → estructura
-  ajustable al arranque; con el Grupo 1 activo la estructura mensual es ≈ 7.910 € (ver
-  [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md)).
+  ajustable al arranque; con el Grupo 1 activo la estructura mensual es ≈ 7.640 € (ver
+  [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md) y
+  [coste laboral real](../../04-finanzas/coste-laboral-real-empleados-2026.md)).
 
 ## 2. Método de trabajo (Método RemodelaT, 10 etapas)
 
@@ -55,11 +56,12 @@ propietarios (normas de obra en fincas).
   sin pequeñas** (más rendimiento → se termina antes).
 - **Sin subcontratación**: si se necesita más gente se amplía la plantilla (nuevo grupo).
 - **Captación continua**: no se rechazan obras que salgan.
-- Consecuencia económica (ver [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md)):
-  con el Grupo 1 activo la estructura es ≈ 7.910 €/mes → el equilibrio está en **≈ 3,5
+- Consecuencia económica (ver [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md)):
+  con el Grupo 1 activo la estructura es ≈ 7.640 €/mes → el equilibrio está en **≈ 3,3
   obras pequeñas/mes**; planificar 1–2/mes con grupo contratado genera pérdidas.
-- Pendiente: validar coste real del grupo (convenio A Coruña), modalidad de contratación
-  y la obra grande real → tabla mensual de tesorería definitiva.
+- Coste del grupo ya calculado con datos reales (convenio A Coruña 2026 + SS 2026:
+  ≈ 5.030 €/mes). Pendiente: modalidad de contratación, CNAE/AT-EP y pluses con la
+  gestoría, y la obra grande real → tabla mensual definitiva.
 
 ## 5. Recursos operativos
 
@@ -86,8 +88,8 @@ propietarios (normas de obra en fincas).
 - [ ] Presupuestos reales del centro de negocios y de la gestoría en A Coruña (rangos
       investigados 2026-09-03: domicilio desde 36 €/mes; gestoría 120–250 €/mes).
 - [ ] Contactos de proveedores de materiales y de profesionales (candidatos a plantilla).
-- [ ] Calendario tipo y **rampa real de obra** con el modelo de grupos (validar coste del
-      grupo y obra grande con Rubén → tabla mensual definitiva). Hoja de tesorería v2 ya
-      montada: [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
-- [ ] Objetivo de facturación año 1 (en revisión tras el modelo de grupos: ≈ 175–205 k€
-      con el Grupo 1 a plena carga).
+- [ ] Calendario tipo y **rampa real de obra** con el modelo de grupos (modalidad de
+      contratación y obra grande con Rubén → tabla mensual definitiva). Hoja de tesorería
+      v3 montada: [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md).
+- [ ] Objetivo de facturación año 1 (en revisión tras el modelo de grupos: ≈ 170–206 k€
+      con el Grupo 1 según ritmo).

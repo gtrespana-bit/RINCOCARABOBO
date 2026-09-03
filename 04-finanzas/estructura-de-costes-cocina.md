@@ -2,6 +2,11 @@
 
 - **Fecha:** 2026-09-03
 - **Estado:** `[BORRADOR]` — mismo método validado en el [piloto de baño](estructura-de-costes.md).
+  Pendiente de validar con proveedores locales de A Coruña y con presupuestos reales.
+- ⚠️ La **mano de obra de las partidas está a tarifa comercial CotizaT** (generador de
+  presupuestos). El **coste real de la MO en nómina** (convenio A Coruña 2026 + SS) está
+  en [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md): cocina
+  → MO real ≈ 647–668 € (38 h de grupo), margen real ≈ 37–38 %.
   Pendiente de validar con proveedores locales de A Coruña y presupuestos reales.
 - **Método:** partidas de **CotizaT** valoradas con recursos España (€) + **productos
   finales investigados** en tiendas reales (Obramat sin IVA / Leroy Merlin con IVA),

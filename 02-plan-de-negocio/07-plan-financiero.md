@@ -15,19 +15,33 @@
 | Seguros (RC reformas + vehículo) | RC: **≈ 160–300 €/año** (sin empleados; 250–400 € con plantilla); vehículo: `[PENDIENTE]` | ídem |
 | Centro de negocios (cuota inicial/alta) | Fase 1: domicilio profesional **desde 36 €+IVA/mes** (Coworking Oleiros) u oficina virtual; coworking 109–180 €; despacho 375–500 € si hace falta | ídem |
 | Gestoría (cuota mensual corriente) | S.L. básica **120–250 €/mes** (+15–30 €/empleado/mes cuando se contrate) | ídem, ver §5.1 |
-| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Cubrir ≈ 2.480 €/mes sin grupo (580 fijos + retribución neta 1.600 €) durante la rampa de captación hasta llenar el Grupo 1 (≈ 7.910 €/mes con grupo activo); mínimo recomendado ≈ 6–7 k€ según resto de partidas |
+| Fondo de maniobra (tesorería entre cobros y rampa inicial) | `[PENDIENTE]` | Cubrir ≈ 2.480 €/mes sin grupo (580 fijos + retribución neta 1.600 €) durante la rampa de captación hasta llenar el Grupo 1 (≈ 7.640 €/mes con grupo activo); mínimo recomendado ≈ 6–7 k€ según resto de partidas |
 | Marketing de arranque | `[PENDIENTE]` | Ver sección 05 |
 
-## 2. Costes de mano de obra (fuente: CotizaT, España, datos 2026-08-25)
+## 2. Costes de mano de obra (2026 — método corregido por Rubén)
 
-- **Tarifa de mercado (referencia; equivaldría a subcontratar):** oficial 1.ª 21 €/h
-  (18–25); electricista 24 €/h; fontanero 23 €/h; pintor 20 €/h; ayudante 15 €/h.
-- **Coste empresa (empleados en nómina — modelo de ejecución confirmado, sin
-  subcontratas):** oficial 1.ª ≈ 17–20 €/h zona media española (19–23 en Madrid/Cataluña);
-  ayudante/peón ≈ 13–16 €/h. (Fórmula interna CotizaT: bruto ×1,3215 SS empresa + costes
-  fijos; ver referencias.)
-- Uso: calcular el coste de la obra tipo según **plantilla propia** (coste empresa). La
-  tarifa de mercado sirve de referencia de valor y de comparación.
+> ⚠️ CotizaT es el **generador comercial** (precios de venta): su propia base marca la
+> hora de oficial a 21 € como *"tarifa facturada, no incluye cargas del empleador"*.
+> **No se usa para calcular costes internos de personal.** El coste real se calcula
+> desde el **convenio de la construcción de A Coruña 2026 + Seguridad Social 2026**
+> (ficha completa: [coste-laboral-real-empleados-2026.md](../../04-finanzas/coste-laboral-real-empleados-2026.md)):
+
+| Perfil | Bruto/mes (14 pagas) | Coste empresa/año | Coste empresa/mes | €/h productiva |
+|---|---|---|---|---|
+| Ayudante de oficio (Niv. X) | 1.557 € | 28.991–29.940 € | 2.416–2.495 € | 16,6–17,1 |
+| Oficial 1ª (Niv. VIII) | 1.632 € | 30.388–31.382 € | 2.532–2.615 € | 17,3–17,9 |
+| **Grupo (1+1)** | — | **59.379–61.321 €** | **4.948–5.110 €** (medio 5.030) | ~34–35 €/h dúo |
+
+- SS empresa 2026 ≈ 30,65 % (CC 23,60 + desempleo 5,50 + FOGASA 0,20 + FP 0,60 + MEI
+  0,75) + AT/EP 2,35 % (CNAE 43) o 6,70 % (CNAE 41/construcción general).
+- Jornada de referencia 1.752 h/año (a confirmar la del convenio). Salarios de convenio
+  muy comprimidos: el ayudante cuesta casi lo mismo por hora que el oficial.
+- **Uso:** calcular el coste de la obra tipo con **plantilla propia**: horas reales de
+  los descompuestos de CotizaT (solo rendimientos) × coste/hora real de esta tabla.
+  La tarifa de mercado de CotizaT (oficial 21 €/h, electricista 24 €/h, etc.) queda solo
+  como referencia de precio de venta si algún día se subcontratase (no es el plan).
+- `[PENDIENTE]`: CNAE/AT-EP con la gestoría, pluses del convenio y jornada → recalibrar
+  con la primera nómina.
 - ⚠️ Rangos nacionales orientativos: **contrastar con la realidad gallega/coruñesa** antes
   de fijar tarifas (2027, con proveedores locales).
 
@@ -73,9 +87,9 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 | Concepto | Estado |
 |---|---|
 | Retribución del socio el año 1 | **≈ 1.600 €/mes netos** (confirmado 2026-09-03; bruto ≈ 1.850–2.000 €/mes según IRPF) |
-| Objetivo de obras/facturación año 1 | `[EN REVISIÓN]` — el ≈ 90–115 k€ se fijó sin grupo fijo; con grupos el equilibrio es ≈ 175–205 k€/año (ver §5.2 v2 y [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md)) |
+| Objetivo de obras/facturación año 1 | `[EN REVISIÓN]` — el ≈ 90–115 k€ se fijó sin grupo fijo; con grupos el equilibrio es ≈ 170–206 k€/año (ver §5.2 v3 y [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md)) |
 | Capacidad de obra | **Grupos de obra**: Grupo 1 (oficial+ayudante) → hasta 4 pequeñas/mes; Grupo 2 dedicado a obra grande (~30.000 €/3 meses) cuando salga. Sin subcontratas (confirmado 2026-09-03) |
-| Punto de equilibrio mensual | Sin grupo: ≈ 0,5 obra pequeña/mes solo gastos fijos (580 €). **Con Grupo 1: ≈ 3,5 obras/mes (estructura ≈ 7.910 €/mes)** — ver [tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md) |
+| Punto de equilibrio mensual | Sin grupo: ≈ 0,5 obra pequeña/mes solo gastos fijos (580 €). **Con Grupo 1: ≈ 3,3 obras/mes (estructura ≈ 7.640 €/mes)** — ver [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md) |
 | IVA / IRPF / Impuesto de Sociedades | Según forma S.L. → con gestoría |
 
 ### 5.1. Gastos fijos mensuales (investigado 2026-09-03, rangos reales)
@@ -94,27 +108,31 @@ Obras tipo restantes a costear con CotizaT (mismo método) y contrastes locales:
 **Retribución del socio (confirmada 2026-09-03): ≈ 1.600 €/mes netos** (bruto estimado
 ≈ 1.850–2.000 €/mes según retención IRPF → cuadrar con gestoría). Coste mensual sin grupo
 de obra: ≈ **2.480 €/mes** (580 fijos + ≈ 1.900 retribución). **Con el Grupo 1 contratado
-(oficial + ayudante, ≈ 5.300 €/mes `[SUPUESTO]`): ≈ 7.910 €/mes** → ver
-[tesorería v2](../../04-finanzas/tesoreria-arranque-2026-2027.md).
+(oficial + ayudante; coste real de convenio A Coruña + SS ≈ 5.030 €/mes, rango
+4.948–5.110): ≈ 7.640 €/mes** → ver [tesorería v3](../../04-finanzas/tesoreria-arranque-2026-2027.md)
+y [coste-laboral-real](../../04-finanzas/coste-laboral-real-empleados-2026.md).
 
-### 5.2. Objetivo de año 1 — `[EN REVISIÓN]` tras la corrección de capacidad (2026-09-03)
+### 5.2. Objetivo de año 1 — `[EN REVISIÓN]` tras las correcciones de capacidad y de costes (2026-09-03)
 
 > ⚠️ El escenario elegido (≈ 90–115 k€) se fijó con la estructura antigua ("1–2 obras/mes
-> sin grupo fijo"). Con el **modelo de grupos confirmado por Rubén**, la estructura
-> mensual sube a ≈ 7.910 €/mes y el equilibrio pasa a **≈ 3,5 obras pequeñas/mes**:
-> planificar 1–2 obras/mes con grupo contratado genera **pérdidas**. El objetivo anual
-> coherente con grupos está en el entorno de **175–205 k€ de venta** (3,5–4 pequeñas/mes
-> con el Grupo 1). Pendiente de revalidar con Rubén junto a la rampa real.
+> sin grupo fijo"). Con el **modelo de grupos confirmado por Rubén** y el **coste laboral
+> real** (convenio A Coruña 2026 + SS), la estructura mensual es ≈ **7.640 €/mes** y el
+> equilibrio pasa a **≈ 3,3 obras pequeñas/mes**: planificar 1–2 obras/mes con grupo
+> contratado genera **pérdidas**. El objetivo anual coherente con grupos está en el
+> entorno de **170–206 k€ de venta** (3,3–4 pequeñas/mes con el Grupo 1). Pendiente de
+> revalidar con Rubén junto a la rampa real.
 
-Margen/contribución con grupos (desglose CotizaT 2026-09-03): obra pequeña media →
-venta ≈ 4.676 €, materiales ≈ 2.383 €, **contribución ≈ 2.293 €/obra** (cubre sueldos del
-grupo + estructura). Obra grande ≈ 30.000 €/3 meses `[PENDIENTE: ¿IVA?]`.
+Margen/contribución con grupos (horas reales de CotizaT × coste de convenio, 2026-09-03):
+obra pequeña media → venta ≈ 4.676 €, materiales ≈ 2.383 €, **contribución ≈ 2.293 €/obra**
+(cubre sueldos del grupo + estructura); margen real sobre coste directo ≈ 38–41 % en
+baño/cocina (lo que Rubén observa en CotizaT: 40–45 %). Obra grande ≈ 30.000 €/3 meses
+`[PENDIENTE: ¿IVA?]`.
 
 | Escenario (Grupo 1 activo) | Ritmo | Venta anual ≈ | Resultado ≈ | Notas |
 |---|---|---|---|---|
-| Insuficiente (pérdidas) | 3 pequeñas/mes | 154 k€ | **− 11 k€/año** | Grupo parado ≥1 semana/mes |
-| Equilibrio | 3,5 pequeñas/mes | ≈ 180 k€ | ≈ 0 | Estructura ≈ 7.910 €/mes cubierta |
-| **Capacidad plena** | 4 pequeñas/mes | ≈ 206 k€ | ≈ +14 k€/año | Grupo lleno; + integral con Grupo 2 = extra |
+| Insuficiente (pérdidas) | 3 pequeñas/mes | 154 k€ | **− 8 k€/año** | Grupo parado ≥1 semana/mes |
+| Equilibrio | ≈ 3,3 pequeñas/mes | ≈ 171 k€ | ≈ 0 | Estructura ≈ 7.640 €/mes cubierta |
+| **Capacidad plena** | 4 pequeñas/mes | ≈ 206 k€ | ≈ +17 k€/año | Grupo lleno; + integral con Grupo 2 = extra |
 | Con obra grande | 3–4/mes + 1 integral (Grupo 2) | 230–260 k€ | mayor | Grupo 2 dedicado; semanas libres del Grupo 1 apoyan |
 
 **Cómo se alcanza (modelo de grupos confirmado):** Grupo 1 contratado con las primeras
@@ -137,16 +155,20 @@ capacidad de ejecución sino la **demanda generada** → de ahí la captación c
 - [x] Capacidad cerrada con Rubén (2026-09-03): **modelo de grupos** — Grupo 1
       (oficial+ayudante) hasta 4 pequeñas/mes; Grupo 2 dedicado a la obra grande
       (~3 meses, ≈30.000 €) cuando salga; sin subcontratas. Objetivo año 1: `[EN
-      REVISIÓN]` (el ≈ 90–115 k€ era sin grupo fijo; equilibrio real ≈ 175–205 k€).
+      REVISIÓN]` (el ≈ 90–115 k€ era sin grupo fijo; equilibrio real ≈ 170–206 k€).
+- [x] Costes laborales reales calculados (2026-09-03): convenio construcción A Coruña
+      2026 + SS 2026 → grupo ≈ 5.030 €/mes (4.948–5.110). CotizaT queda como generador
+      comercial (sus precios/hora son tarifa facturada, no coste interno). Ver
+      [ficha coste-laboral-real](../../04-finanzas/coste-laboral-real-empleados-2026.md).
 - [x] Costes locales investigados (constitución, gestoría, RETA, seguros, centro de
       negocios) → pedir 2-3 presupuestos reales en A Coruña cuando Rubén esté allí.
-- [ ] **Reabrir objetivo año 1 con el modelo de grupos**: validar coste real del grupo
-      (convenio A Coruña) y modalidad de contratación; confirmar si los ≈30.000 € de la
-      obra grande son con IVA y su alcance; fijar rampa y objetivo (≈175–205 k€ con el
-      Grupo 1 a plena carga).
-- [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v2 con modelo
-      de grupos en [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md):
-      estructura ≈ 7.910 €/mes con Grupo 1; equilibrio ≈ 3,5 pequeñas/mes; obra grande
+- [ ] **Reabrir objetivo año 1 con el modelo de grupos**: fijar modalidad de contratación
+      (indefinido vs. obra) y confirmar con la gestoría CNAE/AT-EP, jornada y pluses;
+      confirmar si los ≈30.000 € de la obra grande son con IVA y su alcance; fijar rampa y
+      objetivo (≈170–206 k€ con el Grupo 1 según ritmo).
+- [x] Montar **hoja de tesorería mensual de arranque** (dic-26 → dic-27) → v3 con modelo
+      de grupos + coste laboral real en [tesoreria-arranque-2026-2027.md](../../04-finanzas/tesoreria-arranque-2026-2027.md):
+      estructura ≈ 7.640 €/mes con Grupo 1; equilibrio ≈ 3,3 pequeñas/mes; obra grande
       (Grupo 2) a validar con Rubén.
 - [ ] Completar la integral con partidas excluidas (ventanas, tabiques, calefacción/ACS,
       gestión/proyecto) — Rubén lo validó "por el momento" como está (2026-09-03).

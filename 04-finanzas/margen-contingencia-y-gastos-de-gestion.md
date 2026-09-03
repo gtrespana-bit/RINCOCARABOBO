@@ -118,6 +118,12 @@ Desglose orientativo sobre el precio de venta sin IVA (obra pequeña tipo, punto
 margen bruto reparte entre GG + colchón + beneficio neto (§3.2); los imprevistos de obra
 se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 
+> Coste medio = partidas CotizaT con MO a tarifa comercial. Repreciando la MO a coste
+> real (convenio A Coruña 2026 + SS), el coste directo real baja y el **margen real sobre
+> coste queda en ≈ 38–41 % en baño/cocina** — lo que Rubén observa en sus presupuestos
+> CotizaT (40–45 %) — e ≈ 53–55 % en la integral del piloto. Detalle:
+> [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md).
+
 ## 5. Punto de equilibrio mensual (costes fijos investigados — ver referencia de costes)
 
 | Gasto fijo mensual | Rango investigado | Punto medio usado |
@@ -141,12 +147,14 @@ se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 | Solo gastos fijos (580 €/mes) | ≈ 0,5 obra pequeña/mes, o 1 integral cada ~10 meses |
 | Gastos fijos + retribución neta 1.600 €/mes (total ≈ 2.480 €/mes) | ≈ **2,1 obras pequeñas/mes**, o ≈ 0,43 integrales/mes (1 integral cubre ≈ 2,3 meses) |
 
-> Implicación con la capacidad por grupos (Rubén, 2026-09-03): el **Grupo 1 (oficial +
-> ayudante) se contrata con las primeras obras** y cubre hasta 4 pequeñas/mes; cuando
-> entra la obra grande se añade el Grupo 2. Con el grupo activo la estructura sube a
-> **≈ 7.910 €/mes** → el equilibrio real está en ≈ 3,5 pequeñas/mes (ver
-> [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md)); el objetivo anual
-> de 90–115 k€ queda **en revisión** con este modelo
+> Implicación con la capacidad por grupos y el coste laboral real (Rubén, 2026-09-03):
+> el **Grupo 1 (oficial + ayudante)** se contrata con las primeras obras (coste real por
+> convenio A Coruña + SS 2026 ≈ 5.030 €/mes) y cubre hasta 4 pequeñas/mes; cuando entra
+> la obra grande se añade el Grupo 2. Con el grupo activo la estructura sube a
+> **≈ 7.640 €/mes** → el equilibrio real está en ≈ 3,3 pequeñas/mes (ver
+> [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md) y
+> [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md)); el
+> objetivo anual de 90–115 k€ queda **en revisión** con este modelo
 > (`02-plan-de-negocio/07-plan-financiero.md` §5.2).
 
 ## 6. Decisiones y seguimiento
@@ -154,8 +162,10 @@ se facturan al cliente como modificación (§3.3), nunca salen de aquí.)*
 - [x] Política de contingencias confirmada (Rubén, 2026-09-03) → §3.3.
 - [x] Retribución (≈ 1.600 €/mes netos) y capacidad (modelo de grupos, sin subcontratas)
       → 2026-09-03.
-- [ ] Objetivo año 1: en revisión con el modelo de grupos (≈ 175–205 k€ con el Grupo 1 a
-      plena carga) → reabrir con Rubén.
+- [x] Coste laboral real calculado (convenio A Coruña 2026 + SS 2026; grupo ≈ 5.030 €/mes)
+      → 2026-09-03. CotizaT queda como generador comercial (no fuente de costes internos).
+- [ ] Objetivo año 1: en revisión con el modelo de grupos (≈ 170–206 k€ con el Grupo 1
+      según ritmo) → reabrir con Rubén.
 - [ ] Confirmar el margen del 35 % con la primera obra real y definir % para calidades
       *premium* / riesgo alto (hasta entonces se mantiene el 35 % de los pilotos).
 - [ ] Revisar si en integrales grandes se cobra línea de "gestión de obra" explícita

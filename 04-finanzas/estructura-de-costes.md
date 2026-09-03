@@ -3,6 +3,11 @@
 - **Fecha:** 2026-09-03
 - **Estado:** `[BORRADOR]` — modelo piloto para validar el método de costes.
   Pendiente de validar con proveedores locales de A Coruña y con presupuestos reales.
+- ⚠️ La **mano de obra de las partidas está a tarifa comercial CotizaT** (generador de
+  presupuestos). El **coste real de la MO en nómina** (convenio A Coruña 2026 + SS) y los
+  márgenes reales resultantes están en
+  [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md): baño →
+  MO real ≈ 1.286–1.328 € (75,8 h de grupo), margen real ≈ 39–41 %.
 - **Método:** partidas descompuestas de **CotizaT** (`generador-comercial`, repo propio de
   Rubén) valoradas con los **recursos de España en €** de
   `basedatos_partidas/salida/precios_recursos_espana.csv` (fecha datos: 2026-08-25,

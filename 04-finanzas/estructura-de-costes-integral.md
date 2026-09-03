@@ -4,6 +4,11 @@
 - **Estado:** `[BORRADOR]` — mismo método validado en los pilotos de [baño](estructura-de-costes.md)
   y [cocina](estructura-de-costes-cocina.md). Pendiente de validar con presupuestos reales
   de la zona y de afinar mediciones con visita.
+- ⚠️ La **mano de obra de las partidas está a tarifa comercial CotizaT** (generador de
+  presupuestos). El **coste real de la MO en nómina** (convenio A Coruña 2026 + SS) está
+  en [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md):
+  integral → MO real ≈ 5.506–5.686 € (324,9 h de grupo ≈ 4,1 semanas), margen real
+  ≈ 53–55 % sobre coste directo del piloto.
 - **Método:** partidas de **CotizaT** valoradas con recursos España (€, 2026-08-25) +
   **productos finales** con precios investigados (Obramat sin IVA / Leroy Merlin con IVA,
   consultados 2026-09-03). Nada inventado.
