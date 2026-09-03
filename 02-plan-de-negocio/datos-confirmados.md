@@ -92,6 +92,12 @@
 | Margen real de sus presupuestos CotizaT | **40–45 % de margen sobre coste real** (Rubén, observado en su práctica) | Repreciando MO a convenio: baño/cocina salen en 38–41 %; los materiales a precio de tienda sin IVA (descuento de proveedor lo subiría) |
 | Tesorería v3 | Recalculada: estructura ≈ **7.640 €/mes** con Grupo 1 (grupo 5.030 + 710 otros + 1.900 retribución); equilibrio ≈ **3,3 pequeñas/mes** (≈ 170 k€/año) · plena carga 4/mes ≈ +17 k€/año (≈ 206 k€) | MO real por obra: baño ≈ 1.286–1.328 € (75,8 h) · cocina ≈ 647–668 € (38 h) · integral ≈ 5.506–5.686 € (324,9 h) |
 
+## Aportaciones — 2026-09-03 (10.ª tanda: mes 6 operativo validado)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Mes 6 operativo (julio 2027) | Rubén da por bueno el ejemplo: **4 obras pequeñas → + 1.532 €/mes** (18.704 € ventas s/IVA − 9.532 materiales − 7.640 estructura), ≈ 8 % s/venta antes de impuestos | Queda anotado en [tesorería §4.1](../../04-finanzas/tesoreria-arranque-2026-2027.md). Aclarado: margen de obra 40–45 % (s/coste directo) ≠ beneficio neto mensual ≈ 8 % (tras estructura); caja va por detrás del beneficio (cobros a 30–60 días + garantía 5 %) |
+
 ## Relacionado (decisiones previas)
 
 - Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).

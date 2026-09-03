@@ -81,6 +81,29 @@ pequeñas/mes**. Con grupo contratado, 1 obra/mes pierde ≈ 5.300 €/mes (grup
 *(Antes de impuestos y de recuperar inversión; con retención de garantía, IVA y un mes de
 vacaciones por ajustar en la tabla mensual definitiva.)*
 
+### 4.1. Ejemplo validado por Rubén — mes 6 operativo (julio 2027, 4 obras pequeñas)
+
+Mes 6 = 6.º mes operando (feb–jul 2027, grupo ya a plena carga):
+
+| Concepto | €/mes | Detalle |
+|---|---|---|
+| Ventas 4 obras pequeñas (s/IVA) | 18.704 | 4 × 4.676 € (≈ 22.630 € c/IVA facturados) |
+| − Materiales de las 4 obras | − 9.532 | 4 × 2.383 € (precio de tienda s/IVA) |
+| − Estructura del mes (§4) | − 7.640 | grupo 5.030 + retribución 1.900 + 710 |
+| **= Beneficio real del mes (antes de impuestos)** | **+ 1.532** | ≈ 8 % s/venta |
+| − Impuesto de Sociedades (15–25 % nueva S.L.) | | quedan ≈ 1.150–1.300 € en la empresa |
+
+> **Dos niveles de margen (no confundir):**
+> - **Margen de obra ≈ 40–45 %** (Rubén, CotizaT): margen de cada obra sobre su **coste
+>   directo** (materiales + horas) — antes de estructura.
+> - **Beneficio neto del mes ≈ 8 % s/venta**: después de restar sueldos, retribución de
+>   Rubén, gestoría y marketing. La retribución (1.600 € netos/mes) ya está dentro de los
+>   gastos; el +1.532 € es lo que queda en la empresa.
+> - **Caja ≠ beneficio**: el mes 6 cobra obras de abril–mayo (pagos a 30–60 días y 5 % de
+>   garantía a ~3 meses) → la tesorería va por detrás del beneficio contable.
+> - Sensibilidad del mismo mes: 3 pequeñas → **− 761 €**; 2 pequeñas → **− 3.054 €**.
+>   El grupo parado a medias es lo que hace perder dinero (por eso captación continua).
+
 ## 5. Obra grande con Grupo 2 (≈ 30.000 €, ~3 meses)
 
 | Hipótesis de venta | Venta s/IVA | Coste directo ≈ | Margen directo ≈ | MO real modelada | ≈ Semanas-grupo de MO |
