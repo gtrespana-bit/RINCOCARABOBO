@@ -120,14 +120,20 @@ nuevo en todo, **2 baños**, **cocina**, **puertas incluidas**, etc. Costeado en
 | Trabajo directo | 519 h → **6,5 semanas-grupo** (≈ 32 días-grupo) |
 | Si va a cargo del Grupo 2 (fijo 12 sem ≈ 960 h) | ocupa ≈ 54 % de su jornada teórica |
 
-> ⚠️ **Lectura para el Grupo 2:** la obra real tipo **no consume 12 semanas a jornada
+**Portfolio de obra grande (variantes, según Rubén 2026-09-03):** la típica es la de
+arriba **sin ventanas ni calefacción**; algunas obras añaden **ventanas** (≈ +2.900 €
+c/IVA → ≈ 37.000 €) o **suelo radiante + aerotermia** (≈ +12.000–23.500 € → ≈ 46.000–
+57.600 €), y otras son **chalets/viviendas independientes de 200 m²+** (≈ 65.000–78.000 €
+c/IVA, ≈ 12–15 semanas-grupo → con Grupo 2 dedicado ~3–4 meses). Detalle y fuentes en la
+[§6 de la ficha](estructura-de-costes-reforma-piso-100.md).
+
+> ⚠️ **Lectura para el Grupo 2:** la obra típica (A) **no consume 12 semanas a jornada
 > completa de un grupo**: son ≈ 6,5 semanas de trabajo directo, que con gestión, compras
 > y remates dan 2–3 meses de calendario. Las 12 semanas del Grupo 2 dedicado solo se
-> justifican si la obra real **incluye más alcance** que este modelo (ventanas, tabiques,
-> calefacción/ACS, rodapiés, bajantes, muebles…) o si ese grupo **apoya también otras
-> obras** en los huecos (pequeñas, refuerzos). **Confirmar con Rubén el alcance real** de
-> su obra grande típica antes de fijar el Grupo 2 a jornada completa. Hasta entonces:
-> tratar la grande como "margen extra ≈ 40–42 %" con la MO ya cubierta por el grupo.
+> justifican con las **variantes grandes (D: chalet 200 m²+)**, con varias obras
+> encadenadas, o si ese grupo **apoya también otras obras** en los huecos. Confirmar con
+> Rubén el alcance real de cada obra al ofertar; la grande sirve como "margen extra
+> ≈ 40–42 %" con la MO ya cubierta por el grupo.
 
 ## 6. Implicaciones (a cerrar con Rubén)
 
@@ -144,9 +150,7 @@ nuevo en todo, **2 baños**, **cocina**, **puertas incluidas**, etc. Costeado en
 
 ## 7. Pendiente para cerrar la hoja mensual definitiva
 
-- [ ] Obra grande real: confirmar con Rubén el **alcance** (¿ventanas, tabiques,
-      calefacción/ACS, rodapiés, bajantes, muebles…?) y la venta objetivo del modelo
-      (34.090 € c/IVA ≈ 341 €/m²).
+- [ ] Obra grande real: al ofertar, identificar la **variante (A–D de la [ficha](../../04-finanzas/estructura-de-costes-reforma-piso-100.md))** y costear con medición real; cerrar con Rubén cómo presupuestar suelo radiante/aerotermia (proveedor instalador habilitado).
 - [ ] Modalidad de contratación de los grupos (indefinido vs. obra) y confirmación con
       gestoría de CNAE (AT/EP 2,35 % vs 6,70 %), jornada y pluses del convenio.
 - [ ] Descuentos reales de proveedor de materiales (hoy: precio de tienda sin IVA).

@@ -101,6 +101,15 @@
 | Trabajo directo | 519 h (272 oficial + 247 ayudante) → **6,5 semanas-grupo** (≈ 32 días-grupo) | Un grupo lo hace en ~2 meses; con gestión/remates e intercalando pequeñas, 3 meses de calendario |
 | Grupo 2 a jornada completa | Con 12 semanas ≈ 960 h disponibles, la obra ocuparía ≈ 54 % → el resto son huecos para apoyo/otras obras, o el alcance real incluye más (ventanas, tabiques, calefacción…) | `[PENDIENTE]` confirmar alcance exacto con Rubén |
 
+## Aportaciones — 2026-09-03 (12.ª tanda: variantes de la obra grande)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Obra grande típica | **NO suele incluir** ventanas, tabiques, calefacción ni ACS → la típica es el piso 100 m² del modelo (§5): suelo + 2 baños + cocina + puertas ≈ 34.090 € c/IVA | Confirma el modelo base |
+| Variantes puntuales | **Algunas obras sí incluyen ventanas o suelo radiante** | B) +ventanas ≈ 37.000 € c/IVA · C) +suelo radiante+aerotermia ≈ 46.000–57.600 € (mercado 2026) |
+| Obras mayores | **Algunas remodelaciones son chalets / viviendas independientes de 200 m² o más** | Escalado paramétrico ≈ 65.000–78.000 € c/IVA (325–390 €/m²), ≈ 12–15 semanas-grupo → justifica Grupo 2 a jornada completa en esos casos |
+| Registro | Portfolio de variantes A–D con fuentes en [ficha §6](../../04-finanzas/estructura-de-costes-reforma-piso-100.md) | Cada obra real → identificar variante y costear con visita |
+
 ## Aportaciones — 2026-09-03 (10.ª tanda: mes 6 operativo validado)
 
 | Tema | Dato confirmado | Notas |

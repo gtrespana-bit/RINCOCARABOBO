@@ -116,6 +116,32 @@ c/IVA** (≈ 331–384 €/m²).
   partidas que este modelo aún no cubre (ventanas, tabiques, calefacción/ACS, rodapiés,
   bajantes, muebles de dormitorio…). Confirmar el alcance real con Rubén.
 
+## 6. Variantes de la obra grande (Rubén, 2026-09-03)
+
+La obra grande **típica** es el piso ~100 m² sin extras (§5). Pero "por lo general no
+incluye eso" (ventanas/calefacción); **algunas obras sí** los incluyen y **otras son
+viviendas independientes (chalets) de 200 m² o más**. Cuadro de variantes para
+dimensionar:
+
+| Variante | Descripción | Añadido estimado | Venta total aprox. c/IVA | Tiempo de grupo | Fuente / estado |
+|---|---|---|---|---|---|
+| **A — Piso 100 m² típico** | Suelo nuevo + 2 baños + cocina + puertas (§5) | — | **≈ 34.090 €** (≈ 341 €/m²) | 519 h (≈ 6,5 sem.) | Costeada (CotizaT + tienda) |
+| **B — Piso 100 + ventanas** | Sustituir ~10 m² de ventanas (≈7-8 huecos) PVC doble acristalamiento | ≈ **2.900 € c/IVA** (CotizaT: PVC doble 169,11 €/m² ×1,35) + desmontaje | **≈ 37.000 €** | + 21 h (≈ 1,3 días) | Rango de proveedor PVC real 250–450 €/m² → validar con carpintería local |
+| **C — Piso 100 + suelo radiante** | Suelo radiante hidráulico (~75–100 m²) + aerotermia (calefacción + ACS) | ≈ **12.000–23.500 €** instalado (mercado 2026) | **≈ 46.000–57.600 €** | + 4–7 días (SR) + aerotermia | Mercado España 2026: SR hidráulico 50–85 €/m² (piso 100 ≈ 5.000–8.500 €); aerotermia piso 100 ≈ 7.000–15.000 €. Coste interno/margen a definir con proveedor instalador |
+| **D — Chalet / vivienda independiente 200 m²+** | Casa completa (una/dos plantas): solados grandes, 3–4 baños, cocina office, más puertas | Escalado del modelo A: **≈ 65.000–78.000 € c/IVA** (≈ 325–390 €/m²) | — | ≈ 12–15 sem.-grupo (≈ 3–4 meses con Grupo 2) | Paramétrico `[SUPUESTO]` (escala ×1,9–2,3 sobre A); costear en visita; si añade ventanas/radiante sube |
+
+> - **Uso:** cuando salga una obra grande, primero identificar su variante (A–D y sus
+>   combinaciones) y luego formar el presupuesto con medición real; el cuadro sirve para
+>   dimensionar precio, tiempo de grupo y si hace falta Grupo 2.
+> - Suelo radiante y aerotermia son instalaciones **especializadas con requisitos
+>   técnicos/legales** (instalador autorizado): aunque la política general es no
+>   subcontratar, en estas partidas lo normal es presupuestarlas con **proveedor
+>   instalador habilitado** (se pacta con Rubén cuando salga la primera).
+> - Fuentes del cuadro: CotizaT (partida 07.03.01.110, PVC doble, 169,11 €/m²) y mercado
+>   2026 investigado (wollyhome, cronoshare, hogarconfort, aurosolar, selectra,
+>   natural-home, renoclima — suelo radiante 50–85 €/m²; aerotermia piso 100
+>   7.000–15.000 €; unifamiliar 200 m² ≈ 17.000–25.000 €).
+
 ## 7. Contraste con el mercado y advertencias honestas
 
 - Mercado A Coruña 2026 (Cronoshare): reforma integral 400–1.000 €/m² (económica
