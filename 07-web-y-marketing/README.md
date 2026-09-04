@@ -17,7 +17,10 @@ contenido de la futura página web, textos, imágenes y campañas de captación 
 
 ## Notas sobre la futura web
 
-- Cuando se desarrolle, el **código** puede vivir en este repositorio (p. ej. en `web/`)
-  o en un repositorio aparte. ⚠️ Este repo contiene información interna (finanzas, legal):
-  lo público debe separarse bien de lo privado (recomendado: repo aparte para la web).
-- Antes de crear la web: definir dominio, estructura de páginas y textos (ver `textos/`).
+- **Decisión (2026-09-04):** el **código de la web va en un repo aparte** (`remodelat-coruna-web`),
+  desplegado en Vercel solo desde ese repo. Este repo de negocio **nunca se conecta a Vercel**
+  (contiene información interna y, en el futuro, datos personales de clientes/empleados).
+- El contenido/estrategia (el «qué decir») vive aquí en `textos/`; el traspaso está en
+  [`textos/brief-web.md`](textos/brief-web.md).
+- Antes de crear la web: definir dominio, identidad visual (decisión A4) y completar los
+  `[PENDIENTE]` de los textos.

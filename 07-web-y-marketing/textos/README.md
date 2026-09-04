@@ -2,21 +2,26 @@
 
 **Propósito:** borradores del contenido de la futura web y de materiales comerciales.
 
-## Textos previstos (borradores en Markdown)
+## Textos redactados (2026-09-04)
 
-| Documento | Contenido |
-|---|---|
-| `web-inicio.md` | Portada: propuesta de valor en 2–3 frases |
-| `web-servicios.md` | Reformas integrales, cocinas, baños…: qué incluye cada servicio |
-| `web-sobre-nosotros.md` | Presentación de la empresa y de Rubén (experiencia del fundador) |
-| `web-proceso-de-trabajo.md` | Cómo trabajamos: visita, presupuesto, obra, limpieza y garantía |
-| `web-contacto.md` | Formulario, teléfono, zona de trabajo |
-| `anuncios-y-posts.md` | Ideas para Google Ads, redes sociales y anuncios locales |
+| Documento | Contenido | Estado |
+|---|---|---|
+| `brief-web.md` | Traspaso al repo de código: sitemap, decidido/pendiente, recomendación técnica | ✅ borrador |
+| `web-inicio.md` | Portada: propuesta de valor, posicionamiento, credibilidad | ✅ borrador |
+| `web-servicios.md` | Servicios + precios orientativos (mercado 2026) + «qué no hacemos» | ✅ borrador |
+| `web-sobre-nosotros.md` | Empresa + fundador (con `[PENDIENTE]` a completar) | ✅ borrador |
+| `web-proceso-de-trabajo.md` | Método en 10 etapas + garantía + forma de pago | ✅ borrador |
+| `web-contacto.md` | Formulario + datos de contacto + legales | ✅ borrador |
+| `web-seo.md` | Palabras clave locales + acciones SEO + métricas | ✅ borrador |
+
+## Textos aún por crear
+
+- `anuncios-y-posts.md` — Ideas para Google Ads, redes sociales y anuncios locales.
+- Preguntas frecuentes (cuando haya preguntas reales de clientes).
 
 ## Notas
 
-- Escribir pensando en el **cliente de A Coruña**: lenguaje claro, sin tecnicismos,
-  precios orientativos cuando sea posible.
-- Recopilar aquí también las **preguntas frecuentes** reales que hagan los clientes.
-- El contenido final se revisará y adaptará cuando se desarrolle la web
-  (ver [README de Web y marketing](../README.md)).
+- Todo el contenido es coherente con el plan de negocio (cifras de mercado 2026, decisiones
+  D-0001…D-0004) — **nada inventado**; lo pendiente está marcado como `[PENDIENTE]`.
+- El **código de la web** vivirá en un repo aparte (`remodelat-coruna-web`). Este repo guarda
+  solo el contenido/estrategia. Ver [`brief-web.md`](brief-web.md) para el traspaso.
