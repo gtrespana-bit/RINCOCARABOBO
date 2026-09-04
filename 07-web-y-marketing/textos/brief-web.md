@@ -42,7 +42,8 @@ Objetivo principal: **generar contactos/presupuestos** (no solo escaparate).
 
 ## 5. Recomendación técnica
 
-- **Astro** (estático): rendimiento y SEO excelentes, mantenible. Alternativa: HTML/CSS puro.
+- **Astro** — y **reutilizar la arquitectura de `reformat-venezuela`** (repo público).
+  Plan detallado de qué copiar y qué cambiar: [`adaptacion-reformat-venezuela.md`](../adaptacion-reformat-venezuela.md).
 - Despliegue: **Vercel** (raíz del repo de la web; NUNCA conectar este repo de negocio).
 - SEO: schema `LocalBusiness`, meta únicos, Google Business (ver `web-seo.md`).
 

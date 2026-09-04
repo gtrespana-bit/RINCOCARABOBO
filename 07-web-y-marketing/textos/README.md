@@ -19,6 +19,11 @@
 - `anuncios-y-posts.md` — Ideas para Google Ads, redes sociales y anuncios locales.
 - Preguntas frecuentes (cuando haya preguntas reales de clientes).
 
+## Relacionado
+
+- [`../adaptacion-reformat-venezuela.md`](../adaptacion-reformat-venezuela.md) — Plan de
+  adaptación del sitio `reformat-venezuela` (reutilizar arquitectura Astro, cambiar datos y diseño).
+
 ## Notas
 
 - Todo el contenido es coherente con el plan de negocio (cifras de mercado 2026, decisiones
