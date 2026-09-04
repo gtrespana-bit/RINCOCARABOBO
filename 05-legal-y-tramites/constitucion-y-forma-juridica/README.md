@@ -14,5 +14,5 @@
 - [ ] Elegir forma jurídica (propuesta: valorar S.L. por responsabilidad y profesionalidad
       frente al autónomo; decisión con gestoría y datos de [`04-finanzas`](../../04-finanzas/README.md)).
 - [ ] Buscar y contratar gestoría en A Coruña (3 presupuestos mínimo).
-- [ ] Confirmar nombre comercial de la empresa (ver [D-0001](../decisiones/0001-nombre-de-la-empresa.md))
+- [ ] Confirmar nombre comercial de la empresa (ver [D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md))
       y su disponibilidad.

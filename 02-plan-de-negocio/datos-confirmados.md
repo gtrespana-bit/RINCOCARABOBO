@@ -52,7 +52,7 @@
 | Tema | Dato confirmado | Notas |
 |---|---|---|
 | Validación del modelo de costes | **Punto 1 (escenarios con presupuestos reales): validado "por el momento"** | Rubén da por buenos los rangos baño/cocina/integral contra mercado 2026; validación definitiva con presupuestos reales cuando opere |
-| Trabajo en curso | **Ir a punto 2 (política de contingencia/gastos de gestión) y punto 3 (costes locales)** | Hecho: [política de margen/contingencia](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md) + [costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md) |
+| Trabajo en curso | **Ir a punto 2 (política de contingencia/gastos de gestión) y punto 3 (costes locales)** | Hecho: [política de margen/contingencia](../04-finanzas/margen-contingencia-y-gastos-de-gestion.md) + [costes locales](referencias/2026-09-03_costes-locales-gestion-espana.md) |
 
 ## Aportaciones — 2026-09-03 (6.ª tanda: cierre de retribución, objetivo, capacidad y contingencias)
 
@@ -62,7 +62,7 @@
 | Objetivo año 1 | **Escenario Recomendado: facturación ≈ 90–115 k€** (1,5–2 obras pequeñas/mes de media, feb–dic 2027) | Con rampa de arranque: los primeros meses costará acercarse; el objetivo es anual |
 | Capacidad de obra | **Arranque: 1 obra/mes** (justifica contratar a los 2 empleados). **Avanzando: 2–3 obras en paralelo**, p. ej. 1 integral (~3 meses) + obras pequeñas (baño/cocina) | Rubén estará en **captación continua** y **no rechazará obras** que salgan |
 | Subcontratación | **NO subcontratar**: si se necesita y se justifica, **ampliar plantilla propia** | Sustituye al modelo "plantilla + subcontratas" de los borradores 00/01/06 |
-| Política de contingencias | **Precios cerrados** para el alcance pactado. Imprevistos ocultos (p. ej. fugas/humedades al demoler) o cambios del propietario → **se documentan y presupuestan como modificación; el cliente decide**. La empresa **no asume gastos que correspondan al cliente** | Ajusta la propuesta de reserva interna de la política ([04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)): sin absorción por la empresa |
+| Política de contingencias | **Precios cerrados** para el alcance pactado. Imprevistos ocultos (p. ej. fugas/humedades al demoler) o cambios del propietario → **se documentan y presupuestan como modificación; el cliente decide**. La empresa **no asume gastos que correspondan al cliente** | Ajusta la propuesta de reserva interna de la política ([04-finanzas/margen-contingencia-y-gastos-de-gestion.md](../04-finanzas/margen-contingencia-y-gastos-de-gestion.md)): sin absorción por la empresa |
 
 ## Aportaciones — 2026-09-03 (7.ª tanda: alcance de servicios, tesorería y costes locales)
 
@@ -70,7 +70,7 @@
 |---|---|---|
 | Alcance del catálogo | **Todo tipo de trabajos** de reforma, pero **NO empresa de mantenimiento** ni micro-arreglos (p. ej. cambiar 1 enchufe o 1 lámpara) | Anotado en `02-servicios.md` ("Qué NO hacemos") |
 | Costes locales (punto 2) | **Dado por confirmado "por el momento"** (rangos investigados 2026-09-03) | Presupuestos reales (gestoría/seguros/centro) cuando Rubén esté en A Coruña |
-| Tesorería de arranque (punto 1) | Encargada y hecha: [hoja mensual dic-26 → dic-27](../../04-finanzas/tesoreria-arranque-2026-2027.md) | Plan base 20 obras → saldo ≈ +966 €; objetivo exige 21–23 obras o margen real mayor |
+| Tesorería de arranque (punto 1) | Encargada y hecha: [hoja mensual dic-26 → dic-27](../04-finanzas/tesoreria-arranque-2026-2027.md) | Plan base 20 obras → saldo ≈ +966 €; objetivo exige 21–23 obras o margen real mayor |
 
 ## Aportaciones — 2026-09-03 (8.ª tanda: corrección del modelo de capacidad)
 
@@ -87,7 +87,7 @@
 
 | Tema | Dato confirmado | Notas |
 |---|---|---|
-| Coste de los trabajadores | **No se calcula con las tarifas/hora de CotizaT**: CotizaT es el generador comercial (precios de venta); su propia base marca la hora de oficial a 21 € como *"tarifa facturada, no incluye cargas del empleador"* | Corrige la tesorería v2 (estimaba 18,5/14,5 €/h). Cálculo real: **convenio construcción A Coruña 2026 + SS patronal 2026** → [ficha](../../04-finanzas/coste-laboral-real-empleados-2026.md) |
+| Coste de los trabajadores | **No se calcula con las tarifas/hora de CotizaT**: CotizaT es el generador comercial (precios de venta); su propia base marca la hora de oficial a 21 € como *"tarifa facturada, no incluye cargas del empleador"* | Corrige la tesorería v2 (estimaba 18,5/14,5 €/h). Cálculo real: **convenio construcción A Coruña 2026 + SS patronal 2026** → [ficha](../04-finanzas/coste-laboral-real-empleados-2026.md) |
 | Coste real de empleados (A Coruña, 2026) | Ayudante (Niv. X): bruto 1.557 €/mes ×14 → coste empresa 2.416–2.495 €/mes · Oficial 1ª (Niv. VIII): 1.632 €/mes ×14 → 2.532–2.615 €/mes · **Grupo (1+1) ≈ 5.030 €/mes** (4.948–5.110) | SS 2026 ≈ 30,65 % + AT/EP 2,35 % (CNAE 43) o 6,70 % (CNAE 41). CotizaT sigue usándose para **horas** (rendimientos) y precios de venta |
 | Margen real de sus presupuestos CotizaT | **40–45 % de margen sobre coste real** (Rubén, observado en su práctica) | Repreciando MO a convenio: baño/cocina salen en 38–41 %; los materiales a precio de tienda sin IVA (descuento de proveedor lo subiría) |
 | Tesorería v3 | Recalculada: estructura ≈ **7.640 €/mes** con Grupo 1 (grupo 5.030 + 710 otros + 1.900 retribución); equilibrio ≈ **3,3 pequeñas/mes** (≈ 170 k€/año) · plena carga 4/mes ≈ +17 k€/año (≈ 206 k€) | MO real por obra: baño ≈ 1.286–1.328 € (75,8 h) · cocina ≈ 647–668 € (38 h) · integral ≈ 5.506–5.686 € (324,9 h) |
@@ -96,7 +96,7 @@
 
 | Tema | Dato confirmado | Notas |
 |---|---|---|
-| Obra grande real (Rubén) | No es "30.000 € genérico": es un **piso ~100 m²** — *cambiar suelo de cerámica en todo, 2 baños, una cocina, incluyendo puertas, etc.* | Costeada: [ficha piso 100 m²](../../04-finanzas/estructura-de-costes-reforma-piso-100.md) |
+| Obra grande real (Rubén) | No es "30.000 € genérico": es un **piso ~100 m²** — *cambiar suelo de cerámica en todo, 2 baños, una cocina, incluyendo puertas, etc.* | Costeada: [ficha piso 100 m²](../04-finanzas/estructura-de-costes-reforma-piso-100.md) |
 | Coste/venta del escenario | Coste directo real ≈ 19.826–20.114 € (MO convenio 8.804–9.092 + materiales ≈ 11.022) → **venta ≈ 34.090 € c/IVA** (≈ 341 €/m²; rango 33.100–38.400) | Margen real ≈ **40–42 %** (de nuevo en la banda de Rubén 40–45 %) |
 | Trabajo directo | 519 h (272 oficial + 247 ayudante) → **6,5 semanas-grupo** (≈ 32 días-grupo) | Un grupo lo hace en ~2 meses; con gestión/remates e intercalando pequeñas, 3 meses de calendario |
 | Grupo 2 a jornada completa | Con 12 semanas ≈ 960 h disponibles, la obra ocuparía ≈ 54 % → el resto son huecos para apoyo/otras obras, o el alcance real incluye más (ventanas, tabiques, calefacción…) | `[PENDIENTE]` confirmar alcance exacto con Rubén |
@@ -108,7 +108,7 @@
 | Obra grande típica | **NO suele incluir** ventanas, tabiques, calefacción ni ACS → la típica es el piso 100 m² del modelo (§5): suelo + 2 baños + cocina + puertas ≈ 34.090 € c/IVA | Confirma el modelo base |
 | Variantes puntuales | **Algunas obras sí incluyen ventanas o suelo radiante** | B) +ventanas ≈ 37.000 € c/IVA · C) +suelo radiante+aerotermia ≈ 46.000–57.600 € (mercado 2026) |
 | Obras mayores | **Algunas remodelaciones son chalets / viviendas independientes de 200 m² o más** | Escalado paramétrico ≈ 65.000–78.000 € c/IVA (325–390 €/m²), ≈ 12–15 semanas-grupo → justifica Grupo 2 a jornada completa en esos casos |
-| Registro | Portfolio de variantes A–D con fuentes en [ficha §6](../../04-finanzas/estructura-de-costes-reforma-piso-100.md) | Cada obra real → identificar variante y costear con visita |
+| Registro | Portfolio de variantes A–D con fuentes en [ficha §6](../04-finanzas/estructura-de-costes-reforma-piso-100.md) | Cada obra real → identificar variante y costear con visita |
 
 ## Aportaciones — 2026-09-03 (10.ª tanda: mes 6 operativo validado)
 
@@ -122,7 +122,7 @@
 |---|---|---|
 | Esquema de cobro de las obras | **50 % entrada + 20 % + 20 % + 10 % final** (por hitos) | Aplicado en la tabla mensual; en obra grande el 50 % ≈ 14.000 € al firmar alivia la caja |
 | Rampa realista (abr–jun 2027) | **2–3 obras pequeñas/mes** en el arranque | Arranque feb–mar más lento (1–2); plena carga 4/mes después |
-| Tabla mensual de escenarios | Montada en [tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md): A) moderada sin grande: caja mín −6.332 € (ago), saldo −204 · B) moderada + piso 100 en may: mín −4.274 €, saldo +1.854 · C) fuerte 4/mes desde may: mín +1.298 €, saldo +8.968 · D) fuerte + grande en sep: saldo +11.026 € | Venta anual: A 149,6 k€ · B 177,8 k€ · C 168,3 k€ · D 196,5 k€ (s/IVA) |
+| Tabla mensual de escenarios | Montada en [tesorería §7](../04-finanzas/tesoreria-arranque-2026-2027.md): A) moderada sin grande: caja mín −6.332 € (ago), saldo −204 · B) moderada + piso 100 en may: mín −4.274 €, saldo +1.854 · C) fuerte 4/mes desde may: mín +1.298 €, saldo +8.968 · D) fuerte + grande en sep: saldo +11.026 € | Venta anual: A 149,6 k€ · B 177,8 k€ · C 168,3 k€ · D 196,5 k€ (s/IVA) |
 | Colchón necesario | **Con rampa moderada, 20.000 € NO alcanzan** (fondo en agosto): faltan ≈ 4,3–6,3 k€ → ampliar aportación a ≈ 26 k€, financiar el vehículo, o ritmo fuerte | Con ritmo fuerte (36 obras/año) los 20 k€ alcanzan y el año cierra en positivo |
 | Objetivo coherente | ≈ **36 pequeñas-equivalentes + 1–2 obras grandes ≈ 190–200 k€ s/IVA** (≈ 230–240 c/IVA) | Registro histórico: los escenarios A–D y este objetivo quedan **obsoletos** tras la 14.ª (puertas de contratación) y la 16.ª (recalibración de precios) → caso tipo ≈ 299 k€ s/IVA (PENDIENTE de validar) |
 
@@ -150,7 +150,7 @@
 | Tema | Dato confirmado | Notas |
 |---|---|---|
 | Corrección de precios (Rubén) | Los presupuestos modelo usan **precios 20–30 % por debajo del mercado 2026**: *"colocar un suelo cerámico es 24 €/m² como barato; demoler un suelo es 15,50 €/m² como barato"* | CotizaT vale como base de **mediciones**, pero aplicando su margen tipo se queda corto → **no volver a presupuestar con los PVP antiguos** |
-| Investigación de mercado 2026 | Hecha por partida y por obra completa → [calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md): suelo colocado **26–32 €/m²** · demolición **16–22 €/m²** · alicatado **28–35 €/m²** · baño **5.800–6.400 € s/IVA** · cocina **5.000–6.000 € s/IVA** · piso 100 **36.000–39.000 € s/IVA** · integral 80 **29.000–32.000 € s/IVA** | Fuentes 2026: presunow, preciom2, habitissimo, cronoshare, ponersuelosmadrid, CYPE/generadordeprecios, lebenproyectos, reformas10, reformatucasa, obrazo, reformatch, wollyhome, cociexpres |
+| Investigación de mercado 2026 | Hecha por partida y por obra completa → [calibracion-tarifas-mercado-2026.md](../04-finanzas/calibracion-tarifas-mercado-2026.md): suelo colocado **26–32 €/m²** · demolición **16–22 €/m²** · alicatado **28–35 €/m²** · baño **5.800–6.400 € s/IVA** · cocina **5.000–6.000 € s/IVA** · piso 100 **36.000–39.000 € s/IVA** · integral 80 **29.000–32.000 € s/IVA** | Fuentes 2026: presunow, preciom2, habitissimo, cronoshare, ponersuelosmadrid, CYPE/generadordeprecios, lebenproyectos, reformas10, reformatucasa, obrazo, reformatch, wollyhome, cociexpres |
 | Nueva unidad económica (PVP de mercado) | Pequeña media ≈ **5.900 € s/IVA** → contribución ≈ **3.500 €/obra** · piso 100 ≈ **37.500 € s/IVA** → bruto ≈ **26.478 €/obra** · **caso tipo 38 peq + 2 grandes ≈ 299.200 € s/IVA → ≈ + 77.400 € antes de impuestos**, caja mínima ≈ 7.000 €, final ≈ 83.500 € | Bandas **confirmadas por Rubén** (17.ª tanda). Pendiente solo: IVA (10 % vivienda habitual vs 21 %) con la gestoría. El margen alto es legítimo: MO propia a convenio frente a la tarifa de mercado que paga el cliente |
 | Estado del modelo | Tesorería en **v4** con PVP de mercado (caso tipo mes a mes en §7, sensibilidad en §8); fichas de obra y plan financiero **recalibrados** | Sustituyen al caso tipo 234 k€ (15.ª tanda) en todo el repo salvo en este registro histórico |
 
@@ -162,8 +162,22 @@
 | Presupuestos tipo a cliente | **No se generan**: cada oferta real se emite con CotizaT (mediciones) + las bandas de mercado | Las fichas de obra del repo quedan como **base interna de coste/medición** (para dimensionar, no para imprimir al cliente) |
 | Pendientes | IVA 10 % vs 21 % con la gestoría · presupuestos reales de gremios en A Coruña · modalidad/CNAE de los grupos | Se marcan en cada documento |
 
+## Aportaciones — 2026-09-03 (18.ª tanda: presupuesto y gestión de la captación)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Presupuesto de captación | **500–800 €/mes** (punto medio de modelización: **650 €/mes**) | Google Ads (Search) + orgánico (perfil Google, SEO, referencias). Fase arranque ~400–600 €/mes; estable ~400–800 €/mes |
+| Gestión | **Autogestionada por Rubén** (sin agencia) | Visitas, presupuestos y seguimiento de presupuestos "en silencio" los hace Rubén |
+| Decisión registrada | [D-0003](../01-empresa/decisiones/0003-presupuesto-captacion.md) | Impacto en tesorería: estructura con G1 7.640 → **8.140 €/mes**; caso tipo ≈ +77.400 → **≈ +71.900 €**; caja mín ≈ 7.000 → **≈ 6.500 €** |
+
+## Aportaciones — 2026-09-03 (19.ª tanda: sin comunidades de propietarios)
+
+| Tema | Dato confirmado | Notas |
+|---|---|---|
+| Comunidades de propietarios | **NO se persiguen activamente** | Foco: cliente particular. Si entra puntualmente, caso a caso, sin esfuerzo comercial. [D-0004](../01-empresa/decisiones/0004-no-comunidades-de-propietarios.md) |
+
 ## Relacionado (decisiones previas)
 
-- Marca de trabajo: RemodelaT Coruña ([D-0001](../../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).
-- Foco: reformas de viviendas ([D-0002](../../01-empresa/decisiones/0002-alcance-inicial.md)).
-- Fichas de obra real recuperadas: [históricos de España](../../06-obras-y-proyectos/historicos-espana/README.md).
+- Marca de trabajo: RemodelaT Coruña ([D-0001](../01-empresa/decisiones/0001-nombre-de-la-empresa.md)).
+- Foco: reformas de viviendas ([D-0002](../01-empresa/decisiones/0002-alcance-inicial.md)).
+- Fichas de obra real recuperadas: [históricos de España](../06-obras-y-proyectos/historicos-espana/README.md).

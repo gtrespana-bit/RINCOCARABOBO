@@ -2,7 +2,7 @@
 
 > Estado: `[BORRADOR]` (2026-09-03). Recalibración de precios a mercado 2026 (los PVP
 > modelo estaban 20–30 % bajos) **validada por Rubén el 2026-09-03** — tarifario en
-> [04-finanzas/calibracion-tarifas-mercado-2026.md](../../04-finanzas/calibracion-tarifas-mercado-2026.md).
+> [04-finanzas/calibracion-tarifas-mercado-2026.md](../04-finanzas/calibracion-tarifas-mercado-2026.md).
 > Política: ningún dato inventado; lo no confirmado aparece como `[PENDIENTE]`.
 
 ## Qué es el proyecto
@@ -25,8 +25,8 @@ Reformas de viviendas con **método técnico y acabados de calidad**:
 ## Para quién (mercado)
 
 Zona de trabajo: **A Coruña ciudad + área metropolitana** (Arteixo, Oleiros, Culleredo,
-Cambre…). Cliente tipo mixto: compradores que reforman, propietarios de vivienda habitual
-y comunidades.
+Cambre…). Cliente tipo mixto: compradores que reforman y propietarios de vivienda
+habitual. Comunidades de propietarios: **no se persiguen** (D-0004).
 Contexto de mercado (2026, fuentes públicas): vivienda en máximos históricos
 (3.157–3.205 €/m², +14 % anual) y parque de viviendas muy envejecido en Galicia
 (2.ª autonomía con más viviendas centenarias) → demanda estructural de reforma y
@@ -50,10 +50,10 @@ referencias. Material base ya existente (web/marketing del proyecto RemodelaT).
   suelo, 2 baños, cocina, puertas → PVP recalibrado ≈ 37.500 € s/IVA ≈ 41.000 € c/IVA
   al 10 %)** se contrata un 2.º grupo dedicado y el Grupo 1 apoya las semanas libres.
   Captación continua, sin rechazar obras. Coste del grupo por convenio A Coruña + SS 2026
-  ≈ **5.030 €/mes** (ver [ficha](../../04-finanzas/coste-laboral-real-empleados-2026.md)).
+  ≈ **5.030 €/mes** (ver [ficha](../04-finanzas/coste-laboral-real-empleados-2026.md)).
   Objetivo de facturación (precios de mercado 2026, recalibrados): caso tipo año 1 — 38
-  pequeñas + 2 pisos 100 en cadena — **≈ 299 k€ s/IVA, resultado ≈ + 77.000 € antes de
-  impuestos**, caja siempre positiva ([tesorería §7](../../04-finanzas/tesoreria-arranque-2026-2027.md)).
+  pequeñas + 2 pisos 100 en cadena — **≈ 299 k€ s/IVA, resultado ≈ + 72.000 € antes de
+  impuestos**, caja siempre positiva ([tesorería §7](../04-finanzas/tesoreria-arranque-2026-2027.md)).
 - Base operativa: **centro de negocios** en A Coruña (oficina a demanda).
 - Vehículo: SUV grande + remolque (visitas y transporte de materiales).
 (Detalle en [`06-operaciones.md`](06-operaciones.md).)
@@ -77,16 +77,19 @@ Contrastes locales pendientes en A Coruña.
 
 - [x] Recalibración de precios **validada por Rubén (2026-09-03)**: bandas 2026 (baño
       5.800–6.400 s/IVA, cocina 5.000–6.000, piso 100 36.000–39.000 € s/IVA, suelo
-      26–32 €/m²) en la [calibración](../../04-finanzas/calibracion-tarifas-mercado-2026.md).
-- [ ] Confirmar el tipo de IVA (10 % vs 21 %) con la gestoría.
+      26–32 €/m²) en la [calibración](../04-finanzas/calibracion-tarifas-mercado-2026.md).
+- [x] Tipo de IVA documentado (2026-09-03): **10 % en reformas de vivienda** si se cumplen los
+      3 requisitos del art. 91.Uno.2.10º LIVA (uso particular, > 2 años, materiales ≤ 40 %);
+      21 % en el resto. Ficha en [fiscal](../05-legal-y-tramites/fiscal/iva-reformas-10-vs-21.md).
+      Pendiente solo la **validación final con la gestoría**.
 - [x] Retribución del socio año 1: **≈ 1.600 €/mes netos** (2026-09-03).
-- [ ] Objetivo año 1: con grupos por cartera y PVP de mercado (validados por Rubén
+- [x] Objetivo año 1: con grupos por cartera y PVP de mercado (validados por Rubén
       2026-09-03), caso tipo ≈ **299 k€ s/IVA** (38 peq + 2 grandes en cadena,
-      ≈ +77.000 € antes de impuestos).
+      ≈ +72.000 € antes de impuestos; marketing 650 €/mes incluido, D-0003).
 - [x] Capacidad: grupos de obra (4 pequeñas/mes por grupo; Grupo 2 para obra grande);
       sin subcontratas (2026-09-03).
 - [x] Coste laboral: calculado por convenio construcción A Coruña 2026 + SS 2026 (grupo
       ≈ 5.030 €/mes), no con tarifas/hora de CotizaT (2026-09-03).
 - [ ] Validar denominación "RemodelaT Coruña S.L." con gestoría.
-- [ ] Cuantificar constitución, seguros, gestoría y marketing de arranque (rangos
-      investigados 2026-09-03; presupuestos reales pendientes).
+- [x] Marketing de arranque decidido (D-0003): **500–800 €/mes autogestionado**
+      (2026-09-03). Pendiente: presupuestos reales de constitución, seguros y gestoría.

@@ -28,7 +28,8 @@ enlaces). Son referencias de mercado; las tarifas propias saldrán de CotizaT + 
 
 - Zona: **A Coruña ciudad + área metropolitana** (Arteixo, Oleiros, Culleredo, Cambre…),
   donde se concentra también la vivienda unifamiliar (competidores ya cubren esa zona).
-- Cliente tipo mixto (compradores que reforman / vivienda habitual / comunidades).
+- Cliente tipo mixto (compradores que reforman / vivienda habitual). Comunidades: no se
+  persiguen (D-0004).
 
 ## 3. Implicaciones para RemodelaT Coruña
 

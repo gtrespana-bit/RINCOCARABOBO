@@ -56,6 +56,8 @@ y, con el tiempo, servirá también como base para la **página web de la empres
 - **Foco de servicios:** reformas integrales de viviendas (cocinas, baños, rehabilitación de pisos y casas). → [D-0002](01-empresa/decisiones/0002-alcance-inicial.md)
 - **Idioma:** español.
 - **Punto de partida:** empresa 100 % nueva (la experiencia previa de Rubén en Las Palmas, Madrid y Venezuela es bagaje personal, no se arrastra ninguna empresa anterior).
+- **Captación:** presupuesto 500–800 €/mes autogestionado (Google Ads + orgánico). → [D-0003](01-empresa/decisiones/0003-presupuesto-captacion.md)
+- **Comunidades de propietarios:** no se persiguen; foco en cliente particular. → [D-0004](01-empresa/decisiones/0004-no-comunidades-de-propietarios.md)
 
 ## Privacidad
 

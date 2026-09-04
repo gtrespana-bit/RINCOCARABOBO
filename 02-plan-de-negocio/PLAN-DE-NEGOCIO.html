@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plan de Negocio — RemodelaT Coruña S.L.</title>
+<style>
+  :root{
+    --ink:#14222e;        /* azul carbón */
+    --ink-soft:#33424f;
+    --accent:#c8a24b;     /* dorado */
+    --accent-dark:#a5823a;
+    --muted:#6b7683;
+    --line:#e4e0d6;
+    --paper:#ffffff;
+    --paper-soft:#f7f5f0;
+    --good:#2f7d4f;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink);
+    font-size:10.5pt;
+    line-height:1.6;
+    background:#e9e7e0;
+    -webkit-print-color-adjust:exact;
+    print-color-adjust:exact;
+  }
+  .page{
+    background:var(--paper);
+    width:210mm;
+    min-height:297mm;
+    margin:0 auto;
+    padding:22mm 20mm 20mm 20mm;
+    position:relative;
+    page-break-after:always;
+    box-shadow:0 2px 14px rgba(0,0,0,.08);
+  }
+  .page:last-child{page-break-after:auto;}
+
+  /* ---------- tipografía ---------- */
+  h1,h2,h3,h4{font-family:Georgia,"Times New Roman",serif;color:var(--ink);font-weight:600;line-height:1.2;margin:0;}
+  h2{font-size:20pt;margin-bottom:4mm;letter-spacing:-.2px;}
+  h3{font-size:13pt;margin:6mm 0 2.5mm;color:var(--ink);}
+  h4{font-size:11pt;margin:4mm 0 1.5mm;color:var(--accent-dark);font-family:-apple-system,"Segoe UI",sans-serif;text-transform:uppercase;letter-spacing:.08em;}
+  p{margin:0 0 3mm;color:var(--ink-soft);}
+  .lead{font-size:12pt;color:var(--ink);}
+  .muted{color:var(--muted);}
+  small{color:var(--muted);font-size:8.5pt;}
+  strong{color:var(--ink);}
+  a{color:var(--accent-dark);text-decoration:none;}
+
+  .section-number{
+    font-family:Georgia,serif;
+    color:var(--accent);
+    font-size:11pt;
+    letter-spacing:.18em;
+    text-transform:uppercase;
+    margin-bottom:1mm;
+  }
+  .rule{height:2px;background:linear-gradient(90deg,var(--accent),transparent);width:52mm;margin:2mm 0 6mm;}
+  .rule.centered{margin-left:auto;margin-right:auto;background:linear-gradient(90deg,transparent,var(--accent),transparent);}
+
+  /* ---------- portada ---------- */
+  .cover{display:flex;flex-direction:column;justify-content:space-between;}
+  .cover-top{text-align:right;color:var(--muted);font-size:9pt;letter-spacing:.06em;text-transform:uppercase;}
+  .cover-mark{
+    width:34mm;height:34mm;border-radius:50%;
+    border:2px solid var(--accent);
+    display:flex;align-items:center;justify-content:center;
+    margin:0 auto 12mm;
+    font-family:Georgia,serif;color:var(--accent-dark);
+    font-size:12pt;letter-spacing:.05em;font-weight:700;
+  }
+  .cover h1{font-size:40pt;text-align:center;letter-spacing:-.5px;margin-bottom:5mm;}
+  .cover .subtitle{text-align:center;color:var(--muted);font-size:13pt;margin-bottom:14mm;}
+  .cover .tagline{
+    text-align:center;font-family:Georgia,serif;font-style:italic;color:var(--accent-dark);
+    font-size:13pt;margin-top:8mm;
+  }
+  .cover-meta{
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    padding:5mm 0;margin-top:16mm;
+    display:grid;grid-template-columns:repeat(3,1fr);gap:4mm;
+    font-size:9.5pt;color:var(--ink-soft);
+  }
+  .cover-meta .k{display:block;color:var(--muted);font-size:8pt;text-transform:uppercase;letter-spacing:.1em;margin-bottom:1mm;}
+  .cover-foot{text-align:center;color:var(--muted);font-size:8.5pt;}
+
+  /* ---------- índice ---------- */
+  .toc ol{list-style:none;padding:0;margin:0;}
+  .toc li{
+    display:flex;align-items:baseline;gap:3mm;
+    padding:2.6mm 0;border-bottom:1px dotted var(--line);
+    font-size:11pt;color:var(--ink-soft);
+  }
+  .toc li .num{font-family:Georgia,serif;color:var(--accent-dark);font-weight:700;min-width:8mm;}
+  .toc li .dots{flex:1;border-bottom:1px dotted var(--line);}
+  .toc li .pg{color:var(--muted);font-size:9.5pt;}
+
+  /* ---------- tablas ---------- */
+  table{width:100%;border-collapse:collapse;margin:3mm 0 5mm;font-size:9pt;}
+  th{
+    background:var(--ink);color:#fff;text-align:left;
+    padding:2.2mm 2.6mm;font-weight:600;font-size:8.5pt;
+    letter-spacing:.03em;
+  }
+  td{padding:2.2mm 2.6mm;border-bottom:1px solid var(--line);vertical-align:top;color:var(--ink-soft);}
+  tr:nth-child(even) td{background:var(--paper-soft);}
+  td.key{font-weight:600;color:var(--ink);}
+  .num{font-variant-numeric:tabular-nums;}
+  .good{color:var(--good);font-weight:700;}
+
+  /* ---------- cajas ---------- */
+  .callout{
+    background:var(--paper-soft);
+    border-left:3px solid var(--accent);
+    padding:3.5mm 4.5mm;margin:4mm 0;border-radius:0 2px 2px 0;
+    font-size:9.5pt;color:var(--ink-soft);
+  }
+  .callout .t{display:block;font-family:Georgia,serif;color:var(--accent-dark);font-weight:700;margin-bottom:1mm;font-size:10.5pt;}
+  .quote{
+    font-family:Georgia,serif;font-style:italic;font-size:13pt;color:var(--ink);
+    text-align:center;padding:5mm 12mm;margin:4mm 0;line-height:1.5;
+  }
+  .kpis{
+    display:grid;grid-template-columns:repeat(3,1fr);gap:3mm;margin:4mm 0;
+  }
+  .kpi{
+    border:1px solid var(--line);border-top:3px solid var(--accent);
+    padding:4mm;text-align:center;background:var(--paper-soft);
+  }
+  .kpi .v{font-family:Georgia,serif;font-size:19pt;color:var(--ink);font-weight:700;display:block;}
+  .kpi .l{color:var(--muted);font-size:8pt;text-transform:uppercase;letter-spacing:.06em;margin-top:1mm;}
+
+  ul,ol{margin:0 0 3mm;padding-left:5.5mm;color:var(--ink-soft);}
+  li{margin-bottom:1.6mm;}
+
+  .footnote{
+    position:absolute;bottom:9mm;left:20mm;right:20mm;
+    display:flex;justify-content:space-between;
+    border-top:1px solid var(--line);padding-top:2mm;
+    color:var(--muted);font-size:7.5pt;
+  }
+
+  @media print{
+    body{background:#fff;}
+    .page{box-shadow:none;margin:0;}
+    @page{size:A4;margin:0;}
+  }
+  @page{size:A4;margin:0;}
+</style>
+</head>
+<body>
+
+<!-- ===================== PORTADA ===================== -->
+<div class="page cover">
+  <div class="cover-top">Documento confidencial · Proyecto RemodelaT</div>
+
+  <div style="text-align:center;margin-top:30mm;">
+    <div class="cover-mark">RT</div>
+    <div class="section-number">Plan de Negocio</div>
+    <h1>RemodelaT Coruña</h1>
+    <div class="subtitle">Empresa de reformas y remodelación de viviendas · A Coruña</div>
+    <div class="rule centered"></div>
+    <p class="tagline">“No competimos por ser la opción más económica.<br>Competimos por hacerlo bien.”</p>
+  </div>
+
+  <div>
+    <div class="cover-meta">
+      <div><span class="k">Preparado para</span>Rubén — fundador</div>
+      <div><span class="k">Forma jurídica</span>S.L. unipersonal (prevista)</div>
+      <div><span class="k">Versión</span>1.0 · septiembre 2026</div>
+    </div>
+    <div class="cover-foot" style="margin-top:5mm;">RemodelaT Coruña S.L. · A Coruña ciudad + área metropolitana · Calendario: dic 2026 → operación feb–mar 2027</div>
+  </div>
+</div>
+
+<!-- ===================== ÍNDICE ===================== -->
+<div class="page">
+  <div class="section-number">Contenido</div>
+  <h2>Índice</h2>
+  <div class="rule"></div>
+  <div class="toc">
+    <ol>
+      <li><span class="num">0.</span><span>Resumen ejecutivo</span><span class="dots"></span><span class="pg">3</span></li>
+      <li><span class="num">1.</span><span>Modelo de negocio y propuesta de valor</span><span class="dots"></span><span class="pg">4</span></li>
+      <li><span class="num">2.</span><span>Servicios</span><span class="dots"></span><span class="pg">5</span></li>
+      <li><span class="num">3.</span><span>Mercado</span><span class="dots"></span><span class="pg">6</span></li>
+      <li><span class="num">4.</span><span>Competencia y posicionamiento</span><span class="dots"></span><span class="pg">7</span></li>
+      <li><span class="num">5.</span><span>Marketing y captación</span><span class="dots"></span><span class="pg">8</span></li>
+      <li><span class="num">6.</span><span>Operaciones y método de trabajo</span><span class="dots"></span><span class="pg">9</span></li>
+      <li><span class="num">7.</span><span>Plan financiero</span><span class="dots"></span><span class="pg">10</span></li>
+      <li><span class="num">8.</span><span>Riesgos y mitigación</span><span class="dots"></span><span class="pg">12</span></li>
+      <li><span class="num">9.</span><span>Plan de acción (hoja de ruta)</span><span class="dots"></span><span class="pg">13</span></li>
+      <li><span class="num">A.</span><span>Anexo — Decisiones adoptadas</span><span class="dots"></span><span class="pg">14</span></li>
+    </ol>
+  </div>
+  <div class="callout" style="margin-top:12mm;">
+    <span class="t">Sobre este documento</span>
+    Elaborado con una política estricta: <strong>ningún dato inventado</strong>. Cada cifra
+    procede de una aportación de Rubén (con fecha) o de una fuente pública verificable; lo no
+    confirmado se marca como pendiente. Los cálculos de costes se apoyan en el convenio de la
+    construcción de A Coruña 2026 y en la Seguridad Social 2026; los precios de venta, en la
+    banda de mercado real 2026.
+  </div>
+</div>
+
+<!-- ===================== 0. RESUMEN EJECUTIVO ===================== -->
+<div class="page">
+  <div class="section-number">Sección 0</div>
+  <h2>Resumen ejecutivo</h2>
+  <div class="rule"></div>
+
+  <p class="lead"><strong>RemodelaT Coruña</strong> es una empresa <strong>nueva</strong> de reformas y
+  remodelación de viviendas en <strong>A Coruña</strong>, fundada por <strong>Rubén</strong>
+  (ingeniero, con trayectoria propia en reformas en España —Las Palmas y Madrid— y en Venezuela),
+  constituida como <strong>S.L. unipersonal</strong> y con calendario de apertura
+  <strong>diciembre 2026 → operación febrero–marzo 2027</strong>.</p>
+
+  <h3>Qué ofrece</h3>
+  <p>Reformas de vivienda con <strong>método técnico y acabados de calidad</strong>: reformas
+  integrales, cocinas y baños (incluida adaptación/accesibilidad) como núcleo, más un catálogo
+  amplio (pintura, suelos y revestimientos, instalaciones…). Diferenciación por el
+  <strong>Método RemodelaT</strong>: diagnóstico, presupuesto por partidas, ejecución
+  supervisada, pruebas antes de cerrar y <strong>garantía por escrito</strong>, con obra real
+  documentada.</p>
+
+  <h3>Modelo de operación</h3>
+  <p>Rubén dirige y ejecuta; <strong>plantilla propia sin subcontratación</strong>. El
+  <strong>Grupo 1</strong> (1 oficial + 1 ayudante) se contrata solo cuando hay obras firmadas;
+  al entrar una <strong>obra grande</strong> se incorpora el <strong>Grupo 2</strong>. Cada grupo
+  hace hasta <strong>4 obras pequeñas/mes</strong>.</p>
+
+  <div class="kpis">
+    <div class="kpi"><span class="v">≈ 299 k€</span><span class="l">Facturación año 1 (s/IVA)</span></div>
+    <div class="kpi"><span class="v">≈ +72 k€</span><span class="l">Resultado antes de impuestos</span></div>
+    <div class="kpi"><span class="v">≈ 20 k€</span><span class="l">Inversión inicial</span></div>
+  </div>
+
+  <h3>Mercado y oportunidad</h3>
+  <p>Vivienda en A Coruña en <strong>máximos históricos</strong> (3.205 €/m², +14 % interanual)
+  y parque de viviendas muy envejecido en Galicia → demanda estructural de reforma integral,
+  rehabilitación y accesibilidad.</p>
+
+  <h3>Calendario</h3>
+  <table>
+    <tr><th>Fase</th><th>Cuándo</th><th>Qué</th></tr>
+    <tr><td class="key">Preparación</td><td class="num">ahora → dic 2026</td><td>Cerrar plan, gestoría, marca y dominio</td></tr>
+    <tr><td class="key">Llegada y constitución</td><td class="num">dic 2026</td><td>S.L., seguros, vehículo, presencia online</td></tr>
+    <tr><td class="key">Alta y captación</td><td class="num">ene 2027</td><td>Alta formal, campaña, primeras visitas</td></tr>
+    <tr><td class="key">Operación</td><td class="num">feb–mar 2027</td><td>Primeras obras, reseñas, portfolio</td></tr>
+  </table>
+
+  <div class="callout">
+    <span class="t">La conclusión clave</span>
+    Con el modelo de grupos (sin trabajadores parados) y los precios recalibrados a mercado 2026,
+    el negocio es <strong>claramente rentable</strong> desde el año 1 y la caja se mantiene
+    positiva todo el año. <strong>El límite real es la captación</strong>, no la capacidad ni el
+    capital — por eso el marketing es la palanca del primer año.
+  </div>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 1. MODELO DE NEGOCIO ===================== -->
+<div class="page">
+  <div class="section-number">Sección 1</div>
+  <h2>Modelo de negocio y propuesta de valor</h2>
+  <div class="rule"></div>
+
+  <div class="quote">“No competimos por ser la opción más económica. Competimos por hacerlo bien.”</div>
+
+  <p>RemodelaT Coruña ofrece reformas de vivienda <strong>bien ejecutadas</strong>: método
+  técnico, materiales especificados según uso, presupuesto claro por partidas, supervisión
+  directa, pruebas antes de cerrar y <strong>garantía por escrito</strong>. En un mercado con
+  vivienda cara, el cliente protege una inversión grande: la reforma debe estar bien hecha y
+  documentada.</p>
+
+  <h3>Segmentos de cliente</h3>
+  <table>
+    <tr><th>Segmento</th><th>Necesidad</th><th>Encargo típico</th></tr>
+    <tr><td class="key">Compradores que reforman (incl. inversores)</td><td>Poner en valor una vivienda recién comprada</td><td>Integral o parcial antes de estrenar/alquilar</td></tr>
+    <tr><td class="key">Propietarios de vivienda habitual</td><td>Mejorar confort, eficiencia y estética</td><td>Cocina, baño, integral, accesibilidad</td></tr>
+    <tr><td class="muted">Comunidades de propietarios</td><td class="muted">—</td><td class="muted">No se persiguen (D-0004)</td></tr>
+  </table>
+
+  <h3>Cómo se gana dinero</h3>
+  <ul>
+    <li>Ejecución de obras <strong>presupuestadas por partidas</strong> con exclusiones claras.</li>
+    <li>Ingreso = presupuesto pactado (base + IVA) con <strong>pagos por hitos</strong>
+    (50 % entrada + 20 % + 20 % + 10 % final).</li>
+    <li><strong>IVA:</strong> 10 % en reformas de vivienda de uso particular (&gt;2 años,
+    materiales ≤ 40 %); 21 % en el resto.</li>
+    <li>Ejecución con <strong>plantilla propia</strong>, sin subcontratación.</li>
+  </ul>
+
+  <h3>Diferenciación (base real, no inventada)</h3>
+  <table>
+    <tr><th>Palanca</th><th>Base</th></tr>
+    <tr><td class="key">Método y garantía por escrito</td><td>Método RemodelaT en 10 etapas, probado en obra real</td></tr>
+    <tr><td class="key">Experiencia demostrable</td><td>Obra documentada (fichas P-ES-001…007, fotos antes/después)</td></tr>
+    <tr><td class="key">Conocimiento técnico</td><td>Fundador ingeniero; ejecución directa</td></tr>
+    <tr><td class="key">Herramienta de precios propia</td><td>CotizaT (mediciones) + banda de mercado 2026 (PVP)</td></tr>
+  </table>
+
+  <h3>Estructura legal y fiscal (prevista)</h3>
+  <p><strong>S.L. unipersonal</strong> (socio único: Rubén) · denominación de trabajo
+  <strong>RemodelaT Coruña S.L.</strong> · régimen general · gestoría en A Coruña (pendiente de
+  contratar).</p>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 2. SERVICIOS ===================== -->
+<div class="page">
+  <div class="section-number">Sección 2</div>
+  <h2>Servicios</h2>
+  <div class="rule"></div>
+
+  <p>Cada servicio se ofrece bajo el mismo estándar: <strong>diagnóstico técnico → presupuesto
+  por partidas → ejecución supervisada → pruebas → entrega con garantía por escrito</strong>.</p>
+
+  <div class="callout"><span class="t">Qué NO hacemos</span>
+  Realizamos todo tipo de trabajos de reforma en vivienda, pero <strong>no somos una empresa de
+  mantenimiento</strong>: no hacemos micro-arreglos puntuales (cambiar un enchufe o una lámpara).</div>
+
+  <h3>Núcleo comercial</h3>
+  <table>
+    <tr><th>Servicio</th><th>Contenido</th><th>Precio referencia (mercado 2026, s/IVA)</th></tr>
+    <tr><td class="key">Reforma integral de vivienda</td><td>Distribución, instalaciones, revestimientos, carpintería, acabados</td><td class="num">80 m² ≈ 29.000–32.000 €</td></tr>
+    <tr><td class="key">Reforma de cocina</td><td>Desmontaje, instalaciones, revestimiento, mobiliario, encimera</td><td class="num">≈ 5.000–6.000 €</td></tr>
+    <tr><td class="key">Reforma de baño</td><td>Demolición, impermeabilización, alicatado, sanitarios, grifería, mampara</td><td class="num">≈ 5.800–6.400 €</td></tr>
+    <tr><td class="key">Adaptación y accesibilidad</td><td>Baños adaptados, eliminación de barreras, puertas correderas</td><td class="num">según proyecto</td></tr>
+  </table>
+
+  <h3>Catálogo amplio (secundarios)</h3>
+  <p>Pintura y acabados · suelos y revestimientos (porcelanato, microcemento, parquet) ·
+  revestimientos de pared · instalaciones eléctricas e iluminación · fontanería · reformas de
+  casas y apartamentos · domótica básica bajo demanda.</p>
+
+  <h3>Formato comercial</h3>
+  <ul>
+    <li><strong>Precio cerrado por partidas</strong> (recomendado por el método).</li>
+    <li>Valoración técnica previa (visita + informe) según alcance.</li>
+    <li>Obras tipo ya costeadas como base interna: <strong>baño, cocina, integral 80 m² y piso 100 m²</strong>
+    (ver plan financiero, §7).</li>
+  </ul>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 3. MERCADO ===================== -->
+<div class="page">
+  <div class="section-number">Sección 3</div>
+  <h2>Mercado</h2>
+  <div class="rule"></div>
+
+  <h3>Contexto (fuentes públicas, 2026)</h3>
+  <table>
+    <tr><th>Indicador</th><th>Dato</th><th>Lectura</th></tr>
+    <tr><td class="key">Precio vivienda usada A Coruña</td><td class="num">3.157 €/m² (may) · 3.205 €/m² (jun), +14,1 % interanual</td><td>Máximos históricos; demanda de compra fuerte</td></tr>
+    <tr><td class="key">Barrios en alza</td><td class="num">Los Castros-Castrillón-Eirís +27 % anual; Centro/Ensanche &gt;4.000 €/m²</td><td>Quien compra, suele reformar</td></tr>
+    <tr><td class="key">Parque envejecido</td><td class="num">244.556 viviendas centenarias en Galicia (2.ª autonomía)</td><td>Demanda estructural de reforma y accesibilidad</td></tr>
+    <tr><td class="key">Precio reforma integral</td><td class="num">400–1.000 €/m² según calidades</td><td>Referencia de mercado para tarifas</td></tr>
+  </table>
+
+  <h3>Mercado objetivo</h3>
+  <p><strong>A Coruña ciudad + área metropolitana</strong> (Arteixo, Oleiros, Culleredo, Cambre…).
+  Cliente mixto: compradores que reforman y propietarios de vivienda habitual.</p>
+
+  <h3>Implicaciones para RemodelaT</h3>
+  <ul>
+    <li>Mercado caro y al alza → la <strong>confianza y la calidad documentada</strong> son el
+    argumento de venta (frente a “precio mínimo”).</li>
+    <li>Parque antiguo → demanda de integral y de <strong>accesibilidad</strong> (vivienda de
+    mayores) como posible segmento diferenciador.</li>
+    <li>Competencia ya posicionada → diferenciarse y captar por canal online desde el inicio.</li>
+  </ul>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 4. COMPETENCIA ===================== -->
+<div class="page">
+  <div class="section-number">Sección 4</div>
+  <h2>Competencia y posicionamiento</h2>
+  <div class="rule"></div>
+
+  <p>Mercado <strong>muy fragmentado</strong> (~460–800 empresas de reformas integrales en la
+  provincia). Los líderes visibles llevan <strong>10–25 años</strong> y acumulan
+  <strong>50–100+ reseñas</strong> en Google. <strong>La barrera de entrada no es el precio: es
+  la confianza.</strong></p>
+
+  <h3>Competidores principales (Google, 2026)</h3>
+  <table>
+    <tr><th>Competidor</th><th>Especialidad</th><th>Valoración (reseñas)</th></tr>
+    <tr><td class="key">Aticoruña</td><td>Reformas integrales</td><td class="num">4.8–4.9 (108)</td></tr>
+    <tr><td class="key">Reformas Sequeiro</td><td>Integrales + interiorismo</td><td class="num">4.8 (92)</td></tr>
+    <tr><td class="key">Sara Diseño</td><td>Integrales, cocinas, baños</td><td class="num">4.8 (76)</td></tr>
+    <tr><td class="key">Salume</td><td>Cocinas a medida + integrales</td><td class="num">4.8 (84)</td></tr>
+    <tr><td class="key">MRC</td><td>Hogar + comunidades</td><td class="num">4.5 (88)</td></tr>
+    <tr><td class="key">Eiroa</td><td>Integrales + interiorismo</td><td class="num">4.7 (54)</td></tr>
+  </table>
+
+  <h3>Hueco de posicionamiento</h3>
+  <div class="callout">
+    <span class="t">Nuestra propuesta</span>
+    <strong>“Reforma documentada: método por partidas, pruebas antes de entregar y garantía por
+    escrito.”</strong> Ningún competidor comunica un método con garantía por partidas; la
+    <strong>accesibilidad/adaptación</strong> tampoco aparece como especialidad de nadie.
+    No competir por precio: el tarifario ya está en la banda de mercado.
+  </div>
+
+  <h3>Contraste de precios (mercado vs. tarifario propio)</h3>
+  <table>
+    <tr><th>Obra</th><th>Mercado A Coruña 2026</th><th>RemodelaT</th><th>Veredicto</th></tr>
+    <tr><td class="key">Baño</td><td class="num">4.000–7.000 €</td><td class="num">5.800–6.400 € s/IVA</td><td class="good">En banda ✓</td></tr>
+    <tr><td class="key">Integral</td><td class="num">400–1.000 €/m²</td><td class="num">≈ 400–440 €/m²</td><td class="good">Franja económica (alcance parcial) ✓</td></tr>
+  </table>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 5. MARKETING Y CAPTACIÓN ===================== -->
+<div class="page">
+  <div class="section-number">Sección 5</div>
+  <h2>Marketing y captación</h2>
+  <div class="rule"></div>
+
+  <div class="callout">
+    <span class="t">Decisión adoptada (D-0003)</span>
+    Presupuesto de captación <strong>500–800 €/mes</strong> (punto medio 650 €),
+    <strong>autogestionado</strong> por Rubén. Mezcla Google Ads (inmediatez) + orgánico
+    (perfil de Google, SEO, referencias) que madura a 3–6 meses.
+  </div>
+
+  <h3>El embudo (los números que hay que mover)</h3>
+  <p>El caso tipo (≈ 299 k€ = 38 pequeñas + 2 grandes) exige <strong>≈ 3,6 obras
+  firmadas/mes</strong>. Hacia atrás, eso significa <strong>≈ 25–30 leads cualificados/mes</strong>
+  en plena carga.</p>
+  <table>
+    <tr><th>Etapa</th><th>Ratio sector</th><th>Para 4 obras/mes</th></tr>
+    <tr><td class="key">Leads cualificados</td><td>—</td><td class="num">≈ 25–30/mes</td></tr>
+    <tr><td class="key">→ Visitas (diagnóstico)</td><td class="num">~50–60 %</td><td class="num">≈ 15/mes</td></tr>
+    <tr><td class="key">→ Presupuestos enviados</td><td class="num">~80 %</td><td class="num">≈ 12/mes</td></tr>
+    <tr><td class="key">→ Obras firmadas</td><td class="num">15–25 %</td><td class="num">4/mes</td></tr>
+  </table>
+
+  <h3>Canales (por intención de compra)</h3>
+  <table>
+    <tr><th>Canal</th><th>Coste por lead</th><th>Velocidad</th><th>Prioridad</th></tr>
+    <tr><td class="key">Perfil de Google (Maps)</td><td class="num">0 € (orgánico)</td><td>1–3 meses</td><td>Crítico, gratis, desde ya</td></tr>
+    <tr><td class="key">Web + SEO local</td><td class="num">20–60 € madurado</td><td>3–6 meses</td><td>Alta</td></tr>
+    <tr><td class="key">Google Ads (Search)</td><td class="num">70–250 €</td><td>48–72 h</td><td>Alta para arrancar</td></tr>
+    <tr><td class="key">Referencias / boca a oreja</td><td class="num">≈ 0 €, cierre ~30 %</td><td>desde la 1.ª obra</td><td>Alta</td></tr>
+    <tr><td class="key">Inmobiliarias</td><td class="num">relación (pendiente)</td><td>3–6 meses</td><td>Media</td></tr>
+  </table>
+
+  <h3>KPIs a seguir cada mes</h3>
+  <ul>
+    <li>Leads cualificados/mes por canal · <strong>coste por lead</strong> (objetivo 70–150 €).</li>
+    <li>Lead → presupuesto enviado (&gt;70 %) · <strong>presupuesto → contrato</strong> (15–25 %).</li>
+    <li>Ticket medio por canal · <strong>reseñas nuevas/mes</strong> (motor del orgánico).</li>
+  </ul>
+
+  <div class="callout"><span class="t">Cuello de botella humano</span>
+  15 visitas/mes + presupuestos + supervisión es mucha carga para una sola persona. La obra
+  grande (1 cada ~3 meses) alivia: un contrato de ~37.500 € equivale a ~6 pequeñas en
+  facturación y a ~1 visita.</div>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 6. OPERACIONES ===================== -->
+<div class="page">
+  <div class="section-number">Sección 6</div>
+  <h2>Operaciones y método de trabajo</h2>
+  <div class="rule"></div>
+
+  <h3>Modelo de ejecución</h3>
+  <ul>
+    <li><strong>Rubén</strong> dirige y ejecuta técnicamente.</li>
+    <li><strong>Grupo 1</strong> (1 oficial + 1 ayudante) contratado <strong>solo con obras firmadas</strong>;
+    <strong>Grupo 2</strong> al entrar obra grande.</li>
+    <li>Especialidades <strong>sin subcontratación</strong>: se amplía plantilla propia si la
+    carga lo justifica.</li>
+    <li>Estructura con Grupo 1 activo ≈ <strong>8.140 €/mes</strong>; equilibrio en
+    <strong>≈ 2,3 obras/mes</strong>.</li>
+  </ul>
+
+  <h3>Método RemodelaT (10 etapas)</h3>
+  <ol>
+    <li>Diagnóstico técnico real (medidas, instalaciones, humedades, soportes).</li>
+    <li>Definición de alcance (incluido vs. excluido).</li>
+    <li>Especificación de materiales según uso.</li>
+    <li>Presupuesto por partidas.</li>
+    <li>Planificación (compras, permisos, protección, escombros).</li>
+    <li>Protección del inmueble.</li>
+    <li>Ejecución supervisada.</li>
+    <li>Pruebas antes de cerrar (tuberías, desagües, eléctrico).</li>
+    <li>Control de acabados.</li>
+    <li>Entrega documentada con <strong>garantía por partidas</strong>.</li>
+  </ol>
+
+  <h3>Capacidad de obra</h3>
+  <table>
+    <tr><th>Recurso</th><th>Capacidad</th></tr>
+    <tr><td class="key">1 grupo (oficial + ayudante)</td><td class="num">1 baño o cocina/semana → hasta 4 pequeñas/mes</td></tr>
+    <tr><td class="key">Grupo 2 (obra grande)</td><td class="num">piso 100 m² ≈ 6,5 semanas-grupo (2–3 meses calendario)</td></tr>
+    <tr><td class="key">Regla</td><td>nunca se contrata sin cartera firmada (sin grupo parado)</td></tr>
+  </table>
+
+  <h3>Recursos operativos</h3>
+  <table>
+    <tr><th>Recurso</th><th>Estado</th></tr>
+    <tr><td class="key">Base</td><td>Centro de negocios (oficina a demanda, desde 36 €/mes)</td></tr>
+    <tr><td class="key">Vehículo</td><td>SUV grande (~10.000 €) + remolque</td></tr>
+    <tr><td class="key">Herramientas</td><td>Solo las necesarias para integrales/baños/cocinas</td></tr>
+    <tr><td class="key">Equipos puntuales</td><td>Se alquilan (andamios…)</td></tr>
+    <tr><td class="key">Gestoría</td><td>En A Coruña (pendiente, 3 presupuestos)</td></tr>
+  </table>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 7. PLAN FINANCIERO ===================== -->
+<div class="page">
+  <div class="section-number">Sección 7</div>
+  <h2>Plan financiero</h2>
+  <div class="rule"></div>
+
+  <h3>Inversión inicial ≈ 20.000 €</h3>
+  <table>
+    <tr><th>Concepto</th><th>Importe</th></tr>
+    <tr><td class="key">Vehículo (SUV + remolque)</td><td class="num">≈ 10.000 €</td></tr>
+    <tr><td class="key">Constitución S.L.</td><td class="num">≈ 400–900 €</td></tr>
+    <tr><td class="key">Seguros (RC + vehículo)</td><td class="num">RC ≈ 160–300 €/año + vehículo</td></tr>
+    <tr><td class="key">Herramientas iniciales</td><td class="num">pendiente</td></tr>
+    <tr><td class="key">Fondo de maniobra</td><td class="num">resto (sobra con 20 k€)</td></tr>
+    <tr><td class="key">Marketing de arranque</td><td class="num">500–800 €/mes (D-0003)</td></tr>
+  </table>
+
+  <h3>Coste laboral real (convenio A Coruña 2026 + SS)</h3>
+  <table>
+    <tr><th>Perfil</th><th>Bruto/mes (14 pagas)</th><th>Coste empresa/mes</th></tr>
+    <tr><td class="key">Ayudante de oficio</td><td class="num">1.557 €</td><td class="num">2.416–2.495 €</td></tr>
+    <tr><td class="key">Oficial 1ª</td><td class="num">1.632 €</td><td class="num">2.532–2.615 €</td></tr>
+    <tr><td class="key">Grupo (1+1)</td><td class="num">—</td><td class="num">≈ 5.030 €/mes</td></tr>
+  </table>
+
+  <h3>Estructura mensual y equilibrio</h3>
+  <table>
+    <tr><th>Componente</th><th>€/mes</th></tr>
+    <tr><td class="key">Grupo 1 (coste empresa)</td><td class="num">5.030</td></tr>
+    <tr><td class="key">Retribución Rubén (bruto ≈ neto 1.600)</td><td class="num">1.900</td></tr>
+    <tr><td class="key">Fijos (RETA, gestoría, centro, software, marketing)</td><td class="num">1.210</td></tr>
+    <tr><td class="key" style="border-top:2px solid var(--accent);">Total estructura (Grupo 1 activo)</td><td class="num" style="border-top:2px solid var(--accent);font-weight:700;">≈ 8.140 €/mes</td></tr>
+  </table>
+  <p>Con cada pequeña aportando <strong>≈ 3.500 €</strong> de contribución (venta 5.900 €
+  s/IVA − materiales 2.383 €), el <strong>equilibrio está en ≈ 2,3 obras/mes</strong>.</p>
+
+  <h3>Tarifario de referencia (mercado 2026, validado por Rubén)</h3>
+  <table>
+    <tr><th>Obra tipo</th><th>PVP s/IVA</th><th>Margen s/coste directo</th></tr>
+    <tr><td class="key">Baño 4,5 m²</td><td class="num">5.800–6.400 €</td><td class="num">≈ 78–88 %</td></tr>
+    <tr><td class="key">Cocina 3 m</td><td class="num">5.000–6.000 €</td><td class="num">≈ 65–80 %</td></tr>
+    <tr><td class="key">Integral 80 m²</td><td class="num">29.000–32.000 €</td><td class="num">≈ 105–120 %</td></tr>
+    <tr><td class="key">Piso 100 m² (obra grande)</td><td class="num">36.000–39.000 € (≈ 37.500)</td><td class="num">≈ 85 %</td></tr>
+  </table>
+
+  <div class="callout"><span class="t">Nota de precios</span>
+  El PVP se fija en la <strong>banda de mercado 2026</strong> (no coste ×1,35). Rubén corrigió
+  los presupuestos CotizaT como <strong>20–30 % por debajo de mercado</strong>; CotizaT se usa
+  solo para mediciones/horas. La integral propia excluye ventanas, tabiques y calefacción
+  (se suman por obra).</div>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 7b. PLAN FINANCIERO (caso tipo) ===================== -->
+<div class="page">
+  <div class="section-number">Sección 7 · continuación</div>
+  <h2>Objetivo de año 1 — caso tipo</h2>
+  <div class="rule"></div>
+
+  <p>Con el modelo de grupos (solo con cartera firmada, sin trabajadores parados) y los precios
+  recalibrados, el caso tipo del año 1 es:</p>
+
+  <div class="kpis">
+    <div class="kpi"><span class="v">38 + 2</span><span class="l">Obras pequeñas + grandes</span></div>
+    <div class="kpi"><span class="v">≈ 299 k€</span><span class="l">Venta s/IVA</span></div>
+    <div class="kpi"><span class="v">≈ +72 k€</span><span class="l">Resultado antes de impuestos</span></div>
+  </div>
+
+  <h3>Tesorería mes a mes (resumen)</h3>
+  <table>
+    <tr><th>Periodo</th><th>Hito</th><th>Caja acumulada ≈</th></tr>
+    <tr><td class="key">feb-27</td><td>1.ª obra (Rubén, sin grupo)</td><td class="num">6.500 € (mínimo)</td></tr>
+    <tr><td class="key">mar-27</td><td>3 obras → contrata Grupo 1</td><td class="num">9.000 €</td></tr>
+    <tr><td class="key">abr-27</td><td>Grupo 1 a plena carga</td><td class="num">14.900 €</td></tr>
+    <tr><td class="key">may–jul-27</td><td>Grande #1 (Grupo 2)</td><td class="num">24.600 → 44.100 €</td></tr>
+    <tr><td class="key">ago-27</td><td>Fin grande → fin contrato G2</td><td class="num">46.500 €</td></tr>
+    <tr><td class="key">sep–nov-27</td><td>Grande #2 (Grupo 2)</td><td class="num">56.200 → 75.600 €</td></tr>
+    <tr><td class="key">dic-27</td><td>Cierre del año</td><td class="num" style="font-weight:700;">≈ 78.000 €</td></tr>
+  </table>
+  <p class="muted">Caja siempre positiva; mínimo ≈ 6.500 € en febrero (los 20.000 € de capital
+  sobran). Sin IVA ni garantía del 10 % descontados mes a mes (los absorbe el colchón).</p>
+
+  <h3>Sensibilidad</h3>
+  <table>
+    <tr><th>Caso</th><th>Venta s/IVA</th><th>Resultado ≈</th></tr>
+    <tr><td class="key">Cauteloso (arranque lento)</td><td class="num">≈ 205 k€</td><td class="num">≈ +45.000 €</td></tr>
+    <tr><td class="key">Caso tipo (objetivo)</td><td class="num">≈ 299 k€</td><td class="num">≈ +72.000 €</td></tr>
+    <tr><td class="key">Con chalet adicional</td><td class="num">≈ 380 k€+</td><td class="num">≈ +100.000 €+</td></tr>
+  </table>
+
+  <div class="callout">
+    <span class="t">Lectura económica</span>
+    Incluso si la demanda del año 1 fuese la mitad del caso tipo, el negocio ya es claramente
+    rentable. <strong>El límite real es la captación</strong>: ≈ +3.500 € por pequeña y
+    ≈ +26.500 € por grande. Financiación: aportación propia ≈ 20.000 €, sin deuda prevista.
+  </div>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 8. RIESGOS ===================== -->
+<div class="page">
+  <div class="section-number">Sección 8</div>
+  <h2>Riesgos y mitigación</h2>
+  <div class="rule"></div>
+
+  <p>Priorización cualitativa (probabilidad × impacto, escala 1–5), sin cifras inventadas.</p>
+
+  <h3>Top 5 (prioridad de gestión)</h3>
+  <table>
+    <tr><th>Riesgo</th><th>Punt.</th><th>Mitigación clave</th></tr>
+    <tr><td class="key">1 · Marca nueva sin referencias locales</td><td class="num">25</td><td>Obra documentada + perfil Google + Ads (D-0003) + reseña en cada entrega</td></tr>
+    <tr><td class="key">2 · Dependencia del fundador</td><td class="num">15</td><td>Formar a los grupos en el método; procesos documentados; supervisión solo en fases críticas</td></tr>
+    <tr><td class="key">3 · Tesorería entre cobros</td><td class="num">12</td><td>Puertas de contratación; 50 % de entrada; fondo de maniobra</td></tr>
+    <tr><td class="key">4 · Reputación online</td><td class="num">12</td><td>Checklist de entrega; respuesta profesional; fotos antes/después</td></tr>
+    <tr><td class="key">5 · Falta de personal cualificado (al escalar)</td><td class="num">12</td><td>Cartera de candidatos; periodo de prueba; previsión semanas antes</td></tr>
+  </table>
+
+  <h3>Disparadores de alerta (cuándo actuar)</h3>
+  <ul>
+    <li>Coste por lead &gt; ~250 € o sin 3 obras firmadas al mes 2 → revisar canal y mensaje.</li>
+    <li>Más de ~15 visitas/mes sostenidas → delegar antes de perder leads.</li>
+    <li>Caja real &lt; ~5.000 € → anticipar IVA y espaciar compras.</li>
+    <li>Reseña ≤ 2★ → responder &lt;48 h y contactar al cliente.</li>
+  </ul>
+
+  <h3>Riesgos en vigilancia</h3>
+  <p class="muted">Dependencia de la contratación (puertas por cartera) · imprevistos de obra
+  (modificados que decide el cliente) · competencia consolidada (diferenciación) · volatilidad
+  de precios de materiales (presupuestos con validez acotada) · exigencias legales (gestoría) ·
+  estacionalidad (área metropolitana) · error en precios (validación contra mercado).</p>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== 9. PLAN DE ACCIÓN ===================== -->
+<div class="page">
+  <div class="section-number">Sección 9</div>
+  <h2>Plan de acción (hoja de ruta)</h2>
+  <div class="rule"></div>
+
+  <h3>Fase A — Preparación (ahora → dic 2026, desde Venezuela)</h3>
+  <table>
+    <tr><th>#</th><th>Tarea</th><th>Estado</th></tr>
+    <tr><td class="key">A1</td><td>Cerrar plan financiero + captación + riesgos</td><td class="good">Hecho</td></tr>
+    <tr><td class="key">A2</td><td>Elegir gestoría (3 presupuestos)</td><td class="muted">Pendiente</td></tr>
+    <tr><td class="key">A3</td><td>Validar denominación S.L.</td><td class="muted">Pendiente</td></tr>
+    <tr><td class="key">A4</td><td>Identidad visual y dominio</td><td class="muted">Pendiente</td></tr>
+    <tr><td class="key">A5</td><td>Proveedores y candidatos a plantilla</td><td class="muted">En curso</td></tr>
+    <tr><td class="key">A6–A8</td><td>Plantillas · centro/seguros · vehículo</td><td class="muted">Pendiente</td></tr>
+  </table>
+
+  <h3>Fase B — Llegada y constitución (dic 2026)</h3>
+  <p class="muted">Constituir S.L. (notaría, alta censal/IVA, SS) · seguros · centro de negocios ·
+  vehículo y herramientas · perfil de Google y redes · proveedores y candidatos.</p>
+
+  <h3>Fase C — Alta y captación (ene 2027)</h3>
+  <p class="muted">Alta formal definitiva · campaña de captación (Google/perfil + difusión) ·
+  contratar Grupo 1 <strong>solo con obras firmadas</strong>.</p>
+
+  <h3>Fase D — Operación (feb–mar 2027)</h3>
+  <p class="muted">Primeras obras con método y fichas · revisar costes reales contra presupuesto ·
+  pedir reseñas y seleccionar fotos para web.</p>
+
+  <div class="callout">
+    <span class="t">Próximo paso crítico</span>
+    Al llegar a A Coruña: gestoría (constitución + CNAE/AT-EP + modalidad de contratación),
+    validar el IVA (10 % vs 21 %) y montar el perfil de Google + Google Ads. Todo lo demás del
+    plan está cerrado y listo para ejecutar.
+  </div>
+  <div class="footnote"><span>RemodelaT Coruña S.L. · Plan de Negocio</span><span>Confidencial</span></div>
+</div>
+
+<!-- ===================== ANEXO ===================== -->
+<div class="page">
+  <div class="section-number">Anexo</div>
+  <h2>Decisiones adoptadas</h2>
+  <div class="rule"></div>
+
+  <table>
+    <tr><th>Ref.</th><th>Decisión</th><th>Fecha</th></tr>
+    <tr><td class="key">D-0001</td><td>Marca de trabajo <strong>RemodelaT Coruña</strong>; renombrar el repositorio</td><td class="num">2026-09-03</td></tr>
+    <tr><td class="key">D-0002</td><td>Foco: reformas integrales de viviendas (cocinas, baños, rehabilitación)</td><td class="num">2026-09-03</td></tr>
+    <tr><td class="key">D-0003</td><td>Captación: <strong>500–800 €/mes autogestionado</strong> (Google Ads + orgánico)</td><td class="num">2026-09-03</td></tr>
+    <tr><td class="key">D-0004</td><td><strong>No perseguir</strong> obra de comunidades de propietarios; foco particular</td><td class="num">2026-09-03</td></tr>
+  </table>
+
+  <h3>Cifras de referencia (consolidadas)</h3>
+  <table>
+    <tr><th>Concepto</th><th>Valor</th></tr>
+    <tr><td class="key">Inversión inicial</td><td class="num">≈ 20.000 €</td></tr>
+    <tr><td class="key">Coste grupo (convenio + SS 2026)</td><td class="num">≈ 5.030 €/mes</td></tr>
+    <tr><td class="key">Estructura con Grupo 1</td><td class="num">≈ 8.140 €/mes</td></tr>
+    <tr><td class="key">Equilibrio</td><td class="num">≈ 2,3 obras pequeñas/mes</td></tr>
+    <tr><td class="key">Contribución por pequeña</td><td class="num">≈ 3.500 €</td></tr>
+    <tr><td class="key">Retribución socio (año 1)</td><td class="num">≈ 1.600 €/mes netos</td></tr>
+    <tr><td class="key">Caso tipo año 1</td><td class="num">≈ 299 k€ s/IVA → ≈ +72.000 €</td></tr>
+    <tr><td class="key">IVA reformas</td><td class="num">10 % (3 requisitos LIVA) / 21 % resto</td></tr>
+  </table>
+
+  <div class="callout" style="margin-top:8mm;">
+    <span class="t">Confidencialidad</span>
+    Este documento contiene información privada del negocio (finanzas, plan, trámites). Debe
+    permanecer <strong>privado</strong> y no publicarse.
+  </div>
+
+  <div class="cover-foot" style="text-align:center;margin-top:14mm;">RemodelaT Coruña S.L. · A Coruña · Preparado en septiembre de 2026</div>
+</div>
+
+</body>
+</html>

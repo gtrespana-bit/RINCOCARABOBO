@@ -100,8 +100,8 @@ Con los PVP propuestos (punto medio prudente):
 | Contribución por pequeña | 2.293 € | **≈ 3.500 €** |
 | Venta piso 100 (s/IVA) | 28.170 € | **≈ 37.500 €** |
 | Margen neto de una grande con Grupo 2 | +2.058 € | **≈ +11.400 €** (26.478 bruto − 15.090 de Grupo 2 en 3 meses) |
-| **Caso tipo año 1 (38 peq + 2 grandes)** | 234.000 s/IVA · +12.240 € | **≈ 299.200 € s/IVA · ≈ + 77.400 €** antes de impuestos (mes a mes en tesorería §7; banda prudente +60–75 k€ si alguna grande va más lenta) |
-| Caja del caso tipo | mín ≈ 5.000 € | **positiva todo el año** (mínima ≈ 7.000 € en feb-27; final ≈ 83.500 €) |
+| **Caso tipo año 1 (38 peq + 2 grandes)** | 234.000 s/IVA · +12.240 € | **≈ 299.200 € s/IVA · ≈ + 71.900 €** antes de impuestos (mes a mes en tesorería §7; banda prudente +60–75 k€ si alguna grande va más lenta) |
+| Caja del caso tipo | mín ≈ 5.000 € | **positiva todo el año** (mínima ≈ 6.500 € en feb-27; final ≈ 78.000 €) |
 
 > ⚠️ El resultado depende de **vender las 38 pequeñas + 2 grandes del caso tipo a precios
 > de mercado**: es la capacidad con 2 grupos medio año. Si la captación va más lenta, el

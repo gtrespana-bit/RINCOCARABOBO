@@ -9,6 +9,8 @@ en España (A Coruña): constitución, forma jurídica, contratos y seguros.
   trámites de alta, gestoría, licencias.
 - [`contratos/`](contratos/README.md) — Modelos de contrato con clientes, con el equipo y con proveedores.
 - [`seguros/`](seguros/README.md) — Seguro de responsabilidad civil, seguro de obra, etc.
+- [`fiscal/`](fiscal/iva-reformas-10-vs-21.md) — IVA en reformas (10 % vs 21 %), criterios y
+  requisitos para facturar al tipo reducido.
 
 ## Recordatorio: grandes trámites en España (orden orientativo)
 

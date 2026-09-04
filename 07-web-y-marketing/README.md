@@ -12,7 +12,7 @@ contenido de la futura página web, textos, imágenes y campañas de captación 
 
 - La confianza lo es todo: fotos reales de obras, opiniones de clientes, presupuestos claros.
 - Canales típicos: **Google (búsquedas "reforma piso A Coruña")**, Google Maps, referencias
-  de clientes, comunidades de propietarios, inmobiliarias y administradores de fincas.
+  de clientes, inmobiliarias. (Comunidades de propietarios: no se persiguen — D-0004.)
 - La web debe servir para generar **contactos/presupuestos**, no solo como escaparate.
 
 ## Notas sobre la futura web

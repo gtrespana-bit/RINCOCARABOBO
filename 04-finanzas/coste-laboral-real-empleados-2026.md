@@ -96,8 +96,8 @@ la tarifa CotizaT:
 ## 5. Uso en el modelo financiero
 
 1. **Estructura mensual con Grupo 1 activo** (ver `tesoreria-arranque-2026-2027.md` v4):
-   grupo **≈ 5.030 €/mes** (4.950–5.110) + 710 € (RETA 220 + gestoría 180 + centro 100 +
-   software 60 + marketing 150) + retribución de Rubén ≈ 1.900 €/mes bruto ≈ **7.640 €/mes**.
+   grupo **≈ 5.030 €/mes** (4.950–5.110) + 1.210 € (RETA 220 + gestoría 180 + centro 100 +
+   software 60 + marketing 650) + retribución de Rubén ≈ 1.900 €/mes bruto ≈ **8.140 €/mes**.
 2. **Nunca** usar la hora de CotizaT (21 €/h oficial, tarifa facturada) como coste
    interno: solo como referencia de precio de venta de MO si algún día se subcontratase
    (no es el plan).

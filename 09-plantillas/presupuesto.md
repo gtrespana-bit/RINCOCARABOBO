@@ -84,7 +84,7 @@ Válido hasta: [30 días]
    obra; la entrada de material y la gestión de escombros se harán según normativa de la
    comunidad/edificio.
 9. La aceptación de este presupuesto se formaliza con la firma del cliente y del
-   contratista, y con el [contrato de obra](contrato-de-obra.md).
+   contratista, y con el contrato de obra (plantilla en preparación — ver tarea A6).
 
 ## Notas de cálculo interno (no se entregan al cliente)
 

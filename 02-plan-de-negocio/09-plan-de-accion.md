@@ -8,11 +8,11 @@
 
 | # | Tarea | Detalle | Resp. | Estado |
 |---|---|---|---|---|
-| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo, retribución, capacidad por grupos, **coste laboral real**, **recalibración de precios a mercado 2026** (bandas **validadas por Rubén**) y **tesorería v4 con caso tipo mes a mes** (dic-26 → dic-27) hechos (2026-09-03). Pendiente: cerrar el plan de captación (caso tipo ≈ 299 k€ s/IVA: 38 peq + 2 grandes, ≈ +77 k€) y CNAE/AT-EP + modalidad con la gestoría | R | `[EN CURSO]` |
+| A1 | Cerrar plan financiero (obras tipo + tesorería) | ✅ Obras tipo, retribución, capacidad por grupos, **coste laboral real**, **recalibración de precios a mercado 2026** (bandas **validadas por Rubén**) y **tesorería v4 con caso tipo mes a mes** (dic-26 → dic-27) hechos (2026-09-03). **Plan de captación cerrado (D-0003): 500–800 €/mes autogestionado** → [`05-marketing`](05-marketing-y-ventas.md) + tesorería actualizada (caso tipo ≈ +72.000 €). **Riesgos priorizados (top 5)** → [`08-riesgos`](08-riesgos.md). Pendiente solo: CNAE/AT-EP + modalidad con la gestoría | R | `[EN CURSO]` |
 | A2 | Elegir gestoría en A Coruña | 3 presupuestos (constitución S.L. + contabilidad mensual) | R | `[PENDIENTE]` |
 | A3 | Validar denominación "RemodelaT Coruña S.L." | Disponibilidad en Registro Mercantil (vía gestoría) | R/gestoría | `[PENDIENTE]` |
 | A4 | Decidir identidad visual y dominio | ¿Heredar marca RemodelaT (logo/paleta) o crear? Dominio .es | R | `[PENDIENTE]` |
-| A5 | Investigar mercado/proveedores | Ampliar datos mercado; listado de proveedores de materiales y de profesionales (candidatos a plantilla) | R | `[PENDIENTE]` |
+| A5 | Investigar mercado/proveedores | ✅ **Competencia ampliada** (2026-09-03): ~20 competidores con valoración Google + panorama + hueco de posicionamiento (método/garantía + accesibilidad) → [04-competencia](../02-plan-de-negocio/04-competencia.md). Pendiente: listado de proveedores de materiales y de profesionales (candidatos a plantilla) | R | `[EN CURSO]` |
 | A6 | Preparar plantillas base | Presupuesto, contrato de obra, ficha de visita/seguimiento | R | `[PENDIENTE]` |
 | A7 | Centro de negocios y seguros | Costes investigados 2026-09-03 (rangos reales); 2-3 presupuestos en A Coruña al llegar | R | `[EN CURSO]` |
 | A8 | Elegir vehículo | SUV grande (~10.000 €) + remolque | R | `[PENDIENTE]` |

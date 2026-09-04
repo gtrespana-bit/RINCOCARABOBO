@@ -80,7 +80,7 @@ El margen de cada obra = **PVP de mercado − coste directo real**. Ejemplo con 
 |---|---|---|
 | Coste directo real (MO nómina + materiales) | ≈ 3.412 | ≈ 56 % |
 | **Margen bruto (antes de estructura)** | **≈ 2.688** | **≈ 44 %** |
-| └ Gastos de estructura del mes (grupo + retribución + fijos; §5) | (se cubren con ~2,2 pequeñas/mes) | — |
+| └ Gastos de estructura del mes (grupo + retribución + fijos; §5) | (se cubren con ~2,3 pequeñas/mes) | — |
 | └ Colchón de tesorería/riesgo de empresa (huecos de cobro, garantías 10 %) | prudencia a nivel de empresa | — |
 | └ Beneficio neto antes de impuestos | el resto, según obras del mes | — |
 
@@ -119,9 +119,9 @@ El margen de cada obra = **PVP de mercado − coste directo real**. Ejemplo con 
 ### 3.4. Gastos de gestión y estructura
 
 - Cubiertos por el margen de las obras (no se cobran como recargo al cliente en obra
-  pequeña/media). Con el Grupo 1 activo la estructura mensual es ≈ **7.640 €/mes**
-  (grupo 5.030 + retribución Rubén 1.900 + fijos 710): en el caso tipo se cubre con
-  ≈ **2,2 obras pequeñas/mes** (cada una ≈ 3.500 € de margen antes de estructura);
+  pequeña/media). Con el Grupo 1 activo la estructura mensual es ≈ **8.140 €/mes**
+  (grupo 5.030 + retribución Rubén 1.900 + fijos 1.210): en el caso tipo se cubre con
+  ≈ **2,3 obras pequeñas/mes** (cada una ≈ 3.500 € de margen antes de estructura);
   a 3–4 obras/mes el excedente es beneficio (ver
   [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md)).
 - En **integrales grandes** (varias semanas, más gestión, proyecto/permisos posibles) se
@@ -156,22 +156,22 @@ del grupo y la estructura del mes.)*
 - **Retribución del socio (confirmada por Rubén, 2026-09-03): ≈ 1.600 €/mes netos**.
   Bruto estimado ≈ 1.850–2.000 €/mes según retención IRPF (cuadrar con gestoría al
   formalizar la nómina de administrador). Total a cubrir con el margen sin grupo:
-  ≈ 580 + 1.900 ≈ **2.480 €/mes**.
+  ≈ 1.210 + 1.900 ≈ **3.110 €/mes**.
 
 **Equilibrio (recalibrado; cada obra pequeña aporta ≈ 3.500 € antes de estructura; la
-estructura con Grupo 1 activo ≈ 7.640 €/mes):**
+estructura con Grupo 1 activo ≈ 8.140 €/mes):**
 
 | Escenario | Necesario para cubrir |
 |---|---|
-| Solo estructura sin grupo (≈ 2.480 €/mes, obras agendadas que ejecuta Rubén) | ≈ 0,7 obra pequeña/mes → 1 pequeña al mes ya deja ≈ + 1.000 € |
-| Con **Grupo 1 activo** (≈ 7.640 €/mes) | ≈ **2,2 obras pequeñas/mes**; de 3 en adelante todo es excedente (+2.900 a +6.400 €/mes) |
+| Solo estructura sin grupo (≈ 3.110 €/mes, obras agendadas que ejecuta Rubén) | ≈ 0,9 obra pequeña/mes → 1 pequeña al mes ya deja ≈ + 400 € |
+| Con **Grupo 1 activo** (≈ 8.140 €/mes) | ≈ **2,3 obras pequeñas/mes**; de 3 en adelante todo es excedente (+2.400 a +5.900 €/mes) |
 | Obra grande con Grupo 2 | la grande (bruto ≈ 26.500 € − materiales) paga el grupo con holgura y deja ≈ + 11.400 € netos por obra |
 
 > Implicación con la capacidad por grupos y el coste laboral real (Rubén, 2026-09-03):
 > el **Grupo 1 (oficial + ayudante)** se contrata solo con cartera firmada (≥ 3–4 obras
 > pequeñas) y cubre hasta 4 pequeñas/mes; el **Grupo 2** entra con obra grande firmada.
 > Con esa regla y los precios recalibrados, el caso tipo del año 1 (38 pequeñas + 2 pisos
-> 100 en cadena) deja **≈ 299 k€ s/IVA de venta y ≈ +77.000 € antes de impuestos** (ver
+> 100 en cadena) deja **≈ 299 k€ s/IVA de venta y ≈ +72.000 € antes de impuestos** (ver
 > [tesoreria-arranque-2026-2027.md](tesoreria-arranque-2026-2027.md) §7 y
 > [coste-laboral-real-empleados-2026.md](coste-laboral-real-empleados-2026.md)).
 

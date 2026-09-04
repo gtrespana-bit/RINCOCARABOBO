@@ -73,21 +73,21 @@ Rubén — nunca sus precios:
 | Gestoría S.L. | 180 | rango 120–250 |
 | Centro: oficina virtual/domicilio | 100 | rango 36–179 |
 | Software, comunicaciones | 60 | `[SUPUESTO]` |
-| Marketing / captación | 150 | `[SUPUESTO]` |
+| Marketing / captación | **650** (decidido 500–800) | [D-0003](../01-empresa/decisiones/0003-presupuesto-captacion.md), autogestionado |
 | Retribución de Rubén (bruto ≈ 1.900 ≈ neto 1.600) | 1.900 | neto confirmado |
-| **Total estructura (Grupo 1 activo)** | **≈ 7.640** | |
+| **Total estructura (Grupo 1 activo)** | **≈ 8.140** | |
 
-**Equilibrio (recalibrado):** 7.640 €/mes ÷ ≈ 3.500 € de contribución por pequeña =
-**≈ 2,2 obras pequeñas/mes** (antes 3,3 con los precios viejos). Con grupo contratado y
-1 sola obra/mes se pierde ≈ 4.100 €/mes (grupo parado), por eso las puertas de
-contratación por cartera (§7–8).
+**Equilibrio (recalibrado):** 8.140 €/mes ÷ ≈ 3.500 € de contribución por pequeña =
+**≈ 2,3 obras pequeñas/mes** (antes 2,2 con marketing 150; antes 3,3 con los precios
+viejos). Con grupo contratado y 1 sola obra/mes se pierde ≈ 4.600 €/mes (grupo parado),
+por eso las puertas de contratación por cartera (§7–8).
 
 | Ritmo de pequeñas (Grupo 1) | Resultado mensual | Venta anual ≈ (11 meses) |
 |---|---|---|
-| 2 / mes | ≈ − 600 €/mes (− 6 k€/año) | ≈ 130 k€ |
-| ≈ 2,2 / mes (equilibrio) | ≈ 0 | ≈ 143 k€ |
-| 3 / mes | **+ 2.911 €/mes** (+ 32 k€/año) | ≈ 195 k€ |
-| **4 / mes (capacidad plena)** | **+ 6.428 €/mes** (+ 77 k€/año) | ≈ 260 k€ |
+| 2 / mes | ≈ − 1.100 €/mes (− 12 k€/año) | ≈ 130 k€ |
+| ≈ 2,3 / mes (equilibrio) | ≈ 0 | ≈ 150 k€ |
+| 3 / mes | **+ 2.411 €/mes** (+ 26,5 k€/año) | ≈ 195 k€ |
+| **4 / mes (capacidad plena)** | **+ 5.928 €/mes** (+ 65 k€/año) | ≈ 260 k€ |
 | 4/mes + apoyo a obra grande en semana libre | mejora (la grande rinde antes) | — |
 
 *(Antes de impuestos y de recuperar inversión; con retención de garantía, IVA y un mes de
@@ -101,18 +101,19 @@ Mes 6 = 6.º mes operando (feb–jul 2027, grupo a plena carga), con la venta re
 |---|---|---|
 | Ventas 4 obras pequeñas (s/IVA) | 23.600 | 4 × 5.900 € (≈ 26.000 € c/IVA al 10 % en vivienda) |
 | − Materiales de las 4 obras | − 9.532 | 4 × 2.383 € (precio de tienda s/IVA) |
-| − Estructura del mes (§4) | − 7.640 | grupo 5.030 + retribución 1.900 + 710 |
-| **= Beneficio real del mes (antes de impuestos)** | **+ 6.428** | ≈ 27 % s/venta |
-| − Impuesto de Sociedades (15–25 % nueva S.L.) | | quedan ≈ 5.000–5.500 € en la empresa |
+| − Estructura del mes (§4) | − 8.140 | grupo 5.030 + retribución 1.900 + 1.210 |
+| **= Beneficio real del mes (antes de impuestos)** | **+ 5.928** | ≈ 25 % s/venta |
+| − Impuesto de Sociedades (15–25 % nueva S.L.) | | quedan ≈ 4.500–5.000 € en la empresa |
 
 > **Dos niveles de margen (no confundir):**
 > - **Margen de obra ≈ 55–70 % sobre coste directo real** (con plantilla propia a
 >   convenio, la MO cuesta menos que la tarifa de mercado que paga el cliente).
-> - **Beneficio neto del mes ≈ 27 % s/venta**: después de sueldos, retribución de Rubén,
+> - **Beneficio neto del mes ≈ 25 % s/venta**: después de sueldos, retribución de Rubén,
 >   gestoría y marketing. Rubén validó el *formato* de este ejemplo cuando el resultado
->   era +1.532 €; con la recalibración de mercado el mismo mes pasa a **+6.428 €**.
+>   era +1.532 €; con la recalibración de mercado el mismo mes pasa a **+5.928 €** (con
+>   marketing 650 €/mes, D-0003; era +6.428 € con el `[SUPUESTO]` de 150 €).
 > - **Caja ≠ beneficio**: cobros por hitos 50/20/20/10 y garantía final a ~3 meses.
-> - Sensibilidad: 3 pequeñas → **≈ + 2.900 €**; con precio antiguo 3 pequeñas era −761 €:
+> - Sensibilidad: 3 pequeñas → **≈ + 2.400 €**; con precio antiguo 3 pequeñas era −761 €:
 >   la recalibración hace que incluso un mes a 3 obras sea positivo.
 
 ## 5. Obra grande real (piso ~100 m²) con Grupo 2
@@ -149,15 +150,15 @@ semanas-grupo → con Grupo 2 dedicado ~3–4 meses). Detalle y fuentes en la
 
 1. **El modelo correcto evita las pérdidas estructurales**: los grupos solo se activan
    con cartera firmada (§7–8). Con esa regla y los precios recalibrados, el **caso tipo
-   del año 1 deja ≈ +77.400 €** antes de impuestos y **la caja nunca baja de ≈ 7.000 €**
-   con los 20.000 € de capital.
+   del año 1 deja ≈ +71.900 €** antes de impuestos y **la caja nunca baja de ≈ 6.500 €**
+   con los 20.000 € de capital (marketing 650 €/mes ya incluido, D-0003).
 2. **Contratación**: coste ya calculado (convenio + SS); falta fijar modalidad. El modelo
    encaja con **Grupo 2 por obra determinada** (se activa y renueva con cada grande) y
    Grupo 1 indefinido u obra según prefiera Rubén → a confirmar con la gestoría.
 3. Semanas libres del Grupo 1: apoyo a obra grande o pequeñas de catálogo (pintura,
    suelos) — por eso el alcance no se limita a baños/cocinas (pero no micro-mantenimiento).
 4. Garantía del 10 % e IVA no modelados mes a mes: los absorbe el colchón de caja
-   (mínimo ≈ 7.000 € en el caso tipo); prever liquidez para la primera liquidación
+   (mínimo ≈ 6.500 € en el caso tipo); prever liquidez para la primera liquidación
    trimestral de IVA.
 
 ## 7. Caso tipo del año 1, mes a mes (reglas de Rubén + precios de mercado 2026)
@@ -166,7 +167,7 @@ semanas-grupo → con Grupo 2 dedicado ~3–4 meses). Detalle y fuentes en la
 - **dic-26 / ene-27:** constitución, compras (vehículo 10.000 + herramientas 1.500 +
   constitución 900 + seguros 750) y **campaña de captación** (sin grupo).
 - **feb-27:** se firma la 1.ª obra pequeña → **se agenda y la ejecuta Rubén** (coste del
-  mes ≈ 2.610 €: retribución + fijos). No se contrata a nadie.
+  mes ≈ 3.110 €: retribución + fijos). No se contrata a nadie.
 - **mar-27:** hay **3 obras cerradas** → se **contrata el Grupo 1**.
 - **abr-27:** Grupo 1 a plena carga (4 pequeñas).
 - **may-27:** se firma el **piso 100 m²** → **Grupo 2** (por obra) y la grande (may–jul).
@@ -176,25 +177,26 @@ semanas-grupo → con Grupo 2 dedicado ~3–4 meses). Detalle y fuentes en la
 
 **Números recalibrados a mercado 2026** (devengo, sin IVA): pequeña media venta 5.900 €
 (mat. 2.383 → **contribución ≈ 3.500 €**); piso 100: 37.500 € s/IVA (mat. 11.022 → bruto
-26.478, devengado en 3 meses); estructura = fijos 710 + retribución 1.900 + grupo 5.030.
+26.478, devengado en 3 meses); estructura = fijos 1.210 (incl. marketing 650) + retribución
+1.900 + grupo 5.030.
 
 | Mes | Peq. | Grupo 1 | Grupo 2 | Venta s/IVA | Materiales | Estructura | Resultado | Caja acum. |
 |---|---|---|---|---|---|---|---|---|
-| feb-27 | 1 | — | — | 5.900 | −2.383 | −2.610 | **+907** | 7.047 |
-| mar-27 | 3 | G1 | — | 17.700 | −7.149 | −7.640 | **+2.911** | 9.958 |
-| abr-27 | 4 | G1 | — | 23.600 | −9.532 | −7.640 | **+6.428** | 16.386 |
-| may-27 | 4 | G1 | G2 (grande #1) | 36.100 | −13.206 | −12.670 | **+10.224** | 26.610 |
-| jun-27 | 4 | G1 | G2 (grande #1) | 36.100 | −13.206 | −12.670 | **+10.224** | 36.834 |
-| jul-27 | 4 | G1 | G2 (grande #1) | 36.100 | −13.206 | −12.670 | **+10.224** | 47.058 |
-| ago-27 | 3 | G1 | — | 17.700 | −7.149 | −7.640 | **+2.911** | 49.969 |
-| sep-27 | 4 | G1 | G2 (grande #2) | 36.100 | −13.206 | −12.670 | **+10.224** | 60.193 |
-| oct-27 | 4 | G1 | G2 (grande #2) | 36.100 | −13.206 | −12.670 | **+10.224** | 70.417 |
-| nov-27 | 4 | G1 | G2 (grande #2) | 36.100 | −13.206 | −12.670 | **+10.224** | 80.641 |
-| dic-27 | 3 | G1 | — | 17.700 | −7.149 | −7.640 | **+2.911** | 83.552 |
+| feb-27 | 1 | — | — | 5.900 | −2.383 | −3.110 | **+407** | 6.547 |
+| mar-27 | 3 | G1 | — | 17.700 | −7.149 | −8.140 | **+2.411** | 8.958 |
+| abr-27 | 4 | G1 | — | 23.600 | −9.532 | −8.140 | **+5.928** | 14.886 |
+| may-27 | 4 | G1 | G2 (grande #1) | 36.100 | −13.206 | −13.170 | **+9.724** | 24.610 |
+| jun-27 | 4 | G1 | G2 (grande #1) | 36.100 | −13.206 | −13.170 | **+9.724** | 34.334 |
+| jul-27 | 4 | G1 | G2 (grande #1) | 36.100 | −13.206 | −13.170 | **+9.724** | 44.058 |
+| ago-27 | 3 | G1 | — | 17.700 | −7.149 | −8.140 | **+2.411** | 46.469 |
+| sep-27 | 4 | G1 | G2 (grande #2) | 36.100 | −13.206 | −13.170 | **+9.724** | 56.193 |
+| oct-27 | 4 | G1 | G2 (grande #2) | 36.100 | −13.206 | −13.170 | **+9.724** | 65.917 |
+| nov-27 | 4 | G1 | G2 (grande #2) | 36.100 | −13.206 | −13.170 | **+9.724** | 75.641 |
+| dic-27 | 3 | G1 | — | 17.700 | −7.149 | −8.140 | **+2.411** | 78.052 |
 
 **Totales:** **38 obras pequeñas + 2 pisos 100 m² en cadena → venta ≈ 299.200 € s/IVA
-(≈ 329.000 € c/IVA al 10 %) · resultado ≈ + 77.400 € antes de impuestos · caja siempre
-positiva (mín ≈ 7.000 € en feb; final ≈ 83.500 €).**
+(≈ 329.000 € c/IVA al 10 %) · resultado ≈ + 71.900 € antes de impuestos · caja siempre
+positiva (mín ≈ 6.500 € en feb; final ≈ 78.000 €).**
 
 > Notas: resultado = devengo (la grande se cobra 50/20/20/10). IVA al 10 % en vivienda
 > habitual (a confirmar con gestoría) y 10 % de garantía de cada obra no restados mes a
@@ -218,12 +220,12 @@ positiva (mín ≈ 7.000 € en feb; final ≈ 83.500 €).**
 | Caso | Pequeñas | Grandes | Venta s/IVA | Resultado ≈ |
 |---|---|---|---|---|
 | Cauteloso (arranque más lento) | ~28 | 1 | ≈ 205 k€ | ≈ + 45.000 € |
-| **Caso tipo (objetivo)** | 38 | 2 en cadena | ≈ 299 k€ | ≈ + 77.000 € |
+| **Caso tipo (objetivo)** | 38 | 2 en cadena | ≈ 299 k€ | ≈ + 72.000 € |
 | Con una grande adelantada / chalet | 38 | 2 + chalet | ≈ 380 k€+ | ≈ + 100.000 €+ |
 
 > **Conclusiones:**
 > 1. **El precio de venta era la palanca escondida**: al recalibrar a mercado (+20–30 %),
->    cada obra aporta mucho más y el año 1 pasa de ≈ +12.000 € a ≈ +77.000 € con el mismo
+>    cada obra aporta mucho más y el año 1 pasa de ≈ +12.000 € a ≈ +72.000 € con el mismo
 >    volumen y estructura (Rubén: los presupuestos estaban "20–30 % por debajo de mercado").
 > 2. **El límite real sigue siendo la captación**, pero con precios correctos el margen de
 >    error es enorme: aunque la demanda del año 1 sea la mitad del caso tipo, el negocio
@@ -245,5 +247,7 @@ positiva (mín ≈ 7.000 € en feb; final ≈ 83.500 €).**
 - [ ] Pedir 2–3 presupuestos reales de gremios en A Coruña (solador, electricista,
       fontanero, carpintero) para calibrar el resto de partidas.
 - [ ] Descuentos reales de proveedor de materiales (hoy: precio de tienda sin IVA).
-- [ ] Presupuestos reales: gestoría, seguros, centro, herramientas, marketing.
+- [x] **Marketing / captación decidido (D-0003): 500–800 €/mes, autogestionado** → línea
+      de estructura = 650 €/mes (2026-09-03).
+- [ ] Presupuestos reales: gestoría, seguros, centro, herramientas.
 - [ ] Convertir este caso tipo en **seguimiento mensual real** (previsto vs. ejecutado).
